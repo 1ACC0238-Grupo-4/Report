@@ -1,7 +1,7 @@
 # **Informe Trabajo Final**
 
 <p align="center">
-  <img src="assets/upc_logo.png" alt="Logo de la UPC" />
+  <img src="https://github.com/WorkStation-MarronCoders/Report/raw/main/Imagenes/upc_logo.png" alt="Logo de la UPC" />
 </p>
 
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
