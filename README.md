@@ -237,7 +237,7 @@ Para los servicios externos solo se creo un Repositorio:
 
 ---
 
-### 2.6.3. Bounded Context: Office
+### 2.6.2. Bounded Context: Office
 
 Office es el principal contexto que se utiliza en la aplicacion, debido a que es donde se manejan la creacion de las oficinas, las reservas, los servicios ofrecidos y cuando es que sera posible de reservar nuevamente.l
 
@@ -246,7 +246,7 @@ Office es el principal contexto que se utiliza en la aplicacion, debido a que es
 **Atributos y metodos:** Los atributos que posee son: OfficeId, Location, Description, ImageUrl, Capacity, CostPerDay, IsActive, Available y Services. Los metodos principales que posee son los de CreateOffice(), UpdateOffice(), DeleteOffice(), asimismo de la creacion de Servicios de oficinas. En cuanto a los Queries, poseen GetAllOffices, GetOfficeById y GetOfficeByLocation.
 **Relaciones:** Mantiene una relacion las clases de Users y Rating debido a que las oficinas solo pueden tener un dueño y tener muchos ratings.
 
-#### 2.6.3.1. Domain Layer
+#### 2.6.2.1. Domain Layer
 
 En esta seccion se ira mas a profundidad acerca de lo que posee la capa del Dominio.
 
@@ -255,76 +255,87 @@ En esta seccion se ira mas a profundidad acerca de lo que posee la capa del Domi
 **Domain Services:** Los servicios son tales como el Create, Delete, Update por parte de las oficinas y los servicios de las oficinas.
 **Repositories**: Se accedio por los datos por medio de un Repositorio, IOfficeRepository con los emtodos de GetByLocationAsync.
 
-#### 2.6.3.2. Interface Layer
+#### 2.6.2.2. Interface Layer
 
 Las clases de presentacion que se crearon para la presentacion de los usuarios fue utilizando REST ademas de utilizar recursos y transformadores para que se muestre solo la informacion requerida.
 
 **Controllers:** El OfficeController posee endpoints como GetAllOfficesAsync, GetOfficeByIdAsync, GetOfficeByLocationAsync, CreateOfficeAsync, UpdateOfficeAsync y DeleteOfficeAsync.
 **Resources and Transformers:** Los recursos que se crearon para este contexto fue el de OfficeResource que posee Location, Description, ImageUrl, Capacity, CostPerDay, Available y una lista de OfficesResource, que posee a su vez: Name, Description y Cost. Asimismo se creo un transformador para recibir la misma informacion desde el otro lado donde se use la API.
 
-#### 2.6.3.3. Application Layer
+#### 2.6.2.3. Application Layer
 
-Para manejar los procesos de negocio, aqui se encuentran los servicios de Comandos, Queries y Hash.
+Para manejar los procesos de negocio, aqui se encuentran los servicios de Comandos y Queries.
 
 **Commandos:** OfficeCommand posee los comandos basicos mencionados con anterioridad (create, update y delete) ademas de poseer validaciones con los datos que se ingresan en la aplicacion.
 **Queries:** OfficeQueryService posee dos metodos, GetAllOfficesQuery, GetOfficeByIdQuery y GetOfficeByLocation estos se usan para algunas validaciones o para mostrar datos por medio de la capa de Interfaz.
 
-#### 2.6.3.4. Infrastructure Layer
+#### 2.6.2.4. Infrastructure Layer
 
 Para los servicios externos solo se creo un Repositorio:
 
 **Repositorio:** OfficeRepository maneja la informacion para verificaciones de Location.
 
-#### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
 
 ![ComponentDiagram2](https://github.com/WorkStation-MarronCoders/Report/raw/main/Imagenes/DDD5_officeAP.png)
 
-#### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
+#### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
+##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 
 ![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417678179551805551/XLFTJi8m5BxVKpIx0dKNtYu4mM4C2Vv4vG5ATo0dwTQbFP0OzDrjj-Ceq-WDhD_vThwVT3D7qjA-qedIqZbnAntSrOJqBew949TYMOfStE-nR4-51KbGBloFXyFV6rRGZXvCYLlyCRjfXsi7jjs4DNL0KuP5CTunbswk20zXnSOOdNmcxEnfkqK5x6fbb2GqjMSvibZlMdG1JbbipWQy.png?ex=68cb5b31&is=68ca09b1&hm=827dff612fb42a3147106daea4b2674a016ddac888f9fbcfb2567d488ec9c255&=&format=webp&quality=lossless)
 
-##### 2.6.3.6.2. Bounded Context Database Design Diagram
+##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
 ![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417678179551805551/XLFTJi8m5BxVKpIx0dKNtYu4mM4C2Vv4vG5ATo0dwTQbFP0OzDrjj-Ceq-WDhD_vThwVT3D7qjA-qedIqZbnAntSrOJqBew949TYMOfStE-nR4-51KbGBloFXyFV6rRGZXvCYLlyCRjfXsi7jjs4DNL0KuP5CTunbswk20zXnSOOdNmcxEnfkqK5x6fbb2GqjMSvibZlMdG1JbbipWQy.png?ex=68cb5b31&is=68ca09b1&hm=827dff612fb42a3147106daea4b2674a016ddac888f9fbcfb2567d488ec9c255&=&format=webp&quality=lossless)
 
 ---
 
-### 2.6.4. Bounded Context: Messaging
+### 2.6.3. Bounded Context: Rating
 
-#### 2.6.4.1. Domain Layer
+Rating es el contexto que se utiliza en la aplicacion para dar una opiniion acerca de la oficins que han entrado en el estado de renta. Esta tiene conexion con la clase de Office.
 
-#### 2.6.4.2. Interface Layer
+**Nombre de la clase:** Rating
+**Proposito:** Albergar la informacion de las opiniones de oficinas que se registren por parte de los Usuarios que van a pagar por esas oficinas.
+**Atributos y metodos:** Los atributos que posee son: RatingId, Score, Content, OfficeId y CreatedAt. Los metodos principales que posee son los de CreateRating() y GetRatingsByOffice().
+**Relaciones:** Mantiene una relacion las clases de Users y Office debido a que las oficinas pueden tener muchas opiniones.
 
-#### 2.6.4.3. Application Layer
+#### 2.6.3.1. Domain Layer
 
-#### 2.6.4.4. Infrastructure Layer
+En esta seccion se ira mas a profundidad acerca de lo que posee la capa del Dominio.
 
-#### 2.6.4.5. Bounded Context Software Architecture Component Level Diagrams
+**Entidades:** Las entidades que posee este contexto son: Ratinh
+**Domain Services:** Los servicios son tales como el Create y el GetRatingsByOffice.
+**Repositories**: Se accedio por los datos por medio de un Repositorio, IratingRepository con los emtodos de GetByOfficeIdAsync.
 
-#### 2.6.4.6. Bounded Context Software Architecture Code Level Diagrams
+#### 2.6.3.2. Interface Layer
 
-##### 2.6.4.6.1. Bounded Context Domain Layer Class Diagrams
+Las clases de presentacion que se crearon para la presentacion de los usuarios fue utilizando REST.
 
-##### 2.6.4.6.2. Bounded Context Database Design Diagram
+**Controllers:** El RatingController posee endpoints como CreateRatingAsync, GetRatingsByOfficeAsync y GetAverageRatingByOfficeAsync.
 
----
+#### 2.6.3.3. Application Layer
 
-### 2.6.6. Bounded Context: Rating
+Para manejar los procesos de negocio, aqui se encuentran los servicios de Comandos.
 
-#### 2.6.6.1. Domain Layer
+**Commandos:** RatingCommandService posee un unico comando que seria el de CreateRatingAsync.
 
-#### 2.6.6.2. Interface Layer
+#### 2.6.3.4. Infrastructure Layer
 
-#### 2.6.6.3. Application Layer
+Para los servicios externos solo se creo un Repositorio:
 
-#### 2.6.6.4. Infrastructure Layer
+**Repositorio:** RatingRepository maneja la informacion para verificaciones de GetByOfficeIdAsync.
 
-#### 2.6.6.5. Bounded Context Software Architecture Component Level Diagrams
+#### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-#### 2.6.6.6. Bounded Context Software Architecture Code Level Diagrams
+![ComponentDiagram3](https://github.com/WorkStation-MarronCoders/Report/blob/main/Imagenes/DDD_rating.png)
 
-##### 2.6.6.6.1. Bounded Context Domain Layer Class Diagrams
+#### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 2.6.6.6.2. Bounded Context Database Design Diagram
+##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
+
+![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919309644173485/ZPBFRi8m38VlVOgeHwOUTaM8ZPLfGc9_DCO3cDGWIsc24eCqRNltfKaKXNBOJj3Fxi-Vqzmx1ikdNbLIWNFY0Hm-QYR-55-L43TYrOcfU3fH5vvQYy3OBO7Hu-7dWteCfMVJqPwkQdUXk7LeGn9fZk3O3K4bZvqhjv1CP_HiPuogVgfazhhVayHajJOIc8psNOujwKEWItJIql6Ya5.png?ex=68cc3bc3&is=68caea43&hm=91c93664e3ba518334629a459bbee1a020b7da11bd92298a6cfab04759cd83ba&=&format=webp&quality=lossless&width=794&height=906)
+
+##### 2.6.3.6.2. Bounded Context Database Design Diagram
+
+![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919310386692237/fLDHQy8m47xlhmXzqZ57tUYBYEXqGj4vcVW3pkJKG9kw91Q6tNzVqgurb3d7zj8cztrtztt7PQWqI7rCOW-5vlgT-8-WyAau-mGKsPZh5tJo2BaX4ICzSXJyxOYSMMJBKP9-VpaR30nXB14qiedv61upFyqJDC1poYorYP35UZuty5gXB4fpeUtrO0dCZLRCI8sevfajik7Q-_1gwI.png?ex=68cc3bc3&is=68caea43&hm=e59e084fc66b78eac7c77d783c44f1692bc6746af9165ab1065e24c50bfd379c&=&format=webp&quality=lossless&width=1176&height=906)
