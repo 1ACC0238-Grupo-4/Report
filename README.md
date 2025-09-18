@@ -20,9 +20,9 @@ Aplicaciones para dispositivos moviles <br>
 <div align="center">
 
 | **Member**               | **Code**   |
-| ------------------------ | ---------- |
+|--------------------------|------------|
 | Rodrigo Liberato Saldana | U202215623 |
-|                          |            |
+| Berrocal Ramirez Omar    | U20201B529 |
 |                          |            |
 |                          |            |
 |                          |            |
@@ -97,6 +97,13 @@ Aplicaciones para dispositivos moviles <br>
 ---
 
 ## Student Outcome (ver anexo A)
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
+
+| Criterio específico                                                                                                                     | Acciones realizadas | Conclusiones |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------|
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. |                     |              |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  |                     |              |
 
 ## Objetivos SMART
 
