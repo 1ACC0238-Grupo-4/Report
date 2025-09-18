@@ -111,10 +111,28 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## 1.1. Startup Profile
 
+En esta sección se describe la startup, su misión, visión y los perfiles de los integrantes del equipo.
+
 ### 1.1.1. Descripción de la Startup
 
-### 1.1.2. Perfiles de integrantes del equipo
+**PinkCell Coders** es una startup de tecnología que se especializa en el desarrollar aplicaciones móviles innovadoras y soluciones de software personalizadas en el sector del coworking con la aplicación WorkStation. Este aplicativo móvil está diseñada para facilitar  la reserva eficiente de espacios de trabajo en oficinas compartidas. Su propósito es conectar a freelancers, trabajadores remotos, startups y empresas de todos los tamaños con espacios de coworking disponibles en su ciudad o alrededor del mundo.
+Con una cultura basada en métodos ágiles y la experiencia de usuario, PinkCellCoders aspira a ser un referente a nivel regional en el desarrollo de soluciones tecnológicas que impulsen la productividad y la colaboración en el entorno laboral moderno.
 
+**Misión:** 
+
+Construir soluciones digitales innovadoras que transformen la forma en que las personas trabajan, colaboran y se conectan en el entorno laboral moderno.
+
+**Visión:**
+
+Ser una startup referente en el desarrollo de soluciones digitales para espacios de coworking, que brinda a los usuarios una experiencia ágil, confiable, personalizada y una solución de gestión eficiente que maximice los beneficios de los usuarios.
+### 1.1.2. Perfiles de integrantes del equipo
+| Foto                                           | Alumno                          | Descripción                                                                                                                                           |
+|------------------------------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Omar](assets\chapter-I\Intergrante-Omar.jpg) | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
+|                                                |                                 |                                                                                                                                                       |
+|                                                |                                 ||
+|                                                |                                 ||
+|                                                |                                 ||
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
