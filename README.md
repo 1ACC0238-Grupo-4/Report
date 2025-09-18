@@ -177,6 +177,17 @@ Para definir la problemática se aplicó la técnica de las 5W y 2H
 
 #### 1.2.2.1. Lean UX Problem Statements
 
+El proyecto WorkStation se desarrolla en el dominio de los espacios de trabajo compartidos (coworking), una industria en expansión que responde a la evolución del trabajo remoto, el crecimiento del autoempleo y la economía de los servicios digitales. A pesar de esta expansión, la interacción entre la oferta (espacios disponibles) y la demanda (profesionales independientes o empresas en crecimiento) aún se encuentra fragmentada y desorganizada, especialmente en el mercado peruano, donde no existen plataformas digitales de gran alcance que faciliten esta conexión de manera eficiente.
+
+#### Problem Statement - Freelancers y Startups
+
+Actualmente, no existe una plataforma digital centralizada que les permita comparar opciones según ubicación, precio y servicios. El proceso de reserva suele ser informal, poco transparente y lento, lo que afecta su productividad y experiencia de trabajo. Este segmento, compuesto por personas entre 22 y 40 años, prioriza la autonomía, la conectividad y la comodidad, y espera soluciones digitales ágiles y confiables.
+
+#### Problem Statement - Propietarios de Espacios Coworking
+
+Los propietarios y administradores de espacios coworking en Lima carecen de herramientas digitales para gestionar sus instalaciones y atraer clientes de forma efectiva.
+La mayoría depende de canales informales como redes sociales o WhatsApp, lo que limita su visibilidad y genera pérdida de ingresos por baja ocupación. Además, no cuentan con sistemas para gestionar disponibilidad en tiempo real ni para automatizar reservas, lo que dificulta la operación diaria y la escalabilidad de sus negocios.
+
 #### 1.2.2.2. Lean UX Assumptions
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
