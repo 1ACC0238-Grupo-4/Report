@@ -145,8 +145,8 @@ Aplicaciones para dispositivos moviles <br>
 ### 2.3.1. User Personas
 En esta sección hemos considerado dos perfiles de usuario que representan a los segmentos objetivo mencionados previamente: los propietarios de inmuebles y los trabajadores independientes.
 
-![Seg1](assets\chapter-I\PropietarioInmueble.png)
-![Seg2](assets\chapter-I\TrabajadorIndependiente.png)
+![Seg1](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/PropietarioInmueble.png)
+![Seg2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/TrabajadorIndependiente.png)
 
 ### 2.3.2. User Task Matrix
 Estamos considerando los segmentos objetivos "Propietario de Inmueble" y "Trabajador independiente" como fueron definidos anteriormente como User Persona
@@ -168,11 +168,11 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ### 2.3.3. User Journey Mapping
 
-![JM](assets\chapter-I\CustomerJourneyMap.png)
+![JM](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/CustomerJourneyMap.png)
 
 ### 2.3.4. Empathy Mapping
 
-![EM](assets\chapter-I\EmpathyMap.png)
+![EM](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/EmpathyMap.png)
 
 ### 2.3.5. Ubiquitous Language
 
@@ -255,6 +255,8 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 | EP-05   | Seguridad de la aplicacion  | Esta enfocado en ofrecer un entorno seguro y confiable para los usuarios, garantizando la protección de datos y la privacidad en todas las transacciones.                   |
 
 ### 2.4.2. Impact Mapping
+
+![ImpactMap](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/ImpactMapping.jpg)
 
 ### 2.4.3. Product Backlog
 
