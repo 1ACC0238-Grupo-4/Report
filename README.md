@@ -190,7 +190,48 @@ La mayoría depende de canales informales como redes sociales o WhatsApp, lo que
 
 #### 1.2.2.2. Lean UX Assumptions
 
+***Business Assumptions:***
+
+- El mercado peruano de coworking está en expansión pero carece de soluciones digitales consolidadas.
+- La digitalización de la gestión de espacios coworking mejorará la eficiencia operativa y aumentará la ocupación.
+- Los propietarios de coworkings necesitan mayor visibilidad y eficiencia en la gestión de reservas.
+- El modelo de monetización por comisión por reserva es viable en este contexto.
+- La adopción de una plataforma digital será más rápida si se inicia con alianzas estratégicas en distritos clave.
+
+***User Assumptions:***
+- Los usuarios freelancers requieren flexibilidad y comodidad en sus espacios de trabajo.
+- La búsqueda y reserva de espacios de coworking es actualmente un proceso fragmentado y poco confiable.
+- Los usuarios están dispuestos a pagar por una solución eficiente, confiable y fácil de usar.
+- Prefieren plataformas digitales que les permitan comparar opciones y gestionar sus reservas rápidamente.
+
+***Business Outcome Assumptions:***
+- La plataforma aumentará la visibilidad y ocupación de los espacios coworking aliados.
+- Se reducirá la dependencia de canales informales como redes sociales y WhatsApp.
+- Se generará un flujo constante de ingresos por comisiones de reserva.
+- Se obtendrán datos útiles para mejorar la oferta y escalar el negocio.
+
+***User Outcome Assumptions:***
+- Los usuarios podrán encontrar y reservar espacios de coworking de forma más rápida, transparente y confiable.
+- Tendrán acceso a filtros útiles para tomar decisiones informadas.
+- La experiencia de reserva será más cómoda y eficiente.
+- Los propietarios podrán gestionar disponibilidad en tiempo real y mejorar la experiencia del cliente.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Si desarrollamos una plataforma digital para coworkings, entonces los propietarios podrán aumentar la visibilidad de sus espacios y mejorar la eficiencia operativa.
+- Si implementamos un modelo de monetización por comisión por reserva, entonces generaremos ingresos sostenibles a medida que crece la adopción.
+- Si nos aliamos con coworkings emergentes en Lima, entonces podremos validar rápidamente nuestra propuesta de valor y escalar el negocio.
+- Si ofrecemos herramientas analíticas a los propietarios, entonces podrán tomar decisiones más informadas para optimizar sus espacios.
+- Si ofrecemos una plataforma centralizada con filtros por ubicación, precio y servicios, entonces los freelancers y startups encontrarán espacios de coworking más fácilmente.
+- Si el proceso de reserva es rápido, transparente y confiable, entonces los usuarios estarán dispuestos a pagar por usar la plataforma.
+- Si los usuarios pueden gestionar sus reservas desde dispositivos móviles, entonces aumentará la frecuencia de uso y la satisfacción.
+- Si los propietarios pueden gestionar disponibilidad en tiempo real, entonces reducirán la pérdida de ingresos por espacios vacíos.
+- Si lanzamos el MVP con funcionalidades clave, entonces podremos validar la demanda y ajustar el producto según el comportamiento del mercado.
+- Si logramos una adopción inicial en distritos clave como Miraflores, Barranco y San Isidro, entonces podremos escalar a otras zonas de Lima.
+- Si la plataforma mejora la ocupación de los espacios, entonces los propietarios estarán dispuestos a pagar por funcionalidades premium.
+- Si los usuarios encuentran espacios adecuados de forma rápida y confiable, entonces aumentará su satisfacción y fidelización.
+- Si los propietarios ven mejoras en la gestión y ocupación, entonces recomendarán la plataforma a otros coworkings.
+- Si la experiencia de reserva es superior a los canales informales, entonces los usuarios migrarán desde redes sociales y WhatsApp hacia WorkStation.
 
 #### 1.2.2.4. Lean UX Canvas
 
