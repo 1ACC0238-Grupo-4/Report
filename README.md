@@ -12,7 +12,7 @@ Aplicaciones para dispositivos moviles <br>
 
 <h2 align="center">INFORME</h2>
 
-<h3 align="center">Startup: Grupo 3</h3>
+<h3 align="center">Startup: PinkCell Coders</h3>
 <p align="center"><strong>Producto: Workstation</strong></p>
 
 <h3 align="center">Team Members:</h3>
