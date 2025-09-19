@@ -128,17 +128,270 @@ Aplicaciones para dispositivos moviles <br>
 
 ## 2.1. Competidores
 
+**WeWork:**
+WeWork, fundada en 2010 en Nueva York por Adam Neumann y Miguel McKelvey, empezó como una startup de espacios de coworking. Su modelo de negocio se basaba en alquilar oficinas a largo plazo, rediseñarlas como espacios colaborativos y flexibles, y alquilarlas a empresas, freelancers y emprendedores a corto plazo.
+
+La compañía creció rápidamente, alcanzando una valoración de $47 mil millones en 2019. Sin embargo su estruendoso intento de salir a la bolsa fracaso debido a la mala gestión y al modelo insostenible que la compañía tenia, además uno de sus fundadores renuncio. Todo esto llevo que WeWork a declararse en bancarrota en noviembre de 2023. Actualmente, bajo la nueva dirección de SoftBank, busca reestructurarse y enfocarse en rentabilidad.
+
+**Spaces:**
+Spaces fue fundada en 2008 en Ámsterdam (Países Bajos) como una marca de espacios de coworking y oficinas flexibles, enfocada en diseño innovador y comunidad. En 2016, fue adquirida por IWG plc, lo que le permitió expandirse globalmente con mayor respaldo financiero.
+
+**CoWorker:**
+
+Coworker.com es una plataforma global de búsqueda y comparación de espacios de coworking, fundada en 2015 por Leanne Beesley y Sam Marks . A diferencia de WeWork o Spaces, Coworker no opera sus propios espacios, sino que funciona como un marketplace que conecta a usuarios con miles de espacios de coworking en todo el mundo.
+
+La plataforma surgió para resolver un problema clave: la falta de transparencia y acceso a información sobre espacios de trabajo flexibles. Hoy, Coworker.com lista más de 20,000 espacios en 170+ países, ofreciendo reseñas, precios y disponibilidad en tiempo real.
+
+**Oficinas YA!**
+
+Oficinas YA! es una plataforma líder en América Latina especializada en la búsqueda, comparación y arrendamiento de oficinas y espacios de coworking. Fue fundada en 2015 en México y se ha expandido a otros países como Colombia, Argentina y Chile, con un enfoque en facilitar el proceso de encontrar espacios de trabajo flexibles para empresas y profesionales.
+
 ### 2.1.1. Análisis competitivo
 
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr>
+    <th colspan="7">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Identificar qué ventajas comerciales podemos obtener frente a los competidores: funcionalidades, estrategias de marketing o productos que podríamos integrar para consolidarnos como un competidor estable dentro del mercado.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Comparación por criterios estratégicos, funcionales y de mercado.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Productos</td>
+    <td>WorkStation</td>
+    <td>WeWork</td>
+    <td>Spaces</td>
+    <td>Coworker</td>
+    <td>Oficinas Ya!</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Aplicación web y móvil que conecta empresas, freelancers y startups con espacios de coworking a nivel global.</td>
+    <td>Multinacional con espacios propios de coworking y oficinas flexibles.</td>
+    <td>Marca de IWG con diseño innovador y red internacional de coworking.</td>
+    <td>Marketplace global que permite buscar, comparar y reservar coworking en más de 170 países.</td>
+    <td>Plataforma regional de oficinas físicas y virtuales en Latinoamérica.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva</td>
+    <td>Conexión en tiempo real con espacios, búsqueda avanzada, comparaciones, fotos, servicios y valoraciones.</td>
+    <td>Comunidad global, networking, espacios modernos y flexibles.</td>
+    <td>Flexibilidad contractual, diseño premiado, respaldo financiero de IWG.</td>
+    <td>Base de datos global, reseñas transparentes, recursos para nómadas digitales y membresía “Coworker Pass”.</td>
+    <td>Tours virtuales 360°, oficinas virtuales y contratos ultraflexibles desde horas hasta meses.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Startups, freelancers, nómadas digitales y propietarios de inmuebles.</td>
+    <td>Startups, freelancers y corporativos globales.</td>
+    <td>Startups y empresas que buscan espacios premium con respaldo internacional.</td>
+    <td>Startups y nómadas digitales con foco global.</td>
+    <td>Startups y empresas regionales en LATAM.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de Marketing</td>
+    <td>Google Ads, redes sociales (Facebook, Instagram, Telegram) y comunidades digitales.</td>
+    <td>Eventos con socios (Microsoft, Salesforce), redes sociales y SEO.</td>
+    <td>Marketing experiencial, alianzas estratégicas y eventos locales.</td>
+    <td>SEO optimizado, reportes sobre coworking, alianzas con Selina, Outside y Airbnb for Work.</td>
+    <td>Google Ads, remarketing, LinkedIn/Facebook y alianzas con inmobiliarias.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos & Servicios</td>
+    <td>Plataforma que conecta usuarios con propietarios de oficinas y coworking.</td>
+    <td>Espacios propios de coworking, oficinas privadas, escritorios y salas de reunión.</td>
+    <td>Oficinas premium con planes flexibles y diseño innovador.</td>
+    <td>Marketplace internacional de coworking con guías y recursos para nómadas digitales.</td>
+    <td>Oficinas físicas y virtuales con atención personalizada.</td>
+  </tr>
+  <tr>
+    <td>Precios & Costos</td>
+    <td>Definidos por propietarios; descuentos y beneficios con membresías.</td>
+    <td>Escritorios $250–$500, oficinas privadas $800–$3000, pases diarios $25–$30.</td>
+    <td>Membresía “Spaces Global Pass” ($400–$800); precios varían según ubicación.</td>
+    <td>Búsqueda gratuita; membresía premium alrededor de $50.</td>
+    <td>Comisión del 10–20% a los espacios listados.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Web.</td>
+    <td>Web y aplicación móvil (iOS/Android).</td>
+    <td>Web, móvil y ventas B2B mediante alianzas corporativas.</td>
+    <td>Web, móvil y red de afiliados internacionales.</td>
+    <td>Web, móvil, agentes telefónicos y alianzas con inmobiliarias.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Innovación, modelo escalable, precios flexibles.</td>
+    <td>Reconocimiento global, comunidad activa, diseño innovador.</td>
+    <td>Respaldo financiero, diseño premium y red global.</td>
+    <td>Escalable sin operar espacios físicos, base de datos global, atractivo para nómadas digitales.</td>
+    <td>Conocimiento del mercado LATAM, red local de espacios, asesoría personalizada.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Pocos recursos, sin alianzas sólidas, poco reconocimiento.</td>
+    <td>Altos costos de arrendamiento, mala gestión histórica, pérdida de confianza post-bancarrota.</td>
+    <td>Menor reconocimiento global que WeWork, precios más altos, menor foco en comunidad.</td>
+    <td>Dependencia de terceros, menor reconocimiento global, competencia con otras plataformas.</td>
+    <td>Alcance limitado fuera de la región, dependencia de calidad de espacios listados.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Expansión en LATAM, alianzas estratégicas y nuevas propuestas.</td>
+    <td>Modelo híbrido post-pandemia, expansión a mercados emergentes, alianzas con gobiernos.</td>
+    <td>Demanda creciente de espacios híbridos, expansión en LATAM y Asia, sinergias corporativas.</td>
+    <td>Crecimiento del trabajo remoto, alianzas con gobiernos y destinos workation.</td>
+    <td>Crecimiento del coworking en LATAM, alianzas con gobiernos y ciudades secundarias.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competencia consolidada, pocos recursos, cambios en tendencias laborales.</td>
+    <td>Competencia (Spaces, actores locales), crisis económicas, cambios laborales.</td>
+    <td>Competencia con WeWork y locales; recesión económica.</td>
+    <td>Saturación del mercado, preferencia por reservas directas, competencia de plataformas grandes (Airbnb).</td>
+    <td>Entrada de competidores globales, crisis económicas, baja demanda.</td>
+  </tr>
+</table>
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+
+| **_MATRIZ FODA y C.A.M.E_**                                                   | **Oportunidades:** Modelo hibrido post pandemia                                                                                                                                               | **Amenazas:** posibles cambios a trabajo remoto permanentemente                                                                                                |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Fortalezas:** Innovacion, publico objetivo más amplio y mayor escalabilidad | Debido al modelo hibrido podríamos expandirnos debido a que nuestro publico objetivo llega a ser mas amplio que otros competidores, además de poder innovar en este mercado no tan explorado. | Tener en cuenta que habran mas espacios libres para otros rubros, por lo que se podrian usar de maneras diferentes en otras actividades que puedan ser utiles. |
+| **Debilidades:** Sin alianzas poderosas como los competidores.                | Utilizar la oportunidad de modelo hibrido para promocionar nuestra aplicación a otras y así poder formar alianzas que puedan apoyar al crecimiento de nuestra startup                         | Debido al posible cambio a trabajo remoto permanente, las alianzas que se puedan tener en un futuro pueden seguir utilizandolas para otros rubros.             |
+
 
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
 
+**PROPIETARIOS DE INMUEBLES**
+
+- Nombre completo
+- Edad
+- Distrito de residencia
+- Profesión
+- Actualmente, ¿tiene propiedades adicionales disponibles o sin uso en su vivienda actual?
+- ¿Qué hace con esa(s) propiedad(es)? ¿Tiene algo planeado para hacer?
+- ¿Qué piensa de los alquileres de oficina como espacios de coworking?
+- ¿Qué opinaría de una aplicación que conecta a dueños de espacios en alquiler con empresas que buscan alquilar estos espacios? Estaría dispuesto(a) a usarla?
+- ¿Qué beneficios le gustaría tener a usted dentro de el trato entre usted y la compañía que trabaje en la propiedad?
+- ¿Qué comportamientos o hábitos no estarían dispuesto(a) a aceptar de la compañía/startup que trabaje en su propiedad?
+- ¿Qué funcionalidades le gustaría que tenga esta aplicación web?
+- ¿De que manera buscaría hacer este espacio uno seguro para ambos?
+
+**FREELANCERS/STARTUPS**
+
+- Nombre completo
+- Edad
+- Distrito de residencia
+- Profesión
+- Actualmente, ¿desde donde trabaja?
+- Cree que el lugar donde trabajan afecta la productividad de su trabajo?
+- ¿Qué es lo que busca en un lugar de trabajo?
+- ¿Ha escuchado hablar de los espacios de coworking?
+- ¿Qué opinaría de alquilar un espacio destinado para trabajar?
+- ¿Qué opinaría de una aplicación que le ofrezca la posibilidad de conectarlo con varios de estos espacios disponibles?
+- ¿Qué funcionalidades cree que debería tener una aplicación como esta?
+- ¿De que manera buscaría hacer este espacio uno seguro para ambas partes?
+
+
 ### 2.2.2. Registro de entrevistas
 
+**Segmento 1**
+Enlace del video de la entrevista:
+
+[![Demo en YouTube](https://img.youtube.com/vi/1GPReTfneu4/0.jpg)](https://www.youtube.com/watch?v=1GPReTfneu4)
+
+**Entrevistada:** Marjorie Luna Victoria  
+**Edad:** 22 años  
+**Ocupación:** Diseñadora gráfica  
+**Ubicación:** Lima – Miraflores  
+**Medio:** Meet  
+**Entrevistador:** Jorge Díaz
+
+🎬 **Inicio del video:** 0:04  
+⏱️ **Duración:** 3 minutos y 42 segundos
+
+Enlace del video de la entrevista:
+
+[![Demo en YouTube](https://img.youtube.com/vi/hwdyWXskYcs/0.jpg)](https://www.youtube.com/watch?v=hwdyWXskYcs&ab_channel=NPCbas)
+
+**Entrevistada:** Arlene Gutarra Velapatiño  
+**Edad:** 22 años  
+**Ocupación:** Estudiante de la carrera de Danza  
+**Ubicación:** Lima – San Juan de Lurigancho  
+**Medio:** Zoom  
+**Entrevistador:** Sebastián Gutarra
+
+🎬 **Inicio del video:** 0:04  
+⏱️ **Duración:** 6 minutos y 23 segundos
+
+Enlace del video de la entrevista:
+[![Entrevista Danithza del Pino](Imagenes/Entrevista-Freelancer-1.png)](https://youtu.be/F3gz5at9sc4)
+**Entrevistada:** Danithza del Pino
+**Edad:** 28 años  
+**Ocupación:** Estudiante de la carrera de Danza  
+**Ubicación:** Lima – La Molina  
+**Medio:** Zoom  
+**Entrevistador:** Emilia Durán
+
+Entrevista a Propietario de inmuebles:
+
+![Img propietario1](Imagenes/Propietario1.png)
+
+**Entrevistada:** Carlos Alfredo Juarez Adanaque  
+**Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EdU9VOslalpKiKT-t0m66gMBmi1Xhl03H6JkroZCMl3Img?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JREsKE)
+
+![Img propietario2](Imagenes/Propietaria2.png)
+
+**Entrevistada:** Alejandra Izaguirre  
+**Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EZQz2DANI71MkOrpc1fJq3EBIRLd8PZ4sQAEEFybRm3YOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t6qB71)
+
+**Segmento 2**
+
+![Img propietario2](Imagenes/Entrevista-Miguel.png)
+
+**Link de la entrevista:** [Link-Entrevista](https://youtu.be/SHj6_AyGAPc)
+**Entrevistado:** Miguel Quijada
+**Edad:** 43 años  
+**Ocupación:** Ingeniero de Software
+**Ubicación:** Lima – Ate  
+**Medio:** Zoom  
+**Entrevistador:** Jeremy Quijada
+
 ### 2.2.3. Análisis de entrevistas
+
+#### Freelancers
+
+En las entrevistas para este segmento objetivo, los usuarios han utilizado con anterioridad espacios coworking para trabajar en las empresas que trabajan o de forma independiente para sus propias necesidades. Con las preguntas hemos logrado identificar que ellos estarian interesados en una aplicacion como esta y añaden que las funcionalidades que se esperan son las siguientes:
+
+- Localicacion de espacios de trabajo
+- Filtros de busqueda personalizados (Filtros como, cantidad de aforo, funcionalidad del espacio y facilidades servicios incluidos (Wi-Fi, café, impresoras, etc.))
+- Valoraciones por otros usuarios
+- Fotos de los inmuebles
+- Calendario de disponibilidad para reservas
+
+#### Propietarios de inmuebles
+
+En las entrevistas de este segmento objetivo, recalcan que la aplicacion seria de mucha ayuda para encontrar a los inquilinos correctos de manera rapida, debido a que pueden decidir de una gran variedad de personas o empresas para que puedan usar estos lugares. Asimismo, Creen que la aplicacion web deberia ser de facil entendimiento para que puedan recibir los pagos adecuadamente. Algunas funcionalidades que agregaron para la aplicacion serian las siguientes:
+
+- Contrato flexible
+- Que se pueda modificar las publicaciones de manera sencilla
+- Verificacion de perfiles para mas seguridad
+- Sistema de pago seguro
+- Chat para que haya una comunicacion activa
+
 
 ## 2.3. Needfinding
 
