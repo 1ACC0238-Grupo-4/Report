@@ -23,7 +23,7 @@ Aplicaciones para dispositivos moviles <br>
 |--------------------------|------------|
 | Rodrigo Liberato Saldana | U202215623 |
 | Berrocal Ramirez Omar    | U20201B529 |
-|                          |            |
+| Adriana Maria Diestra Zambrano | U202218110|
 |                          |            |
 |                          |            |
 
@@ -130,7 +130,7 @@ Ser una startup referente en el desarrollo de soluciones digitales para espacios
 |------------------------------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Omar](assets\chapter-I\Intergrante-Omar.jpg) | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
 |                                                |                                 |                                                                                                                                                       |
-|                                                |                                 ||
+|                                                | Adriana Maria Diestra Zambrano | Estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo. |
 |                                                |                                 ||
 |                                                |                                 ||
 ## 1.2. Solution Profile
