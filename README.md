@@ -33,7 +33,34 @@ Aplicaciones para dispositivos moviles <br>
 
 # Registro de Versiones del Informe
 
+
+| Versión | Fecha      | Autor                    | Descripción de modificación           |
+|---------|------------|--------------------------|---------------------------------------|
+| 0.1     | 13/09/2025 | Rodrigo Liberato Saldana | Se presentó la estructura del informe |
+| 0.2     | 18/09/2025 | Moises Espinoza Chavez   | Se agregaron los bounded context      |
+| 0.3     | 19/09/2025 | Omar Berrocal Ramirez    | Se añadió la sección de Lean UX       |
+| 0.4     | 19/09/2025 | Adriana Diestra Zambrano | Se añadió la sección de Needfinding   |
+| 0.5     | 19/09/2025 | Moises Espinoza Chavez   | Se añadió la sección de Arquitectura  |
+| 1.0     | 19/09/2025 | Omar Berrocal            | Se realizó los insights y el outcome  |
+
+
 # Project Report Collaboration Insights
+
+Link de la organización: https://github.com/1ACC0238-Grupo-4
+
+Link del repositorio del informe: https://github.com/1ACC0238-Grupo-4/Report
+
+### Reporte de Colaboración para la entrega del TB1
+
+En esta primera entrega se redactó el informe del proyecto hasta el punto 2.6.3.6.2 (Bounded Context Domain Layer Class Diagrams).  Durante este proceso se realizaron diversas actividades, siendo las más relevantes: la definición de los antecedentes y problematicas identificados, la implementación del Lean UX Canvas, analisis de competidores, creación de artefactos (User Personas, Task Matrix, etc), redacción de User Stories, Event Storming, diseño de los diagramas C4 Model (Contexto y Contenedores) y diagramas de los Bounded Context.
+
+Para evidenciar nuestros avances y la colaboración en el proyecto, se utilizó GitHub como plataforma principal de gestión de versiones y control de cambios. A continuación, se presentan algunos insights relevantes sobre la colaboración en el desarrollo del informe:
+
+#### Contributors
+
+En este insight se puede evidenciar las contribuciones de cada miembro del equipo en el repositorio del informe durante la primera entrega. Se puede ver la cantidad de commits, líneas añadidas y eliminadas por cada integrante.
+
+![Contributors](assets/Contributors-tb1.png)
 
 ## Contenido
 
