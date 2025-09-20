@@ -338,7 +338,7 @@ Enlace del video de la entrevista:
 ⏱️ **Duración:** 6 minutos y 23 segundos
 
 Enlace del video de la entrevista:
-[![Entrevista Danithza del Pino](Imagenes/Entrevista-Freelancer-1.png)](https://youtu.be/F3gz5at9sc4)
+[![Entrevista Danithza del Pino](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Entrevista-Freelancer-1.png)](https://youtu.be/F3gz5at9sc4)
 **Entrevistada:** Danithza del Pino
 **Edad:** 28 años  
 **Ocupación:** Estudiante de la carrera de Danza  
@@ -348,19 +348,19 @@ Enlace del video de la entrevista:
 
 Entrevista a Propietario de inmuebles:
 
-![Img propietario1](Imagenes/Propietario1.png)
+![Img propietario1](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Propietario1.png)
 
 **Entrevistada:** Carlos Alfredo Juarez Adanaque  
 **Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EdU9VOslalpKiKT-t0m66gMBmi1Xhl03H6JkroZCMl3Img?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JREsKE)
 
-![Img propietario2](Imagenes/Propietaria2.png)
+![Img propietario2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Propietaria2.png)
 
 **Entrevistada:** Alejandra Izaguirre  
 **Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EZQz2DANI71MkOrpc1fJq3EBIRLd8PZ4sQAEEFybRm3YOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t6qB71)
 
 **Segmento 2**
 
-![Img propietario2](Imagenes/Entrevista-Miguel.png)
+![Img propietario2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Entrevista-Miguel.png)
 
 **Link de la entrevista:** [Link-Entrevista](https://youtu.be/SHj6_AyGAPc)
 **Entrevistado:** Miguel Quijada
