@@ -537,8 +537,10 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 ### 2.5.3. Software Architecture
 
 #### 2.5.3.1. Software Architecture Context Level Diagrams
+![DDDContext](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-II/DDDContext.png)
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
+![DDDContainer](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-II/DDDContainer.png)
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
