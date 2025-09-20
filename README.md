@@ -35,7 +35,7 @@ Aplicaciones para dispositivos moviles <br>
 
 # Project Report Collaboration Insights
 
-![inishg](/assets/chapter-I/insisghts)
+![inishg](/assets/insighststb1.jpg)
 
 ## Contenido
 
