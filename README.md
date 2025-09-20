@@ -23,7 +23,7 @@ Aplicaciones para dispositivos moviles <br>
 |--------------------------|------------|
 | Rodrigo Liberato Saldana | U202215623 |
 | Berrocal Ramirez Omar    | U20201B529 |
-|                          |            |
+| Espinoza Chavez Moises   | U202221383 |
 |                          |            |
 |                          |            |
 
@@ -110,6 +110,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 **Omar Berrocal Ramirez:**
 - **Objetivo 1:** Obtener la certificación ISTQB Foundation Level dentro de los próximos 3 meses de egresado, estudiando almenos 6 horas semanales para potenciar mi perfil profesional y aumentar mis opotunidades laborales en el campo de pruebas de software.
 - **Objetivo 2:** Mejorar mis habilidades de comunicación en inglés técnico, alcanzando un nivel C1 en el examen Linguaskill dentro de los próximos 6 meses, mediante la práctica diaria de lectura y escritura de documentos técnicos y la participación en foros especializados.
+
+**Moisés Espinoza Chávez:**
+- **Objetivo 1:** Desarrollar un portafolio profesional con 3 o 5 proyectos completos en un año y medio después de egresar, con el objetivo de mostrar y poner en práctica mis habilidades en manejo de base de datos, diseño UX/UI, desarrollo de aplicaciones web y móviles para facilitar mi inserción en la industria del desarrollo de software.
+- **Objetivo 2:** Crear un perfil profesional en LinkedIn, para conseguir un puesto como desarrollador junior en una empresa de software en un plazo de 6 meses tras la graduación.
 
 
 
