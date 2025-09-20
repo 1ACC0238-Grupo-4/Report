@@ -19,13 +19,13 @@ Aplicaciones para dispositivos moviles <br>
 
 <div align="center">
 
-| **Member**               | **Code**   |
-|--------------------------|------------|
-| Rodrigo Liberato Saldana | U202215623 |
-| Berrocal Ramirez Omar    | U20201B529 |
-| Adriana Maria Diestra Zambrano | U202218110|
-|                          |            |
-|                          |            |
+| **Member**                     | **Code**   |
+| ------------------------------ | ---------- |
+| Rodrigo Liberato Saldana       | U202215623 |
+| Berrocal Ramirez Omar          | U20201B529 |
+| Adriana Maria Diestra Zambrano | U202218110 |
+|                                |            |
+|                                |            |
 
 </div>
 
@@ -101,7 +101,7 @@ Aplicaciones para dispositivos moviles <br>
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
 
 | Criterio específico                                                                                                                     | Acciones realizadas | Conclusiones |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------|
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------ |
 | Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. |                     |              |
 | Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  |                     |              |
 
@@ -115,24 +115,27 @@ En esta sección se describe la startup, su misión, visión y los perfiles de l
 
 ### 1.1.1. Descripción de la Startup
 
-**PinkCell Coders** es una startup de tecnología que se especializa en el desarrollar aplicaciones móviles innovadoras y soluciones de software personalizadas en el sector del coworking con la aplicación WorkStation. Este aplicativo móvil está diseñada para facilitar  la reserva eficiente de espacios de trabajo en oficinas compartidas. Su propósito es conectar a freelancers, trabajadores remotos, startups y empresas de todos los tamaños con espacios de coworking disponibles en su ciudad o alrededor del mundo.
+**PinkCell Coders** es una startup de tecnología que se especializa en el desarrollar aplicaciones móviles innovadoras y soluciones de software personalizadas en el sector del coworking con la aplicación WorkStation. Este aplicativo móvil está diseñada para facilitar la reserva eficiente de espacios de trabajo en oficinas compartidas. Su propósito es conectar a freelancers, trabajadores remotos, startups y empresas de todos los tamaños con espacios de coworking disponibles en su ciudad o alrededor del mundo.
 Con una cultura basada en métodos ágiles y la experiencia de usuario, PinkCellCoders aspira a ser un referente a nivel regional en el desarrollo de soluciones tecnológicas que impulsen la productividad y la colaboración en el entorno laboral moderno.
 
-**Misión:** 
+**Misión:**
 
 Construir soluciones digitales innovadoras que transformen la forma en que las personas trabajan, colaboran y se conectan en el entorno laboral moderno.
 
 **Visión:**
 
 Ser una startup referente en el desarrollo de soluciones digitales para espacios de coworking, que brinda a los usuarios una experiencia ágil, confiable, personalizada y una solución de gestión eficiente que maximice los beneficios de los usuarios.
+
 ### 1.1.2. Perfiles de integrantes del equipo
-| Foto                                           | Alumno                          | Descripción                                                                                                                                           |
-|------------------------------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Foto                                           | Alumno                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Omar](assets\chapter-I\Intergrante-Omar.jpg) | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
-|                                                |                                 |                                                                                                                                                       |
-|                                                | Adriana Maria Diestra Zambrano | Estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo. |
-|                                                |                                 ||
-|                                                |                                 ||
+|                                                |                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                | Adriana Maria Diestra Zambrano  | Estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                             |
+|                                                |                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                |                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
 ## 1.2. Solution Profile
 
 ### 1.2.1. Antecedentes y problemática
@@ -172,7 +175,6 @@ Para definir la problemática se aplicó la técnica de las 5W y 2H
 - **How Much (¿Cuánto costaría y cómo se monetiza?)**  
   Los precios varían según ciudad, tipo de espacio, servicios y duración. La plataforma podrá mostrar precios claros y actualizados. El modelo de negocio se sustentará en comisiones por reserva, planes de suscripción para coworking o membresías premium para usuarios frecuentes.
 
-
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
@@ -190,7 +192,7 @@ La mayoría depende de canales informales como redes sociales o WhatsApp, lo que
 
 #### 1.2.2.2. Lean UX Assumptions
 
-***Business Assumptions:***
+**_Business Assumptions:_**
 
 - El mercado peruano de coworking está en expansión pero carece de soluciones digitales consolidadas.
 - La digitalización de la gestión de espacios coworking mejorará la eficiencia operativa y aumentará la ocupación.
@@ -198,19 +200,22 @@ La mayoría depende de canales informales como redes sociales o WhatsApp, lo que
 - El modelo de monetización por comisión por reserva es viable en este contexto.
 - La adopción de una plataforma digital será más rápida si se inicia con alianzas estratégicas en distritos clave.
 
-***User Assumptions:***
+**_User Assumptions:_**
+
 - Los usuarios freelancers requieren flexibilidad y comodidad en sus espacios de trabajo.
 - La búsqueda y reserva de espacios de coworking es actualmente un proceso fragmentado y poco confiable.
 - Los usuarios están dispuestos a pagar por una solución eficiente, confiable y fácil de usar.
 - Prefieren plataformas digitales que les permitan comparar opciones y gestionar sus reservas rápidamente.
 
-***Business Outcome Assumptions:***
+**_Business Outcome Assumptions:_**
+
 - La plataforma aumentará la visibilidad y ocupación de los espacios coworking aliados.
 - Se reducirá la dependencia de canales informales como redes sociales y WhatsApp.
 - Se generará un flujo constante de ingresos por comisiones de reserva.
 - Se obtendrán datos útiles para mejorar la oferta y escalar el negocio.
 
-***User Outcome Assumptions:***
+**_User Outcome Assumptions:_**
+
 - Los usuarios podrán encontrar y reservar espacios de coworking de forma más rápida, transparente y confiable.
 - Tendrán acceso a filtros útiles para tomar decisiones informadas.
 - La experiencia de reserva será más cómoda y eficiente.
@@ -374,13 +379,53 @@ Este grupo está compuesto por trabajadores independientes, equipos pequeños de
 
 ### 2.5.1. EventStorming
 
+Para el event Storming se siguieron los pasos establecidos para llegar a entender el proceso de concluir los Bounded context para la solucion.
+
+![event1](/assets/chapter-II/eventstorming1.jpg)
+
+![event2](/assets/chapter-II/eventstorming2.jpg)
+
+![event3](/assets/chapter-II/eventstorming3.jpg)
+
+![event4](/assets/chapter-II/eventstorming4.jpg)
+
+![event5](/assets/chapter-II/eventstorming5.jpg)
+
+![event6](/assets/chapter-II/eventstorming6.jpg)
+
+![event7](/assets/chapter-II/eventstorming7.jpg)
+
+![event8](/assets/chapter-II/eventstorming8.jpg)
+
 #### 2.5.1.1. Candidate Context Discovery
+
+![candidateContext](/assets/chapter-II/candidateDiagrama.jpg)
 
 #### 2.5.1.2. Domain Message Flows Modeling
 
+![messageflow](/assets/chapter-II/messageFlow1.jpg)
+
+![messageflow2](/assets/chapter-II/messageFlow2.jpg)
+
+![messageflow3](/assets/chapter-II/messageFlow3.jpg)
+
 #### 2.5.1.3. Bounded Context Canvases
 
+![ContextCanvases1](/assets/chapter-II/Canvases1.jpg)
+
+![ContextCanvases2](/assets/chapter-II/Canvases2.jpg)
+
+![ContextCanvases3](/assets/chapter-II/Canvases3.jpg)
+
+![ContextCanvases4](/assets/chapter-II/Canvases4.jpg)
+
+![ContextCanvases5](/assets/chapter-II/Canvases5.jpg)
+
+![ContextCanvases6](/assets/chapter-II/Canvases6.jpg)
+
 ### 2.5.2. Context Mapping
+
+![ContextMapping](/assets/chapter-II/Contextmapping.jpg)
 
 ### 2.5.3. Software Architecture
 
@@ -389,6 +434,8 @@ Este grupo está compuesto por trabajadores independientes, equipos pequeños de
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
+
+![DeploymentDiagram](/assets/chapter-II/Deploymentdiagram.jpg)
 
 ## 2.6. Tactical-Level Domain-Driven Design
 
