@@ -585,14 +585,14 @@ Para los servicios externos solo se creo un Repositorio:
 
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-![ComponentDiagram3](https://github.com/WorkStation-MarronCoders/Report/blob/main/Imagenes/DDD_rating.png)
+![ComponentDiagram3](/assets/chapter-II/DDD_rating.png)
 
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919309644173485/ZPBFRi8m38VlVOgeHwOUTaM8ZPLfGc9_DCO3cDGWIsc24eCqRNltfKaKXNBOJj3Fxi-Vqzmx1ikdNbLIWNFY0Hm-QYR-55-L43TYrOcfU3fH5vvQYy3OBO7Hu-7dWteCfMVJqPwkQdUXk7LeGn9fZk3O3K4bZvqhjv1CP_HiPuogVgfazhhVayHajJOIc8psNOujwKEWItJIql6Ya5.png?ex=68cc3bc3&is=68caea43&hm=91c93664e3ba518334629a459bbee1a020b7da11bd92298a6cfab04759cd83ba&=&format=webp&quality=lossless&width=794&height=906)
+![ClassDiagram](/assets/chapter-II/ratingClass.png)
 
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919310386692237/fLDHQy8m47xlhmXzqZ57tUYBYEXqGj4vcVW3pkJKG9kw91Q6tNzVqgurb3d7zj8cztrtztt7PQWqI7rCOW-5vlgT-8-WyAau-mGKsPZh5tJo2BaX4ICzSXJyxOYSMMJBKP9-VpaR30nXB14qiedv61upFyqJDC1poYorYP35UZuty5gXB4fpeUtrO0dCZLRCI8sevfajik7Q-_1gwI.png?ex=68cc3bc3&is=68caea43&hm=e59e084fc66b78eac7c77d783c44f1692bc6746af9165ab1065e24c50bfd379c&=&format=webp&quality=lossless&width=1176&height=906)
+![DatabaseDiagram](/assets/chapter-II/ratingDatabase.png)
