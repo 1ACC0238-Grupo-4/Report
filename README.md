@@ -120,6 +120,27 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
       - [2.6.x.6. Bounded Context Software Architecture Code Level Diagrams](#26x6-bounded-context-software-architecture-code-level-diagrams)
         - [2.6.x.6.1. Bounded Context Domain Layer Class Diagrams](#26x61-bounded-context-domain-layer-class-diagrams)
         - [2.6.x.6.2. Bounded Context Database Design Diagram](#26x62-bounded-context-database-design-diagram)
+- [Capítulo III: Solution UI/UX Design](#capítulo-iii-solution-ui/ux-design)
+  - [3.1. Product Design](#31-product-design)  
+    - [3.1.1. Style Guidelines](#311-style-guidelines)  
+      - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)  
+    - [3.1.2. Information Architecture](#312-information-architecture)  
+      - [3.1.2.1. Organization Systems](#3121-organization-systems)  
+      - [3.1.2.2. Labelling Systems](#3122-labelling-systems)  
+      - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)  
+      - [3.1.2.4. Searching Systems](#3124-searching-systems)  
+      - [3.1.2.5. Navigation Systems](#3125-navigation-systems)  
+    - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)  
+      - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)  
+      - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)  
+    - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)  
+      - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)  
+      - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)  
+      - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)  
+      - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)  
+      - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)  
+
+
 
 ---
 
@@ -997,3 +1018,36 @@ Para los servicios externos solo se creo un Repositorio:
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
 
 ![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919310386692237/fLDHQy8m47xlhmXzqZ57tUYBYEXqGj4vcVW3pkJKG9kw91Q6tNzVqgurb3d7zj8cztrtztt7PQWqI7rCOW-5vlgT-8-WyAau-mGKsPZh5tJo2BaX4ICzSXJyxOYSMMJBKP9-VpaR30nXB14qiedv61upFyqJDC1poYorYP35UZuty5gXB4fpeUtrO0dCZLRCI8sevfajik7Q-_1gwI.png?ex=68cc3bc3&is=68caea43&hm=e59e084fc66b78eac7c77d783c44f1692bc6746af9165ab1065e24c50bfd379c&=&format=webp&quality=lossless&width=1176&height=906)
+
+---
+
+# Capítulo III: Solution UI/UX Design
+
+
+## 3.1. Product Design
+
+### 3.1.1. Style Guidelines
+
+#### 3.1.1.1. General Style Guidelines
+
+### 3.1.2. Information Architecture
+
+#### 3.1.2.1. Organization Systems  
+#### 3.1.2.2. Labelling Systems  
+#### 3.1.2.3. SEO Tags and Meta Tags  
+#### 3.1.2.4. Searching Systems  
+#### 3.1.2.5. Navigation Systems  
+
+### 3.1.3. Landing Page UI Design
+
+#### 3.1.3.1. Landing Page Wireframe  
+#### 3.1.3.2. Landing Page Mock-up  
+
+### 3.1.4. Mobile Applications UX/UI Design
+
+#### 3.1.4.1. Mobile Applications Wireframes  
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams  
+#### 3.1.4.3. Mobile Applications Mock-ups  
+#### 3.1.4.4. Mobile Applications User Flow Diagrams  
+#### 3.1.4.5. Mobile Applications Prototyping  
+ 
