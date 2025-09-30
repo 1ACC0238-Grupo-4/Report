@@ -33,16 +33,14 @@ Aplicaciones para dispositivos moviles <br>
 
 # Registro de Versiones del Informe
 
-
 | Versión | Fecha      | Autor                    | Descripción de modificación           |
-|---------|------------|--------------------------|---------------------------------------|
+| ------- | ---------- | ------------------------ | ------------------------------------- |
 | 0.1     | 13/09/2025 | Rodrigo Liberato Saldana | Se presentó la estructura del informe |
 | 0.2     | 18/09/2025 | Moises Espinoza Chavez   | Se agregaron los bounded context      |
 | 0.3     | 19/09/2025 | Omar Berrocal Ramirez    | Se añadió la sección de Lean UX       |
 | 0.4     | 19/09/2025 | Adriana Diestra Zambrano | Se añadió la sección de Needfinding   |
 | 0.5     | 19/09/2025 | Moises Espinoza Chavez   | Se añadió la sección de Arquitectura  |
 | 1.0     | 19/09/2025 | Omar Berrocal            | Se realizó los insights y el outcome  |
-
 
 # Project Report Collaboration Insights
 
@@ -52,7 +50,7 @@ Link del repositorio del informe: https://github.com/1ACC0238-Grupo-4/Report
 
 ### Reporte de Colaboración para la entrega del TB1
 
-En esta primera entrega se redactó el informe del proyecto hasta el punto 2.6.3.6.2 (Bounded Context Domain Layer Class Diagrams).  Durante este proceso se realizaron diversas actividades, siendo las más relevantes: la definición de los antecedentes y problematicas identificados, la implementación del Lean UX Canvas, analisis de competidores, creación de artefactos (User Personas, Task Matrix, etc), redacción de User Stories, Event Storming, diseño de los diagramas C4 Model (Contexto y Contenedores) y diagramas de los Bounded Context.
+En esta primera entrega se redactó el informe del proyecto hasta el punto 2.6.3.6.2 (Bounded Context Domain Layer Class Diagrams). Durante este proceso se realizaron diversas actividades, siendo las más relevantes: la definición de los antecedentes y problematicas identificados, la implementación del Lean UX Canvas, analisis de competidores, creación de artefactos (User Personas, Task Matrix, etc), redacción de User Stories, Event Storming, diseño de los diagramas C4 Model (Contexto y Contenedores) y diagramas de los Bounded Context.
 
 Para evidenciar nuestros avances y la colaboración en el proyecto, se utilizó GitHub como plataforma principal de gestión de versiones y control de cambios. A continuación, se presentan algunos insights relevantes sobre la colaboración en el desarrollo del informe:
 
@@ -120,6 +118,47 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
       - [2.6.x.6. Bounded Context Software Architecture Code Level Diagrams](#26x6-bounded-context-software-architecture-code-level-diagrams)
         - [2.6.x.6.1. Bounded Context Domain Layer Class Diagrams](#26x61-bounded-context-domain-layer-class-diagrams)
         - [2.6.x.6.2. Bounded Context Database Design Diagram](#26x62-bounded-context-database-design-diagram)
+- [Capítulo III: Solution UI/UX Design](#capítulo-iii-solution-uiux-design)
+
+  - [3.1. Product design](#31-product-design)
+    - [3.1.1. Style Guidelines](#311-style-guidelines)
+      - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+    - [3.1.2. Information Architecture](#312-information-architecture)
+      - [3.1.2.1. Organization Systems](#3121-organization-systems)
+      - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+      - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+      - [3.1.2.4. Searching Systems](#3124-searching-systems)
+      - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
+    - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)
+      - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
+      - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
+    - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
+      - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
+      - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
+      - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
+      - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
+      - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
+
+- [Capítulo IV: Product Implementation & Validation](#capítulo-iv-product-implementation--validation)
+  - [4. Product Implementation & Validation](#4-product-implementation--validation)
+    - [4.1. Software Configuration Management](#41-software-configuration-management)
+      - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+      - [4.1.2. Source Code Management](#412-source-code-management)
+      - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
+      - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+    - [4.2. Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)
+      - [4.2.1. Sprint 1](#421-sprint-1)
+        - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+        - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
+        - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+        - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+        - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+        - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+        - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+        - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+    - [4.3. Validation Interviews](#43-validation-interviews)
+      - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
+      - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
 
 ---
 
@@ -127,10 +166,10 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
 
-| Criterio específico                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Omar Berrocal**<br/>**TB1**<br/>Durante esta entrega volví a revisar conceptos generales y técnicos de métodos y desarrollos agiles, para poder planificar y realizar el proyecto acorde a los estándares y aplicando buenas prácticas de desarrollo. De igual manera para absolver las dudas de mis compañeros sobre como vamos a trabajar y que modelo usaremos, como es el gitflow, conventional commits, entre otros. <br>**Rodrigo Liberato**<br/>**TB1**<br/>Durante esta entrega me comprometi a entender mejor el estado de los contexto embedidos ysu proceso para llegar al estado final de desarrollo. <br>**Adriana Diestra** <br/>**TB1**<br/>Durante esta entrega apliqué conceptos de metodologías ágiles y buenas prácticas como Gitflow y conventional commits, además de técnicas de especificación de requisitos (user stories, impact mapping y backlog) para planificar el proyecto de manera ordenada y conforme a estándares. | Como equipo repasamos conceptos vistos anteriormente, como Event Storming de Scrum, patrones de diseño de software, Domain Driven Design, diagramas y métodos ágiles, demostrando así la necesidad de poner en práctica constantemente lo aprendido para su uso en proyectos de software.                                                                                                                                                                                                                                          |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Omar Berrocal**<br/>**TB1**<br/>Para esta entrega al realizar el proceso Lean UX me ayudó a identificar las tendencias de los segmentos objetivos y las necesidades que representan opotunidades para nuestro proyecto en el mercado. Hacer una investigación me hizo aprender como es que se perciben los problemas desde diferentes perspectivas. <br>**Rodrigo Liberato**<br/>**TB1**<br/>El aprendizaje durante esta etapa del proyecto me ayudo a entender el valor del proceso de desarrollo de una aplicacion movil y la complejidad detras de esta.             <br> **Adriana Diestra**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. <br> **Moises Espinoza**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto.                                             | Como equipo reconocemos que el aprendizaje permanente es fundamental para estar siempre a la vanguardia y mantener la calidad de nuestro producto. Identificar las nuevas tendencias de tecnologías y metodologías nos ayudará a elegir las mejores alternativas de desarrollo a lo largo del proyecto. La implementación de Domain Driven Design y diseño de arquitectura en dominios, uso de control de versiones, metodologías ágiles, nos permitieron alcanzar competencias técnicas que nos hacen crecer como profesionales. |
+| Criterio específico                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Omar Berrocal**<br/>**TB1**<br/>Durante esta entrega volví a revisar conceptos generales y técnicos de métodos y desarrollos agiles, para poder planificar y realizar el proyecto acorde a los estándares y aplicando buenas prácticas de desarrollo. De igual manera para absolver las dudas de mis compañeros sobre como vamos a trabajar y que modelo usaremos, como es el gitflow, conventional commits, entre otros. <br>**Rodrigo Liberato**<br/>**TB1**<br/>Durante esta entrega me comprometi a entender mejor el estado de los contexto embedidos ysu proceso para llegar al estado final de desarrollo. <br>**Adriana Diestra** <br/>**TB1**<br/>Durante esta entrega apliqué conceptos de metodologías ágiles y buenas prácticas como Gitflow y conventional commits, además de técnicas de especificación de requisitos (user stories, impact mapping y backlog) para planificar el proyecto de manera ordenada y conforme a estándares.                                                                                                                                                                                                                                                                                                            | Como equipo repasamos conceptos vistos anteriormente, como Event Storming de Scrum, patrones de diseño de software, Domain Driven Design, diagramas y métodos ágiles, demostrando así la necesidad de poner en práctica constantemente lo aprendido para su uso en proyectos de software.                                                                                                                                                                                                                                         |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Omar Berrocal**<br/>**TB1**<br/>Para esta entrega al realizar el proceso Lean UX me ayudó a identificar las tendencias de los segmentos objetivos y las necesidades que representan opotunidades para nuestro proyecto en el mercado. Hacer una investigación me hizo aprender como es que se perciben los problemas desde diferentes perspectivas. <br>**Rodrigo Liberato**<br/>**TB1**<br/>El aprendizaje durante esta etapa del proyecto me ayudo a entender el valor del proceso de desarrollo de una aplicacion movil y la complejidad detras de esta. <br> **Adriana Diestra**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. <br> **Moises Espinoza**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. | Como equipo reconocemos que el aprendizaje permanente es fundamental para estar siempre a la vanguardia y mantener la calidad de nuestro producto. Identificar las nuevas tendencias de tecnologías y metodologías nos ayudará a elegir las mejores alternativas de desarrollo a lo largo del proyecto. La implementación de Domain Driven Design y diseño de arquitectura en dominios, uso de control de versiones, metodologías ágiles, nos permitieron alcanzar competencias técnicas que nos hacen crecer como profesionales. |
 
 ## Objetivos SMART
 
@@ -145,6 +184,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 - **Objetivo 2:** Crear un perfil profesional en LinkedIn, para conseguir un puesto como desarrollador junior en una empresa de software en un plazo de 6 meses tras la graduación.
 
 **Adriana Diestra Zambrano:**
+
 - **Objetivo 1:** Desarrollar y publicar al menos dos proyectos de software en plataformas abiertas durante mis vacaciones de verano 2026, aplicando metodologías ágiles y buenas prácticas de control de versiones (Gitflow y conventional commits), con el fin de fortalecer mi portafolio profesional y demostrar experiencia práctica en el desarrollo colaborativo.
 - **Objetivo 2:** Mejorar mis competencias técnicas en desarrollo de software aprendiendo un nuevo framework o lenguaje de programación antes de junio de 2026, dedicando al menos 5 horas semanales a cursos y prácticas, con el fin de ampliar mis oportunidades laborales y mantenerme actualizado en tendencias tecnológicas.
 
@@ -174,12 +214,12 @@ Ser una startup referente en el desarrollo de soluciones digitales para espacios
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                         | Alumno                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| -------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Foto                                           | Alumno                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Omar](assets/chapter-I/Intergrante-Omar.jpg) | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
-| ![a](assets/chapter-I/Adriana.png) | Diestra Zambrano Adriana Maria  | Estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                             |
-|![Moises](assets/chapter-I/Moises-foto.jpg)| Espinoza Chávez Moises | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ![Rodrigo](/assets/chapter-I/rodrigo.jpg) | **Rodrigo Liberato Saldaña** | Estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas. |
+| ![a](assets/chapter-I/Adriana.png)             | Diestra Zambrano Adriana Maria  | Estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                             |
+| ![Moises](assets/chapter-I/Moises-foto.jpg)    | Espinoza Chávez Moises          | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                      |
+| ![Rodrigo](/assets/chapter-I/rodrigo.jpg)      | **Rodrigo Liberato Saldaña**    | Estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                                                                                                               |
 
 ## 1.2. Solution Profile
 
@@ -594,7 +634,9 @@ Enlace del video de la entrevista:
 ⏱️ **Duración:** 6 minutos y 23 segundos
 
 Enlace del video de la entrevista:
-[![Entrevista Danithza del Pino](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Entrevista-Freelancer-1.png)](https://youtu.be/F3gz5at9sc4)
+![Entrevista Danithza del Pino](/assets/chapter-I/Entrevista-Freelancer-1.png)
+
+[Link](https://youtu.be/F3gz5at9sc4)
 **Entrevistada:** Danithza del Pino
 **Edad:** 28 años  
 **Ocupación:** Estudiante de la carrera de Danza  
@@ -604,19 +646,19 @@ Enlace del video de la entrevista:
 
 Entrevista a Propietario de inmuebles:
 
-![Img propietario1](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Propietario1.png)
+![Img propietario1](/assets/chapter-I/Propietario1.png)
 
 **Entrevistada:** Carlos Alfredo Juarez Adanaque  
 **Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EdU9VOslalpKiKT-t0m66gMBmi1Xhl03H6JkroZCMl3Img?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JREsKE)
 
-![Img propietario2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Propietaria2.png)
+![Img propietario2](/assets/chapter-I/Propietaria2.png)
 
 **Entrevistada:** Alejandra Izaguirre  
 **Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EZQz2DANI71MkOrpc1fJq3EBIRLd8PZ4sQAEEFybRm3YOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t6qB71)
 
 **Segmento 2**
 
-![Img propietario2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Entrevista-Miguel.png)
+![Img propietario2](/assets/chapter-I/Entrevista-Miguel.png)
 
 **Link de la entrevista:** [Link-Entrevista](https://youtu.be/SHj6_AyGAPc)
 **Entrevistado:** Miguel Quijada
@@ -654,8 +696,9 @@ En las entrevistas de este segmento objetivo, recalcan que la aplicacion seria d
 
 En esta sección hemos considerado dos perfiles de usuario que representan a los segmentos objetivo mencionados previamente: los propietarios de inmuebles y los trabajadores independientes.
 
-![Seg1](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/PropietarioInmueble.png)
-![Seg2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/TrabajadorIndependiente.png)
+![Seg1](/assets/chapter-I/PropietarioInmueble.png)
+
+![Seg2](/assets/chapter-I/TrabajadorIndependiente.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -676,11 +719,11 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ### 2.3.3. User Journey Mapping
 
-![JM](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/CustomerJourneyMap.png)
+![JM](/assets/chapter-I/CustomerJourneyMap.png)
 
 ### 2.3.4. Empathy Mapping
 
-![EM](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/EmpathyMap.png)
+![EM](/assets/chapter-I/EmpathyMap.png)
 
 ### 2.3.5. Ubiquitous Language
 
@@ -761,7 +804,7 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ### 2.4.2. Impact Mapping
 
-![ImpactMap](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/ImpactMapping.jpg)
+![ImpactMap](/assets/chapter-I/ImpactMapping.jpg)
 
 ### 2.4.3. Product Backlog
 
@@ -828,11 +871,11 @@ Para el event Storming se siguieron los pasos establecidos para llegar a entende
 
 #### 2.5.3.1. Software Architecture Context Level Diagrams
 
-![DDDContext](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-II/DDDContext.png)
+![DDDContext](/assets/chapter-II/DDDContext.png)
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
-![DDDContainer](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-II/DDDContainer.png)
+![DDDContainer](/assets/chapter-II/DDD-Container-001.png)
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
@@ -986,14 +1029,104 @@ Para los servicios externos solo se creo un Repositorio:
 
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-![ComponentDiagram3](https://github.com/WorkStation-MarronCoders/Report/blob/main/Imagenes/DDD_rating.png)
+![ComponentDiagram3](/assets/chapter-II/DDD_rating.png)
 
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919309644173485/ZPBFRi8m38VlVOgeHwOUTaM8ZPLfGc9_DCO3cDGWIsc24eCqRNltfKaKXNBOJj3Fxi-Vqzmx1ikdNbLIWNFY0Hm-QYR-55-L43TYrOcfU3fH5vvQYy3OBO7Hu-7dWteCfMVJqPwkQdUXk7LeGn9fZk3O3K4bZvqhjv1CP_HiPuogVgfazhhVayHajJOIc8psNOujwKEWItJIql6Ya5.png?ex=68cc3bc3&is=68caea43&hm=91c93664e3ba518334629a459bbee1a020b7da11bd92298a6cfab04759cd83ba&=&format=webp&quality=lossless&width=794&height=906)
+![ClassDiagram](/assets/chapter-II/ratingClass.png)
 
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919310386692237/fLDHQy8m47xlhmXzqZ57tUYBYEXqGj4vcVW3pkJKG9kw91Q6tNzVqgurb3d7zj8cztrtztt7PQWqI7rCOW-5vlgT-8-WyAau-mGKsPZh5tJo2BaX4ICzSXJyxOYSMMJBKP9-VpaR30nXB14qiedv61upFyqJDC1poYorYP35UZuty5gXB4fpeUtrO0dCZLRCI8sevfajik7Q-_1gwI.png?ex=68cc3bc3&is=68caea43&hm=e59e084fc66b78eac7c77d783c44f1692bc6746af9165ab1065e24c50bfd379c&=&format=webp&quality=lossless&width=1176&height=906)
+![DatabaseDiagram](/assets/chapter-II/ratingDatabase.png)
+
+# Capítulo III: Solution UI/UX Design
+
+## 3.1. Product design
+
+### 3.1.1. Style Guidelines
+
+#### 3.1.1.1. General Style Guidelines
+
+### 3.1.2. Information Architecture
+
+#### 3.1.2.1. Organization Systems
+
+#### 3.1.2.2. Labelling Systems
+
+#### 3.1.2.3. SEO Tags and Meta Tags
+
+#### 3.1.2.4. Searching Systems
+
+#### 3.1.2.5. Navigation Systems
+
+### 3.1.3. Landing Page UI Design
+
+#### 3.1.3.1. Landing Page Wireframe
+
+#### 3.1.3.2. Landing Page Mock-up
+
+### 3.1.4. Mobile Applications UX/UI Design
+
+#### 3.1.4.1. Mobile Applications Wireframes
+
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams
+
+#### 3.1.4.3. Mobile Applications Mock-ups
+
+#### 3.1.4.4. Mobile Applications User Flow Diagrams
+
+#### 3.1.4.5. Mobile Applications Prototyping
+
+# Capítulo IV: Product Implementation & Validation
+
+## 4. Product Implementation & Validation
+
+### 4.1. Software Configuration Management
+
+#### 4.1.1. Software Development Environment Configuration
+
+#### 4.1.2. Source Code Management
+
+#### 4.1.3. Source Code Style Guide & Conventions
+
+#### 4.1.4. Software Deployment Configuration
+
+### 4.2. Landing Page & Mobile Application Implementation
+
+#### 4.2.1. Sprint 1
+
+##### 4.2.1.1. Sprint Planning 1
+
+##### 4.2.1.2. Sprint Backlog 1
+
+##### 4.2.1.3. Development Evidence for Sprint Review
+
+##### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+##### 4.2.1.5. Execution Evidence for Sprint Review
+
+##### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+##### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+##### 4.2.1.8. Team Collaboration Insights during Sprint
+
+### 4.3. Validation Interviews
+
+#### 4.3.1. Diseño de Entrevistas
+
+#### 4.3.2. Registro de Entrevistas
+
+#### 4.3.3. Evaluaciones según heurísticas
+
+# Conclusiones
+
+## Conclusiones y recomendaciones.
+
+# Video App Validation
+
+## Video About the product
+
+## Video About the team
