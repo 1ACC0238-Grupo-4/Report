@@ -930,11 +930,11 @@ Para los servicios externos solo se creo un Repositorio:
 
 ##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417671581634924664/XL9jJW8n4FtVK_IdHE406wCiB2g9ebdb08KECaa_IDl56FNkjhDGTzM4FxkTDwzltinqx8DmeT6AhPNmda-4Xva96Dxv1-FydCybB_XjWvAYgGCHG5Rn4-7qUq4Db7gm4ZVu9tTDoQK7HqfeGWliP1BguYrpxijrm7sIM5chs1TZO1fD2hLLGBRAkfujgh9wh6CmMJvFwHYfr0HnYJVa.png?ex=68cb550c&is=68ca038c&hm=993b1bfb6192bdf31c4f2dc5fda1141347898ce7803f7ad3a200245b961a4372&=&format=webp&quality=lossless)
+![ClassDiagram](/assets/chapter-II/UserClassDiagram.png)
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417671581236461609/XLBDIiD04BxdAOQS6h5IXLvAAQssnT1Qef07c6H7Cf1iT7TI4UExknkgJGJnakpEzpCpNxAqWaQQgWn82yixXBTeQTETGq0BcRkUe8y0u09Y1JDeDBysnCeZpqm6vlDajrWumfqX559hzt0yvLx25JdWeLQU-Xk1GxhVEpYrP3fhrkAlBvwW-jLlPcnNkV3HcsGimMVmCxfdssxgnf_-.png?ex=68cb550c&is=68ca038c&hm=dee65a9589aa9ee8646c03c5ba2fdb8d8b659bee7e3eef35d38b85c305a733c0&=&format=webp&quality=lossless)
+![DatabaseDiagram](/assets/chapter-II/UserDatabaseDiagram.png)
 
 ---
 
@@ -984,11 +984,11 @@ Para los servicios externos solo se creo un Repositorio:
 
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417678179551805551/XLFTJi8m5BxVKpIx0dKNtYu4mM4C2Vv4vG5ATo0dwTQbFP0OzDrjj-Ceq-WDhD_vThwVT3D7qjA-qedIqZbnAntSrOJqBew949TYMOfStE-nR4-51KbGBloFXyFV6rRGZXvCYLlyCRjfXsi7jjs4DNL0KuP5CTunbswk20zXnSOOdNmcxEnfkqK5x6fbb2GqjMSvibZlMdG1JbbipWQy.png?ex=68cb5b31&is=68ca09b1&hm=827dff612fb42a3147106daea4b2674a016ddac888f9fbcfb2567d488ec9c255&=&format=webp&quality=lossless)
+![ClassDiagram](/assets/chapter-II/OfficeClassDiagram.png)
 
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417678179551805551/XLFTJi8m5BxVKpIx0dKNtYu4mM4C2Vv4vG5ATo0dwTQbFP0OzDrjj-Ceq-WDhD_vThwVT3D7qjA-qedIqZbnAntSrOJqBew949TYMOfStE-nR4-51KbGBloFXyFV6rRGZXvCYLlyCRjfXsi7jjs4DNL0KuP5CTunbswk20zXnSOOdNmcxEnfkqK5x6fbb2GqjMSvibZlMdG1JbbipWQy.png?ex=68cb5b31&is=68ca09b1&hm=827dff612fb42a3147106daea4b2674a016ddac888f9fbcfb2567d488ec9c255&=&format=webp&quality=lossless)
+![DatabaseDiagram](/assets/chapter-II/OfficeDatabaseDiagram.png)
 
 ---
 
