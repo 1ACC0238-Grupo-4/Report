@@ -34,15 +34,15 @@ Aplicaciones para dispositivos moviles <br>
 # Registro de Versiones del Informe
 
 
-| Versión | Fecha      | Autor                    | Descripción de modificación           |
-|---------|------------|--------------------------|---------------------------------------|
-| 0.1     | 13/09/2025 | Rodrigo Liberato Saldana | Se presentó la estructura del informe |
-| 0.2     | 18/09/2025 | Moises Espinoza Chavez   | Se agregaron los bounded context      |
-| 0.3     | 19/09/2025 | Omar Berrocal Ramirez    | Se añadió la sección de Lean UX       |
-| 0.4     | 19/09/2025 | Adriana Diestra Zambrano | Se añadió la sección de Needfinding   |
-| 0.5     | 19/09/2025 | Moises Espinoza Chavez   | Se añadió la sección de Arquitectura  |
-| 1.0     | 19/09/2025 | Omar Berrocal            | Se realizó los insights y el outcome  |
-
+| Versión | Fecha      | Autor                    | Descripción de modificación                          |
+|---------|------------|--------------------------|------------------------------------------------------|
+| 0.1     | 13/09/2025 | Rodrigo Liberato Saldana | Se presentó la estructura del informe                |
+| 0.2     | 18/09/2025 | Moises Espinoza Chavez   | Se agregaron los bounded context                     |
+| 0.3     | 19/09/2025 | Omar Berrocal Ramirez    | Se añadió la sección de Lean UX                      |
+| 0.4     | 19/09/2025 | Adriana Diestra Zambrano | Se añadió la sección de Needfinding                  |
+| 0.5     | 19/09/2025 | Moises Espinoza Chavez   | Se añadió la sección de Arquitectura                 |
+| 1.0     | 19/09/2025 | Omar Berrocal            | Se realizó los insights y el outcome                 |
+| 1.1     | 05/10/2025 | Omar Berrocal            | Se corrigieron errores de formato, outcome del curso | 
 
 # Project Report Collaboration Insights
 
@@ -202,11 +202,11 @@ Ser una startup referente en el desarrollo de soluciones digitales para espacios
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Foto                                         | Alumno                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| -------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------- | ------------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Omar](assets/chapter-I/Intergrante-Omar.jpg) | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
-| ![a](assets/chapter-I/Adriana.png) | Diestra Zambrano Adriana Maria  | Estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                             |
-|![Moises](assets/chapter-I/Moises-foto.jpg)| Espinoza Chávez Moises | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ![Rodrigo](/assets/chapter-I/rodrigo.jpg) | **Rodrigo Liberato Saldaña** | Estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas. |
+| ![a](assets/chapter-I/Adriana.png) | Diestra Zambrano Adriana Maria  | Soy estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                         |
+|![Moises](assets/chapter-I/Moises-foto.jpg)| Espinoza Chávez Moises | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                      |
+| ![Rodrigo](/assets/chapter-I/rodrigo.jpg) | **Rodrigo Liberato Saldaña** | Soy estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                                                                                                           |
 
 ## 1.2. Solution Profile
 
@@ -572,7 +572,7 @@ Oficinas YA! es una plataforma líder en América Latina especializada en la�
 - ¿Qué beneficios le gustaría tener a usted dentro de el trato entre usted y la compañía que trabaje en la propiedad?
 - ¿Qué comportamientos o hábitos no estarían dispuesto(a) a aceptar de la compañía/startup que trabaje en su propiedad?
 - ¿Qué funcionalidades le gustaría que tenga esta aplicación web?
-- ¿De que manera buscaría hacer este espacio uno seguro para ambos?
+- ¿De qué manera buscaría hacer este espacio uno seguro para ambos?
 
 **FREELANCERS/STARTUPS**
 
@@ -581,77 +581,96 @@ Oficinas YA! es una plataforma líder en América Latina especializada en la�
 - Distrito de residencia
 - Profesión
 - Actualmente, ¿desde donde trabaja?
-- Cree que el lugar donde trabajan afecta la productividad de su trabajo?
+- ¿Cree que el lugar donde trabajan afecta la productividad de su trabajo?
 - ¿Qué es lo que busca en un lugar de trabajo?
 - ¿Ha escuchado hablar de los espacios de coworking?
 - ¿Qué opinaría de alquilar un espacio destinado para trabajar?
 - ¿Qué opinaría de una aplicación que le ofrezca la posibilidad de conectarlo con varios de estos espacios disponibles?
 - ¿Qué funcionalidades cree que debería tener una aplicación como esta?
-- ¿De que manera buscaría hacer este espacio uno seguro para ambas partes?
+- ¿De qué manera buscaría hacer este espacio uno seguro para ambas partes?
 
 ### 2.2.2. Registro de entrevistas
 
-**Segmento 1**
-Enlace del video de la entrevista:
+**Segmento 1 - Entrevista a Freelancers**
 
-[![Demo en YouTube](https://img.youtube.com/vi/1GPReTfneu4/0.jpg)](https://www.youtube.com/watch?v=1GPReTfneu4)
+**Entrevista 1: Marjorie Luna**
+
+![Demo en YouTube](https://img.youtube.com/vi/1GPReTfneu4/0.jpg)
 
 **Entrevistada:** Marjorie Luna Victoria  
 **Edad:** 22 años  
 **Ocupación:** Diseñadora gráfica  
 **Ubicación:** Lima – Miraflores  
 **Medio:** Meet  
-**Entrevistador:** Jorge Díaz
+**Enlace del video de la entrevista:** [Link](https://www.youtube.com/watch?v=1GPReTfneu4)
 
 🎬 **Inicio del video:** 0:04  
 ⏱️ **Duración:** 3 minutos y 42 segundos
 
-Enlace del video de la entrevista:
 
-[![Demo en YouTube](https://img.youtube.com/vi/hwdyWXskYcs/0.jpg)](https://www.youtube.com/watch?v=hwdyWXskYcs&ab_channel=NPCbas)
+<br></br>
+**Entervista 2: Arlene Gutarra**
+
+![Demo en YouTube](https://img.youtube.com/vi/hwdyWXskYcs/0.jpg)
 
 **Entrevistada:** Arlene Gutarra Velapatiño  
 **Edad:** 22 años  
 **Ocupación:** Estudiante de la carrera de Danza  
 **Ubicación:** Lima – San Juan de Lurigancho  
 **Medio:** Zoom  
-**Entrevistador:** Sebastián Gutarra
+**Enlace del video de la entrevista:** [Link](https://www.youtube.com/watch?v=hwdyWXskYcs&ab_channel=NPCbas)
 
 🎬 **Inicio del video:** 0:04  
 ⏱️ **Duración:** 6 minutos y 23 segundos
 
-Enlace del video de la entrevista:
-[![Entrevista Danithza del Pino](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Entrevista-Freelancer-1.png)](https://youtu.be/F3gz5at9sc4)
+<br></br>
+**Entrevista 3: Danithza del Pino**
+
+![Entrevista Danithza del Pino](assets/chapter-II/Entrevista-Danitsa.png)
+
 **Entrevistada:** Danithza del Pino
 **Edad:** 28 años  
 **Ocupación:** Estudiante de la carrera de Danza  
 **Ubicación:** Lima – La Molina  
 **Medio:** Zoom  
-**Entrevistador:** Emilia Durán
+Enlace del video de la entrevista: [link](https://youtu.be/F3gz5at9sc4)
 
-Entrevista a Propietario de inmuebles:
+<br></br>
+**Segmento 2 - Entrevista a Propietario de inmuebles:**
+<br></br>
 
-![Img propietario1](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Propietario1.png)
+**Entrevista 1: Carlos Juarez**
+
+![Img propietario1](assets/chapter-II/Propietario1.png)
 
 **Entrevistada:** Carlos Alfredo Juarez Adanaque  
-**Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EdU9VOslalpKiKT-t0m66gMBmi1Xhl03H6JkroZCMl3Img?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JREsKE)
+**Edad:** 33 años
 
-![Img propietario2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Propietaria2.png)
+
+**Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EdU9VOslalpKiKT-t0m66gMBmi1Xhl03H6JkroZCMl3Img?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JREsKE)
+<br></br>
+
+![Img propietario2](assets/chapter-II/Propietaria2.png)
 
 **Entrevistada:** Alejandra Izaguirre  
+**Edad:** 19 años
+**Ocupación:** Arquitectura
+**Ubicación:** Lima – Magdalena
+**Medio:** Zoom
+
 **Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EZQz2DANI71MkOrpc1fJq3EBIRLd8PZ4sQAEEFybRm3YOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t6qB71)
+<br></br>
 
-**Segmento 2**
+![Img propietario3](/assets/chapter-II/Entrevista-Miguel.png)
 
-![Img propietario2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Entrevista-Miguel.png)
+
+**Entrevistado:** Miguel Quijada  
+**Edad:** 43 años  
+**Ocupación:** Ingeniero de Software  
+**Ubicación:** Lima – Ate  
+**Medio:** Zoom
 
 **Link de la entrevista:** [Link-Entrevista](https://youtu.be/SHj6_AyGAPc)
-**Entrevistado:** Miguel Quijada
-**Edad:** 43 años  
-**Ocupación:** Ingeniero de Software
-**Ubicación:** Lima – Ate  
-**Medio:** Zoom  
-**Entrevistador:** Jeremy Quijada
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -681,8 +700,8 @@ En las entrevistas de este segmento objetivo, recalcan que la aplicacion seria d
 
 En esta sección hemos considerado dos perfiles de usuario que representan a los segmentos objetivo mencionados previamente: los propietarios de inmuebles y los trabajadores independientes.
 
-![Seg1](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/PropietarioInmueble.png)
-![Seg2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/TrabajadorIndependiente.png)
+![Seg1](/assets/chapter-II/User-Persona-Propietario.png)
+![Seg2](/assets/chapter-II/User-Persona-Freelancer.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -703,11 +722,11 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ### 2.3.3. User Journey Mapping
 
-![JM](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/CustomerJourneyMap.png)
+![JM](/assets/chapter-II/Customer-Journey-Map-Brainstorm.png)
 
 ### 2.3.4. Empathy Mapping
 
-![EM](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/EmpathyMap.png)
+![EM](/assets/chapter-II/Empathy-Map-Brainstorm.png)
 
 ### 2.3.5. Ubiquitous Language
 
@@ -788,7 +807,7 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ### 2.4.2. Impact Mapping
 
-![ImpactMap](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/ImpactMapping.jpg)
+![ImpactMap](/assets/chapter-II/ImpactMapping.jpg)
 
 ### 2.4.3. Product Backlog
 
@@ -855,11 +874,11 @@ Para el event Storming se siguieron los pasos establecidos para llegar a entende
 
 #### 2.5.3.1. Software Architecture Context Level Diagrams
 
-![DDDContext](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-II/DDDContext.png)
+![DDDContext](/assets/chapter-II/DDDContext.png)
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
-![DDDContainer](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-II/DDDContainer.png)
+![DDDContainer](/assets/chapter-II/DDDContainer.png)
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
