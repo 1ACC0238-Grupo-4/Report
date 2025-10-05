@@ -125,6 +125,12 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
 
 ## Student Outcome (ver anexo A)
 
+El curso contribuye al cumplimiento del Student Outcome ABET: 
+
+**ABET - EAC - Student Outcome 7**
+
+**Criterio:** La capacidad de adquirir y aplicar nuevos conocimientos según sea necesario, utilizando estrategias de aprendizaje apropiadas.
+
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
 
 | Criterio específico                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
