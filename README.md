@@ -1235,16 +1235,23 @@ Un sistema bien estructurado de SEO y Meta Tag es esencial para mejorar la visib
 ```html
 <title>WorkStation App | Alquila y administra espacios desde tu móvil</title>
 
-<meta name="description" content="Descarga la app de WorkStation para encontrar, reservar y administrar espacios de trabajo de manera fácil y rápida desde tu smartphone." />
-<meta name="keywords" content="app de coworking, alquiler oficinas móvil, espacios de trabajo app, freelancers app, gestión espacios" />
+<meta
+  name="description"
+  content="Descarga la app de WorkStation para encontrar, reservar y administrar espacios de trabajo de manera fácil y rápida desde tu smartphone." />
+<meta
+  name="keywords"
+  content="app de coworking, alquiler oficinas móvil, espacios de trabajo app, freelancers app, gestión espacios" />
 <meta name="author" content="WorkStation Team" />
 <meta name="robots" content="index, follow" />
-<meta property="og:title" content="WorkStation App | Alquila y administra espacios desde tu móvil" />
-<meta property="og:description" content="Reserva espacios de trabajo flexibles para freelancers desde cualquier lugar con la app de WorkStation." />
+<meta
+  property="og:title"
+  content="WorkStation App | Alquila y administra espacios desde tu móvil" />
+<meta
+  property="og:description"
+  content="Reserva espacios de trabajo flexibles para freelancers desde cualquier lugar con la app de WorkStation." />
 <meta property="og:image" content="URL_DE_LA_IMAGEN_APP" />
 <meta property="og:url" content="https://www.workstation.com/app" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-
 ```
 
 #### 3.1.2.4. Searching Systems
@@ -1462,15 +1469,216 @@ Este sistema de navegación estructurado garantiza que los usuarios de WorkStati
 
 ## 4. Product Implementation & Validation
 
+Aqui se explicara las desiciones tecnicas que se tuvo para el desarrollo del reporte y el primer sprint para nuestra solucion, la Landing Page, la API Rest, su respectivo despliegue y el avance la solucion Android.
+
 ### 4.1. Software Configuration Management
+
+Herramientas utilizadas
+
+- Figma: Plataforma de diseño colaborativo utilizada para crear interfaces de usuario (UI) y prototipos interactivos. Para el desarrollo de la aplicacion web se utilizo para hacer el Mock-up, wireframes y el modelo final.
+- UXPressia: Herramienta para crear mapas de experiencia del usuario, como user personas, customer journey maps y impact maps.
+- Visual Studio code: Editor de código fuente ligero y extensible, ideal para programar en múltiples lenguajes. Se utilizo para modificar el README.md.
+- Git: Sistema de control de versiones que permite gestionar y registrar cambios en el código fuente de un proyecto.
+- Github: Plataforma basada en Git para alojar repositorios de código y colaborar con otros desarrolladores. Se utilizo para agilizar nuestros avances en el README.md y para tener todo mas organizado.
+- Visual Paradigm Online: Herramienta en línea para modelado visual de software, como diagramas UML, BPMN, etc. Se utilizo para hacer los diagramas de contexto, contenedores y componentes.
+- MySQL Workbench: Sistema de gestión de bases de datos relacional, utilizado para almacenar, consultar y administrar datos. Se utilizo para la creacion de la base de datos y su diagrama.
+- StarUML: Software para modelado UML que facilita la creación de diagramas de clases, casos de uso, secuencia, entre otros. Se utilizo para realizar el modelo del diagrama de clases.
+- WhatsApp: Aplicación de mensajería instantánea, útil para la comunicación rápida en equipos de trabajo.
+- Markdown: Lenguaje de marcado ligero usado para dar formato a texto plano, comúnmente en documentación técnica y README de repositorios. Fue el lenguaje en el que se realizo el documento.
+- Structurz: Lenguaje y aplicacion para la creacion de diagramas DDD para tener una buena estructura del proyecto y saber por que camino estamos yendo
+- Android Studio: IDE que ayudo a programar la solucion hecha en Kotlin y facilito el camino para el desarrollo optimo de la aplicacion.
 
 #### 4.1.1. Software Development Environment Configuration
 
+Para la gestion de codigo, se realizaron los avances en una plataforma que sea posible de rastrear y facil de manejar como lo seria GitHub. Asimismo, se uso Git para tener facilidad editar nuestros documentos. A continuacion los repositorios utilizados para este sprint:
+
+- Organizacion: [https://github.com/1ACC0238-Grupo-4](https://github.com/1ACC0238-Grupo-4)
+- Reporte: [https://github.com/1ACC0238-Grupo-4/Report.git](https://github.com/1ACC0238-Grupo-4/Report.git)
+- Landing page: [https://github.com/1ACC0238-Grupo-4/Landing-page.git](https://github.com/1ACC0238-Grupo-4/Landing-page.git)
+- Backend: [https://github.com/1ACC0238-Grupo-4/Backend.git](https://github.com/1ACC0238-Grupo-4/Backend.git)
+- Frontend App Movil:[https://github.com/1ACC0238-Grupo-4/Frontend-kotlin](https://github.com/1ACC0238-Grupo-4/Frontend-kotlin)
+
+**Gitflow**
+Gitflow es una estrategia de ramificación (branching) en Git que define un separa el flujo de trabajo para una mejor organizacion, esto para que los trabajos colaborativos se puedan desarrollar de la mejor manera. Separa las diferentes fases del desarrollo (nuevas funcionalidades, pruebas, correcciones) en distintas branches. Las branches permiten trabajar en paralelo en diferentes aspectos del proyecto sin afectar el código principal. En Gitflow, cada tipo de rama tiene una función específica.
+
+| Rama           | Función                                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| master         | Contiene el código en producción. Cada versión estable y lista para liberar se guarda aquí.                         |
+| develop        | Rama principal de desarrollo. Aquí se integran nuevas funcionalidades antes de liberar.                             |
+| feature/{user} | Se usa para desarrollar nuevas funcionalidades. Se crea a partir de develop y al terminar se fusiona de nuevo allí. |
+
+Conventional commits
+
+Los commits convencionales son una forma de realizar mensajes en formato estandarizado en trabajo colaborativos como GitHub .Facilita la lectura del historial y la generación automática de versiones (releases). Para este projecto, se realizaron multiples commits siguiendo los tipos a continuacion para que el historial sea el mas adecuado acerca de nuestros avances durante las primeras 4 semanas.
+
+| Tipo     | Descripción                                                                | Ejemplo                                             |
+| -------- | -------------------------------------------------------------------------- | --------------------------------------------------- |
+| feat     | Añade una nueva funcionalidad al sistema.                                  | feat(auth): añadir login con Google                 |
+| fix      | Corrige un error.                                                          | fix(api): corregir error al obtener usuarios        |
+| docs     | Cambios en la documentación (README, comentarios, etc.).                   | docs(readme): actualizar sección de instalación     |
+| style    | Cambios que no afectan la lógica del código (espacios, formato, comas).    | style(ui): reordenar imports y quitar espacios      |
+| refactor | Cambios en el código que no corrigen bugs ni agregan funciones.            | refactor(utils): simplificar función de validación  |
+| test     | Añade o modifica pruebas.                                                  | test(routes): agregar pruebas para rutas protegidas |
+| chore    | Tareas del mantenimiento del proyecto (build, dependencias, configs, etc.) | chore: actualizar dependencias con npm              |
+
 #### 4.1.2. Source Code Management
+
+El kebab-case es un estilo de escritura donde las palabras se separan con guiones (-) y todas las letras están en minúsculas. Este estilo se usa comúnmente en nombres de archivos, rutas web y clases CSS. Se decidio por el uso en este proyecto debido a la legibilidad y facilidad para entender, favorece la consistencia en proyectos colaborativos y es una convencion muy popular.
+
+`Nombre normal: UserProfileComponent 
+En kebab-case: user-profile-component`
+
+Se usa de la siguiente manera
+
+| Uso común                                                 | Ejemplo                   |
+| --------------------------------------------------------- | ------------------------- |
+| Nombres de archivos                                       | login-page.component.html |
+| Clases CSS                                                | .nav-bar, .error-message  |
+| URLs                                                      | /user-profile/settings    |
+| Nombres de componentes (en frameworks como Vue o Angular) | `<user-profile-card>`     |
+
+#### HMTL, CSS y JS
+
+Para el uso de los siguientes lenguajes primarios para desarrollar nuestra solucion, se utilizaron las siguientes uenas practicas
+
+##### HTML
+
+Uso de etiquetas semánticas (`<header>, <section>, <article>, <footer>`, etc.), todos los atributos en minúscula, nombres de clase en kebab-case e indentación consistente (2 o 4 espacios, sin tabs). A continuacon un ejemplo
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mi página</title>
+  </head>
+  <body>
+    <header class="main-header">
+      <h1>Bienvenido</h1>
+    </header>
+    <section class="user-profile">
+      <p>Hola, usuario</p>
+    </section>
+  </body>
+</html>
+```
+
+##### CSS
+
+El uso de kebab-case para clases, uso de selectores específicos pero no demasiados largos, uso de variables CSS con el siguiente termino (--main-color). A continuacion un ejemplo
+
+```css
+:root {
+  --primary-color: #3498db;
+}
+
+.main-header {
+  background-color: var(--primary-color);
+  padding: 1rem;
+  text-align: center;
+}
+
+.user-profile {
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+```
+
+##### JS
+
+Uso de camelCase para variables y funciones, asimismo el uso PascalCase para clases y componentes y constantes en UPPER_SNAKE_CASE. Las variables siempre deben ser declaradas con let o const, evitando el var. Por ultimo usar las funciones flecha cuando sea posible. A continuacion un ejemplo:
+
+```js
+const API_URL = "https://api.example.com/users";
+
+function fetchUserData(userId) {
+  return fetch(`${API_URL}/${userId}`)
+    .then((response) => response.json())
+    .then((data) => {
+      console.log("Datos del usuario:", data);
+    })
+    .catch((error) => console.error("Error:", error));
+}
+```
+
+##### Kotlin
+
+Se uso el camelCase para variables y funciones, PascalCase para clases y CONSTANT_CAS para variables constantes. Asimismo se prefirio el uso de `val`, una variable inmutable en vez de `var`.
+
+```kotlin
+const val API_URL = "https://api.example.com/users"
+
+fun fetchUserData(userId: Int) {
+    val endpoint = "$API_URL/$userId"
+
+    println("Obteniendo datos del usuario desde: $endpoint")
+
+    // Simulación de una llamada a API
+    val userData = mapOf("id" to userId, "name" to "Carlos", "email" to "carlos@example.com")
+
+    println("Datos del usuario: $userData")
+}
+
+```
+
+##### C#
+
+En en el Backend se utilizo el PascalCase para clases, emtodos y propiedades, CamelCase para variables y paramatros, por ultimo UPPER_SNAKE_CASE para variables constantes.
+
+```csharp
+const string API_URL = "https://api.example.com/users";
+
+public class UserService
+{
+    public async Task FetchUserDataAsync(int userId)
+    {
+        var endpoint = $"{API_URL}/{userId}";
+        Console.WriteLine($"Obteniendo datos del usuario desde: {endpoint}");
+
+        using var httpClient = new HttpClient();
+        var response = await httpClient.GetAsync(endpoint);
+
+        if (response.IsSuccessStatusCode)
+        {
+            var data = await response.Content.ReadAsStringAsync();
+            Console.WriteLine($"Datos del usuario: {data}");
+        }
+        else
+        {
+            Console.WriteLine($"Error al obtener datos: {response.StatusCode}");
+        }
+    }
+}
+
+```
 
 #### 4.1.3. Source Code Style Guide & Conventions
 
 #### 4.1.4. Software Deployment Configuration
+
+En este punto se describen los pasos para hacer el despliegue de la Landing Page utilizando GitHub Pages utilizando el repositorio anteriormente mencionado.
+
+Primero en la seccion de configuraciones del repositorio, se abre la seccion de Pages.
+![deployment1](/assets/chapter-IV/deployment1.png)
+
+Se selecciona la main branch donde se encuentra la ultima actualizacion del codigo en HTML, CSS y JS. Por ultimo se guardan las configuraciones
+![deployment2](/assets/chapter-IV/deployment2.png)
+Luego de unos segundos la aplicacion se ha desplegado, siendo el simbolo de confirmacion el check al lado del nombre del repositorio
+![deployment3](/assets/chapter-IV/deployment3.png)
+A continuacion, un vistazo de la landing page:
+![deployment4](/assets/chapter-IV/deployment4.png)
+
+URL: [https://1acc0238-grupo-4.github.io/Landing-page/](https://1acc0238-grupo-4.github.io/Landing-page/)
+
+Luego de esto se hizo el despliegue del API Rest en Azure. Se creo un Web App basado en Linux y con soporte para .NET 9, que es el Framework utilizado para la creacion de este Backend.
+
+![deployment5](/assets/chapter-IV/deployment5.png)
+
+![deployment6](/assets/chapter-IV/deployment6.png)
+
+![deployment7](/assets/chapter-IV/deployment7.png)
+
+URL del swagger: [https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.azurewebsites.net/swagger/index.html](https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.azurewebsites.net/swagger/index.html)
 
 ### 4.2. Landing Page & Mobile Application Implementation
 
