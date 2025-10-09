@@ -213,6 +213,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 - **Objetivo 1:** Ampliar mi conocimiento en arquitectura y estructura de aplicaciones, entendiendo el flujo completo de procesos más allá del código, mediante la investigación, estudio de casos y desarrollo de al menos 3 proyectos integrales en un plazo de 18 meses, para fortalecer mi capacidad de análisis y diseño en entornos de desarrollo profesional.
 - **Objetivo 2:** Mejorar mis habilidades de comunicación activa y colaboración profesional mediante la práctica constante en entornos académicos y laborales, participación en presentaciones, reuniones y networking, logrando un progreso medible en retroalimentación de compañeros y mentores en un plazo de 6 meses, para facilitar mi integración y desempeño en equipos de desarrollo de software.
 
+---
+
 # Capítulo I: Presentación
 
 ## 1.1. Startup Profile
@@ -443,6 +445,8 @@ Este grupo está compuesto por trabajadores independientes, equipos pequeños de
 - Precios accesibles, según uso (por horas o días).
 - Información clara sobre servicios incluidos (wifi, café, salas, etc.).
 - Reseñas de otros usuarios para tomar decisiones confiables.
+
+---
 
 # Capítulo II: Requirements Development and Software Solution Design
 
@@ -876,9 +880,15 @@ Para el event Storming se siguieron los pasos establecidos para llegar a entende
 
 #### 2.5.1.2. Domain Message Flows Modeling
 
+En este primer modelo se puede ver que se inicia desde el usuario, donde se crea una cuenta en la aplicacion como un propietario de oficina, este crea una oficina y llega a crear la conexion entre los contextos de Owner y Office. Todo esto almacenandose en la API Rest.
+
 ![messageflow](/assets/chapter-II/messageFlow1.jpg)
 
+En este segundo escenario, el usuario se crea una cuenta comun y busca por medio del contexto de busqueda. Asi encontrando una oficina que rentar, pero antes, chatea con el propietario.
+
 ![messageflow2](/assets/chapter-II/messageFlow2.jpg)
+
+El usuario se crea una cuenta comun, busca la oficina a la cual quiere dejar una opinion, la encuentra y por medio del Rating Context, realiza una opinion a la oficina que busco con anterioridad.
 
 ![messageflow3](/assets/chapter-II/messageFlow3.jpg)
 
@@ -900,6 +910,10 @@ Para el event Storming se siguieron los pasos establecidos para llegar a entende
 
 ![ContextMapping](/assets/chapter-II/Contextmapping.jpg)
 
+Aqui se presentan los contextos identificados anteriormente, User, Property Owner, Offices, Searching, Rating y Messaging. Ademas de poder ver las relaciones que posee, Las oficinas tienen una relacion con los usuarios comunes y con el rating indicando que los usuarios pueden interactuar con las oficinas, Searching depende de las oficinas para obtener los datos de busqueda y por ultimo, Rating depende de Offices para ofreces la experiencia de dejar una opinon.
+
+Asimismo tiene otras relaciones, como la de User y Property Owner, debido a que ambas se heredan de la misma clase BaseUser, por otro lado las dos se encuentran conectadas con messaging debido a que es el contexto por el cual las dos se comunican.
+
 ### 2.5.3. Software Architecture
 
 #### 2.5.3.1. Software Architecture Context Level Diagrams
@@ -912,7 +926,49 @@ Para el event Storming se siguieron los pasos establecidos para llegar a entende
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
-![DeploymentDiagram](/assets/chapter-II/Deploymentdiagram.jpg)
+```mermaid
+graph TD
+    %% ===== CLIENTES =====
+    subgraph Clients["<<Device>> Clientes"]
+        A1["<<Device>> WebApp Frontend<br><<Artifact>> dist/index.html<br><<ExecutionEnv>> Browser (HTTPS)"]
+        A2["<<Device>> Landing Page<br><<Artifact>> landing.html<br><<ExecutionEnv>> Browser (HTTPS)"]
+        A3["<<Device>> Mobile App<br><<Artifact>> Workstation.apk<br><<ExecutionEnv>> Android/iOS Runtime"]
+    end
+
+    %% ===== AZURE INFRASTRUCTURE =====
+    subgraph AzureCloud["☁️ Azure Cloud Environment"]
+
+        %% Load Balancer / Gateway
+        LB["<<Device>> Azure Front Door<br><<Artifact>> Load Balancer / Reverse Proxy<br>Protocol: HTTPS"]
+
+        %% API App Service
+        subgraph APIServer["<<Device>> Azure App Service (API)"]
+            API["<<Artifact>> Workstation.API.dll<br><<ExecutionEnv>> .NET 9 Runtime<br>Language: C#"]
+        end
+
+        %% Database
+        subgraph DBServer["<<Device>> Free SQL Database"]
+            DB["<<Artifact>> WorkstationDB.sql<br><<ExecutionEnv>> SQL Server"]
+        end
+
+        %% External Services
+        subgraph ExternalServices["<<Device>> Azure External Services"]
+            EXT1["<<Artifact>> Notification Service (SendGrid API)<br>Protocol: HTTPS"]
+            EXT2["<<Artifact>> Azure Blob Storage<br>Protocol: HTTPS"]
+        end
+    end
+
+    %% ===== CONEXIONES =====
+    A1 -->|HTTPS| LB
+    A2 -->|HTTPS| LB
+    A3 -->|HTTPS| LB
+
+    LB -->|HTTPS| API
+    API -->|TCP/IP| DB
+    API -->|HTTPS| EXT1
+    API -->|HTTPS| EXT2
+
+```
 
 ## 2.6. Tactical-Level Domain-Driven Design
 
@@ -1074,6 +1130,8 @@ Para los servicios externos solo se creo un Repositorio:
 
 ![DatabaseDiagram](/assets/chapter-II/ratingDatabase.png)
 
+---
+
 # Capítulo III: Solution UI/UX Design
 
 ## 3.1. Product design
@@ -1104,13 +1162,13 @@ Brindar a freelancers y emprendedores espacios flexibles de trabajo a través de
 
 Para los colores de la aplicacion buscamos identidad visual refleja estabilidad, claridad y creatividad, creando un ambiente digital acogedor y eficiente. Un diseño limpio y moderno que genera comodidas y profesionalismo.
 
-![Img Colors](/assets/Colors-workStation.png)
+![Img Colors](/assets/chapter-III/Colors-workStation.png)
 
 #### Tipografia:
 
 La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Roboto Flex**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas.
 
-![tipografia](/assets/tipografia.png)
+![tipografia](/assets/chapter-III/tipografia.png)
 
 #### Spacing:
 
@@ -1497,6 +1555,8 @@ Este sistema de navegación estructurado garantiza que los usuarios de WorkStati
 ![prototyping1](/assets/chapter-III/prototiping1.png)
 
 ![prototyping2](/assets/chapter-III/prototiping2.png)
+
+---
 
 # Capítulo IV: Product Implementation & Validation
 
