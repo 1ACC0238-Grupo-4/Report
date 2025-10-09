@@ -120,27 +120,47 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
       - [2.6.x.6. Bounded Context Software Architecture Code Level Diagrams](#26x6-bounded-context-software-architecture-code-level-diagrams)
         - [2.6.x.6.1. Bounded Context Domain Layer Class Diagrams](#26x61-bounded-context-domain-layer-class-diagrams)
         - [2.6.x.6.2. Bounded Context Database Design Diagram](#26x62-bounded-context-database-design-diagram)
-- [Capítulo III: Solution UI/UX Design](#capítulo-iii-solution-ui/ux-design)
-  - [3.1. Product Design](#31-product-design)  
-    - [3.1.1. Style Guidelines](#311-style-guidelines)  
-      - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)  
-    - [3.1.2. Information Architecture](#312-information-architecture)  
-      - [3.1.2.1. Organization Systems](#3121-organization-systems)  
-      - [3.1.2.2. Labelling Systems](#3122-labelling-systems)  
-      - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)  
-      - [3.1.2.4. Searching Systems](#3124-searching-systems)  
-      - [3.1.2.5. Navigation Systems](#3125-navigation-systems)  
-    - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)  
-      - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)  
-      - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)  
-    - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)  
-      - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)  
-      - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)  
-      - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)  
-      - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)  
-      - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)  
+- [Capítulo III: Solution UI/UX Design](#capítulo-iii-solution-uiux-design)
 
+  - [3.1. Product design](#31-product-design)
+    - [3.1.1. Style Guidelines](#311-style-guidelines)
+      - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+    - [3.1.2. Information Architecture](#312-information-architecture)
+      - [3.1.2.1. Organization Systems](#3121-organization-systems)
+      - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+      - [3.1.2.3. SEO Tags and Meta Tags](#3123-seo-tags-and-meta-tags)
+      - [3.1.2.4. Searching Systems](#3124-searching-systems)
+      - [3.1.2.5. Navigation Systems](#3125-navigation-systems)
+    - [3.1.3. Landing Page UI Design](#313-landing-page-ui-design)
+      - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
+      - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
+    - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
+      - [3.1.4.1. Mobile Applications Wireframes](#3141-mobile-applications-wireframes)
+      - [3.1.4.2. Mobile Applications Wireflow Diagrams](#3142-mobile-applications-wireflow-diagrams)
+      - [3.1.4.3. Mobile Applications Mock-ups](#3143-mobile-applications-mock-ups)
+      - [3.1.4.4. Mobile Applications User Flow Diagrams](#3144-mobile-applications-user-flow-diagrams)
+      - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
 
+- [Capítulo IV: Product Implementation & Validation](#capítulo-iv-product-implementation--validation)
+  - [4. Product Implementation & Validation](#4-product-implementation--validation)
+    - [4.1. Software Configuration Management](#41-software-configuration-management)
+      - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+      - [4.1.2. Source Code Management](#412-source-code-management)
+      - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
+      - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+    - [4.2. Landing Page & Mobile Application Implementation](#42-landing-page--mobile-application-implementation)
+      - [4.2.1. Sprint 1](#421-sprint-1)
+        - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+        - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
+        - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+        - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+        - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+        - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+        - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+        - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+    - [4.3. Validation Interviews](#43-validation-interviews)
+      - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
+      - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
 
 ---
 
@@ -154,10 +174,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
 
-| Criterio específico                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Omar Berrocal**<br/>**TB1**<br/>Durante esta entrega volví a revisar conceptos generales y técnicos de métodos y desarrollos agiles, para poder planificar y realizar el proyecto acorde a los estándares y aplicando buenas prácticas de desarrollo. De igual manera para absolver las dudas de mis compañeros sobre como vamos a trabajar y que modelo usaremos, como es el gitflow, conventional commits, entre otros. <br>**Rodrigo Liberato**<br/>**TB1**<br/>Durante esta entrega me comprometi a entender mejor el estado de los contexto embedidos ysu proceso para llegar al estado final de desarrollo. <br>**Adriana Diestra** <br/>**TB1**<br/>Durante esta entrega apliqué conceptos de metodologías ágiles y buenas prácticas como Gitflow y conventional commits, además de técnicas de especificación de requisitos (user stories, impact mapping y backlog) para planificar el proyecto de manera ordenada y conforme a estándares. | Como equipo repasamos conceptos vistos anteriormente, como Event Storming de Scrum, patrones de diseño de software, Domain Driven Design, diagramas y métodos ágiles, demostrando así la necesidad de poner en práctica constantemente lo aprendido para su uso en proyectos de software.                                                                                                                                                                                                                                          |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Omar Berrocal**<br/>**TB1**<br/>Para esta entrega al realizar el proceso Lean UX me ayudó a identificar las tendencias de los segmentos objetivos y las necesidades que representan opotunidades para nuestro proyecto en el mercado. Hacer una investigación me hizo aprender como es que se perciben los problemas desde diferentes perspectivas. <br>**Rodrigo Liberato**<br/>**TB1**<br/>El aprendizaje durante esta etapa del proyecto me ayudo a entender el valor del proceso de desarrollo de una aplicacion movil y la complejidad detras de esta.             <br> **Adriana Diestra**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. <br> **Moises Espinoza**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto.                                             | Como equipo reconocemos que el aprendizaje permanente es fundamental para estar siempre a la vanguardia y mantener la calidad de nuestro producto. Identificar las nuevas tendencias de tecnologías y metodologías nos ayudará a elegir las mejores alternativas de desarrollo a lo largo del proyecto. La implementación de Domain Driven Design y diseño de arquitectura en dominios, uso de control de versiones, metodologías ágiles, nos permitieron alcanzar competencias técnicas que nos hacen crecer como profesionales. |
+| Criterio específico                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Omar Berrocal**<br/>**TB1**<br/>Durante esta entrega volví a revisar conceptos generales y técnicos de métodos y desarrollos agiles, para poder planificar y realizar el proyecto acorde a los estándares y aplicando buenas prácticas de desarrollo. De igual manera para absolver las dudas de mis compañeros sobre como vamos a trabajar y que modelo usaremos, como es el gitflow, conventional commits, entre otros. <br>**Rodrigo Liberato**<br/>**TB1**<br/>Durante esta entrega me comprometi a entender mejor el estado de los contexto embedidos ysu proceso para llegar al estado final de desarrollo. <br/>**TP**<br/>Durante esta entrega parcial me dedique a ayudar con el desarrollo del aplicativo movil y a hacer el deploy y brindar mejoras en el backend de la aplicacion. <br>**Adriana Diestra** <br/>**TB1**<br/>Durante esta entrega apliqué conceptos de metodologías ágiles y buenas prácticas como Gitflow y conventional commits, además de técnicas de especificación de requisitos (user stories, impact mapping y backlog) para planificar el proyecto de manera ordenada y conforme a estándares.                                                                                                                                                                                                                                                                                                                                                                        | Como equipo repasamos conceptos vistos anteriormente, como Event Storming de Scrum, patrones de diseño de software, Domain Driven Design, diagramas y métodos ágiles, demostrando así la necesidad de poner en práctica constantemente lo aprendido para su uso en proyectos de software.                                                                                                                                                                                                                                         |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Omar Berrocal**<br/>**TB1**<br/>Para esta entrega al realizar el proceso Lean UX me ayudó a identificar las tendencias de los segmentos objetivos y las necesidades que representan opotunidades para nuestro proyecto en el mercado. Hacer una investigación me hizo aprender como es que se perciben los problemas desde diferentes perspectivas. <br>**Rodrigo Liberato**<br/>**TB1**<br/>El aprendizaje durante esta etapa del proyecto me ayudo a entender el valor del proceso de desarrollo de una aplicacion movil y la complejidad detras de esta. <br/>**TP**<br/> Durante esta entrega se puso en practica lo aprendido de la anterior iteracion y se hicieron las mejoras respectivas para entender el proceso de desarrollo de una aplicacion movil y su conexion con servicios externos <br> **Adriana Diestra**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. <br> **Moises Espinoza**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. | Como equipo reconocemos que el aprendizaje permanente es fundamental para estar siempre a la vanguardia y mantener la calidad de nuestro producto. Identificar las nuevas tendencias de tecnologías y metodologías nos ayudará a elegir las mejores alternativas de desarrollo a lo largo del proyecto. La implementación de Domain Driven Design y diseño de arquitectura en dominios, uso de control de versiones, metodologías ágiles, nos permitieron alcanzar competencias técnicas que nos hacen crecer como profesionales. |
 
 ## Objetivos SMART
 
@@ -663,6 +683,7 @@ Enlace del video de la entrevista: [link](https://youtu.be/F3gz5at9sc4)
 
 ![Img propietario3](/assets/chapter-II/Entrevista-Miguel.png)
 
+![Img propietario2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Entrevista-Miguel.png)
 
 **Entrevistado:** Miguel Quijada  
 **Edad:** 43 años  
@@ -878,7 +899,7 @@ Para el event Storming se siguieron los pasos establecidos para llegar a entende
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
-![DDDContainer](/assets/chapter-II/DDDContainer.png)
+![DDDContainer](/assets/chapter-II/DDD-Container-001.png)
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
@@ -933,11 +954,11 @@ Para los servicios externos solo se creo un Repositorio:
 
 ##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417671581634924664/XL9jJW8n4FtVK_IdHE406wCiB2g9ebdb08KECaa_IDl56FNkjhDGTzM4FxkTDwzltinqx8DmeT6AhPNmda-4Xva96Dxv1-FydCybB_XjWvAYgGCHG5Rn4-7qUq4Db7gm4ZVu9tTDoQK7HqfeGWliP1BguYrpxijrm7sIM5chs1TZO1fD2hLLGBRAkfujgh9wh6CmMJvFwHYfr0HnYJVa.png?ex=68cb550c&is=68ca038c&hm=993b1bfb6192bdf31c4f2dc5fda1141347898ce7803f7ad3a200245b961a4372&=&format=webp&quality=lossless)
+![ClassDiagram](/assets/chapter-II/UserClassDiagram.png)
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417671581236461609/XLBDIiD04BxdAOQS6h5IXLvAAQssnT1Qef07c6H7Cf1iT7TI4UExknkgJGJnakpEzpCpNxAqWaQQgWn82yixXBTeQTETGq0BcRkUe8y0u09Y1JDeDBysnCeZpqm6vlDajrWumfqX559hzt0yvLx25JdWeLQU-Xk1GxhVEpYrP3fhrkAlBvwW-jLlPcnNkV3HcsGimMVmCxfdssxgnf_-.png?ex=68cb550c&is=68ca038c&hm=dee65a9589aa9ee8646c03c5ba2fdb8d8b659bee7e3eef35d38b85c305a733c0&=&format=webp&quality=lossless)
+![DatabaseDiagram](/assets/chapter-II/UserDatabaseDiagram.png)
 
 ---
 
@@ -987,11 +1008,11 @@ Para los servicios externos solo se creo un Repositorio:
 
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417678179551805551/XLFTJi8m5BxVKpIx0dKNtYu4mM4C2Vv4vG5ATo0dwTQbFP0OzDrjj-Ceq-WDhD_vThwVT3D7qjA-qedIqZbnAntSrOJqBew949TYMOfStE-nR4-51KbGBloFXyFV6rRGZXvCYLlyCRjfXsi7jjs4DNL0KuP5CTunbswk20zXnSOOdNmcxEnfkqK5x6fbb2GqjMSvibZlMdG1JbbipWQy.png?ex=68cb5b31&is=68ca09b1&hm=827dff612fb42a3147106daea4b2674a016ddac888f9fbcfb2567d488ec9c255&=&format=webp&quality=lossless)
+![ClassDiagram](/assets/chapter-II/OfficeClassDiagram.png)
 
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417678179551805551/XLFTJi8m5BxVKpIx0dKNtYu4mM4C2Vv4vG5ATo0dwTQbFP0OzDrjj-Ceq-WDhD_vThwVT3D7qjA-qedIqZbnAntSrOJqBew949TYMOfStE-nR4-51KbGBloFXyFV6rRGZXvCYLlyCRjfXsi7jjs4DNL0KuP5CTunbswk20zXnSOOdNmcxEnfkqK5x6fbb2GqjMSvibZlMdG1JbbipWQy.png?ex=68cb5b31&is=68ca09b1&hm=827dff612fb42a3147106daea4b2674a016ddac888f9fbcfb2567d488ec9c255&=&format=webp&quality=lossless)
+![DatabaseDiagram](/assets/chapter-II/OfficeDatabaseDiagram.png)
 
 ---
 
@@ -1032,47 +1053,691 @@ Para los servicios externos solo se creo un Repositorio:
 
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-![ComponentDiagram3](https://github.com/WorkStation-MarronCoders/Report/blob/main/Imagenes/DDD_rating.png)
+![ComponentDiagram3](/assets/chapter-II/DDD_rating.png)
 
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919309644173485/ZPBFRi8m38VlVOgeHwOUTaM8ZPLfGc9_DCO3cDGWIsc24eCqRNltfKaKXNBOJj3Fxi-Vqzmx1ikdNbLIWNFY0Hm-QYR-55-L43TYrOcfU3fH5vvQYy3OBO7Hu-7dWteCfMVJqPwkQdUXk7LeGn9fZk3O3K4bZvqhjv1CP_HiPuogVgfazhhVayHajJOIc8psNOujwKEWItJIql6Ya5.png?ex=68cc3bc3&is=68caea43&hm=91c93664e3ba518334629a459bbee1a020b7da11bd92298a6cfab04759cd83ba&=&format=webp&quality=lossless&width=794&height=906)
+![ClassDiagram](/assets/chapter-II/ratingClass.png)
 
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](https://media.discordapp.net/attachments/766316535290789908/1417919310386692237/fLDHQy8m47xlhmXzqZ57tUYBYEXqGj4vcVW3pkJKG9kw91Q6tNzVqgurb3d7zj8cztrtztt7PQWqI7rCOW-5vlgT-8-WyAau-mGKsPZh5tJo2BaX4ICzSXJyxOYSMMJBKP9-VpaR30nXB14qiedv61upFyqJDC1poYorYP35UZuty5gXB4fpeUtrO0dCZLRCI8sevfajik7Q-_1gwI.png?ex=68cc3bc3&is=68caea43&hm=e59e084fc66b78eac7c77d783c44f1692bc6746af9165ab1065e24c50bfd379c&=&format=webp&quality=lossless&width=1176&height=906)
-
----
+![DatabaseDiagram](/assets/chapter-II/ratingDatabase.png)
 
 # Capítulo III: Solution UI/UX Design
 
+## 3.1. Product design
 
-## 3.1. Product Design
+En este capítulo se mostrará el desarrollo de las interfaces y procesos relacionados a la aplicación. Se tiene como objetivo ser llamativa y simple para el usuario. Para ello, se usaron colores atractivos, uso del espacio de manera dinámica independiente del dispositivo enfocado, uso de imágenes y texto que no sobrecarga de información al usuario y la separación de las herramientas según su grupo determinado.
 
 ### 3.1.1. Style Guidelines
 
+#### Branding:
+
+**WorkStation** es una aplicación diseñada para conectar freelancers con espacios de trabajo adecuados a sus necesidades. Su objetivo es proporcionar opciones de alquiler flexibles, seguras y accesibles, permitiendo a los usuarios encontrar el lugar perfecto para desarrollar sus proyectos sin complicaciones.
+
+### **Visión**
+
+Ser la plataforma líder en la conexión entre freelancers y espacios de trabajo, facilitando el acceso a lugares ideales para potenciar la productividad.
+
+### **Misión**
+
+Brindar a freelancers y emprendedores espacios flexibles de trabajo a través de un sistema de alquiler sencillo, confiable y eficiente.
+
+#### Logo:
+
+![Img Logo](/assets/chapter-III/logo-workstation.jpg)
+
+![Img Logo2](/assets/chapter-III/logo-workstation-movil.png)
+
+#### Colors:
+
+Para los colores de la aplicacion buscamos identidad visual refleja estabilidad, claridad y creatividad, creando un ambiente digital acogedor y eficiente. Un diseño limpio y moderno que genera comodidas y profesionalismo.
+
+![Img Colors](/assets/Colors-workStation.png)
+
+#### Tipografia:
+
+La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Roboto Flex**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas.
+
+![tipografia](/assets/tipografia.png)
+
+#### Spacing:
+
+Para nuestro proyecto, el espaciado es crucial para garantizar la legibilidad y accesibilidad, así que por eso tomamos estas decisiones:
+
+- **Espaciado entre párrafos:** Equivalente a al menos el tamaño de una línea completa
+- **Espaciado entre elementos interactivos:** 8-12 píxeles de espacio entre botones, enlaces o cualquier elemento clicable.
+- **Márgenes y padding:** 16-24 píxeles alrededor del contenido.
+
+#### Tono de Comunicación:
+
+| Dimensión              | Nivel Adoptado    |
+| ---------------------- | ----------------- |
+| Divertido/Serio        | Medio-Serio       |
+| Formal/Casual          | Semi-Formal       |
+| Respetuoso/Irreverente | Muy Respetuoso    |
+| Entusiasta/Sereno      | Sereno y Empático |
+
+Decidimos mantener una comunicación clara, cálida y profesional, porque este enfoque nos permite conectar de manera efectiva con el público, especialmente en un contexto tan profesional.
+
 #### 3.1.1.1. General Style Guidelines
+
+#### **Diseño Responsive**
+
+Para asegurar que la página se ajuste correctamente a distintos tamaños de pantalla y que el contenido siga siendo comprensible y visualmente atractivo, se empleará CSS junto con media queries. Estas herramientas permitirán definir estilos específicos según la resolución del dispositivo. Elementos fundamentales, como la barra de navegación y el pie de página, se adaptarán automáticamente para garantizar una experiencia óptima en diversos dispositivos. Siguiendo los siguientes breakpoints:
+
+| Dispositivo | Ancho mínimo | Ejemplo de uso           |
+| ----------- | ------------ | ------------------------ |
+| Mobile      | ≥ 320px      | Teléfonos                |
+| Tablet      | ≥ 768px      | iPad / tablets genéricas |
+| Laptop      | ≥ 1024px     | Monitores y laptops      |
+| Wide Screen | ≥ 1440px     | Pantallas grandes o TV   |
+
+#### **Navegación**
+
+Usaremos un menú de hamburguesa en dispositivos móviles para optimizar el espacio disponible, mientras que el menú horizontal nos permitirá acceder de manera inmediata a las opciones principales, mejorando la navegación y la experiencia del usuario.
+
+#### **Imágenes**
+
+Emplearemos los formatos de imagen en .PNG para garantizar una calidad visual óptima y se utilizara figma para adptar las imagenes al tamaño de pixeles acorde. Asimismo, se definirán tamaños específicos y se aplicarán técnicas de compresión para optimizar el rendimiento del sitio web sin afectar la nitidez de las imágenes.
+
+#### **Interacción del Usuario**
+
+Se implementarán animaciones sutiles para mostrar imágenes y textos informativos sobre el servicio. En computadoras portátiles y PCs, será suficiente desplazarse por la página para visualizar todo el contenido y disfrutar de estas interacciones dinámicas
 
 ### 3.1.2. Information Architecture
 
-#### 3.1.2.1. Organization Systems  
-#### 3.1.2.2. Labelling Systems  
-#### 3.1.2.3. SEO Tags and Meta Tags  
-#### 3.1.2.4. Searching Systems  
-#### 3.1.2.5. Navigation Systems  
+#### 3.1.2.1. Organization Systems
+
+El sistema de organización de la aplicación WorkStation, diseñada para conectar freelancers con espacios de trabajo, se estructura de manera clara y eficiente para optimizar la experiencia tanto de los usuarios(freelancers) como de los propietarios que ofrecen sus locales en alquiler. A continuación, se detalla cómo se organiza la plataforma en términos de navegación, funcionalidades y flujos de usuario.
+
+![Diagrama](/assets/chapter-III//Diagrama-WorkStation.png)
+
+El recorrido comienza en la Landing Page, donde los usuarios pueden explorar información general sobre la aplicación. Desde ahí, pueden acceder a la opción de Inicio, que los lleva a la pantalla principal.
+
+Si el usuario es nuevo, puede seleccionar Registro, donde tiene dos opciones:
+
+- **Crear Cuenta**: Completar un formulario con datos personales.
+- **Registrarse con Google**: Opción rápida para vincular la cuenta de Google.
+
+Una vez completado el registro, el usuario avanza a **Iniciar Sesión**, lo que le permite acceder a su perfil dentro de WorkStation.
+
+#### **Diferenciación de Usuarios**
+
+Tras iniciar sesión, el sistema clasifica a los usuarios en **Freelancers** o **Propietarios**, mostrando la interfaz correspondiente según el rol seleccionado.
+
+#### **Freelancers**
+
+Los freelancers acceden a su Página Principal, donde tienen las siguientes opciones en la barra de navegación:
+
+- **Explorar Espacios**: Búsqueda de locales de trabajo con filtros de precio, ubicación y características.
+- **Reservas**: Historial y gestión de reservas activas o pasadas.
+- **Favoritos**: Espacios guardados para futuras reservas.
+- **Mensajes**: Comunicación con propietarios para coordinar detalles.
+- **Perfil**: Configuración de cuenta, historial de pagos y preferencias.
+
+#### **Propietarios**
+
+Los propietarios, por su parte, acceden a su propia Página Principal, con opciones adaptadas a la gestión de locales:
+
+- **Publicar Local**: Registro de espacios con fotos, tarifas y disponibilidad.
+- **Gestión de Locales**: Administración de anuncios, reservas y comunicación con freelancers.
+- **Mensajes**: Chat directo para resolver dudas o coordinar alquileres.
+- **Perfil**: Información de cuenta y datos de pago.
+
+#### 3.1.2.2. Labelling Systems
+
+Los sistemas de etiquetado seguirán la misma estructura presentada en Organization Systems. El usuario podrá seleccionar el encabezado de su interés y, al hacer clic, será dirigido automáticamente a la sección correspondiente dentro de la plataforma.
+
+Para mejorar la experiencia del usuario, las etiquetas siguen principios de usabilidad, con textos claros, consistentes y visualmente diferenciados. Además, el diseño considera la accesibilidad, asegurando compatibilidad con lectores de pantalla, un tamaño adecuado de texto y suficiente contraste para facilitar el uso a todo tipo de perfiles. Al seleccionar una etiqueta, el usuario recibe un feedback visual, como el resaltado o cambio de color, que confirma su acción y optimiza la interacción con la app. También se contempla la posibilidad de personalizar el orden o la visibilidad de ciertas etiquetas, adaptándose a las preferencias y frecuencia de uso de cada usuario. Si la plataforma opera en varios idiomas, las etiquetas se ajustan automáticamente al idioma seleccionado para facilitar la comprensión global. Por último, el sistema de etiquetas está implementado con tecnología que permite una navegación fluida, como scroll automático o vínculos de ancla, mejorando el flujo de uso para que cualquier usuario pueda encontrar lo que busca de manera rápida e intuitiva.
+
+#### **Secciones y contenido de la Landing Pagee**
+
+| **Section**      | **Contenido**                                                                           |
+| ---------------- | --------------------------------------------------------------------------------------- |
+| **Rent With Us** | Explicación sobre cómo los freelancers pueden encontrar y alquilar espacios fácilmente. |
+| **Host With Us** | Información para propietarios interesados en publicar sus espacios en la plataforma.    |
+| **Reviews**      | Opiniones y calificaciones de usuarios que han utilizado la aplicación.                 |
+| **Contact Us**   | Formulario de contacto, información de soporte y preguntas frecuentes.                  |
+
+#### **Secciones y contenido de la app para Freelancers**
+
+| **Section**        | **Contenido**                                                         |
+| ------------------ | --------------------------------------------------------------------- |
+| **Home**           | Acceso a recomendaciones y espacios destacados.                       |
+| **Explore Spaces** | Búsqueda con filtros (ubicación, precio, tipo de espacio).            |
+| **My Bookings**    | Historial y gestión de reservas activas o pasadas.                    |
+| **Favorites**      | Lista de espacios guardados por el usuario para futuras reservas.     |
+| **Messages**       | Chat con propietarios para consultas y coordinaciones.                |
+| **Profile**        | Configuración de cuenta, historial de pagos y ajustes personalizados. |
+| **Help & Support** | Centro de asistencia, preguntas frecuentes y contacto con soporte.    |
+
+#### **Secciones y contenido de la app para Propiestarios**
+
+| **Section**         | **Contenido**                                                     |
+| ------------------- | ----------------------------------------------------------------- |
+| **Home**            | Vista general de actividad en locales y estadísticas de ingresos. |
+| **Publish a Space** | Registro de espacios con fotos, tarifas y disponibilidad.         |
+| **Manage Spaces**   | Administración de anuncios, reservas y actualización de precios.  |
+| **Messages**        | Comunicación con freelancers interesados en los espacios.         |
+| **Profile**         | Información de cuenta y datos de pago.                            |
+| **Help & Support**  | Recursos y guías sobre buenas prácticas en alquiler de espacios.  |
+
+Este sistema de etiquetado permite una navegación clara y ordenada, asegurando que los usuarios encuentren rápidamente la información y funciones que necesitan dentro de WorkStation.
+
+#### 3.1.2.3. SEO Tags and Meta Tags
+
+Un sistema bien estructurado de SEO y Meta Tag es esencial para mejorar la visibilidad y los rankings de búsqueda de WorkStation. A continuación se presentan las etiquetas para las páginas principales:
+
+#### **Landing Page SEO & Meta Tags**
+
+```html
+<title>WorkStation | Encuentra espacios de trabajo para freelancers</title>
+
+<meta
+  name="description"
+  content="WorkStation conecta freelancers con espacios de trabajo flexibles. Encuentra oficinas, coworkings y salas de reunión para potenciar tu productividad." />
+<meta
+  name="keywords"
+  content="coworking, alquiler oficinas, espacios de trabajo, freelancers, productividad" />
+<meta name="author" content="WorkStation Team" />
+<meta name="robots" content="index, follow" />
+<meta
+  property="og:title"
+  content="WorkStation | Encuentra espacios de trabajo" />
+<meta
+  property="og:description"
+  content="Encuentra oficinas y coworkings flexibles para freelancers y emprendedores." />
+<meta property="og:image" content="URL_DE_LA_IMAGEN" />
+<meta property="og:url" content="https://www.workstation.com" />
+```
+
+#### **Mobile Application SEO & Meta Tags**
+
+```html
+<title>WorkStation App | Alquila y administra espacios desde tu móvil</title>
+
+<meta
+  name="description"
+  content="Descarga la app de WorkStation para encontrar, reservar y administrar espacios de trabajo de manera fácil y rápida desde tu smartphone." />
+<meta
+  name="keywords"
+  content="app de coworking, alquiler oficinas móvil, espacios de trabajo app, freelancers app, gestión espacios" />
+<meta name="author" content="WorkStation Team" />
+<meta name="robots" content="index, follow" />
+<meta
+  property="og:title"
+  content="WorkStation App | Alquila y administra espacios desde tu móvil" />
+<meta
+  property="og:description"
+  content="Reserva espacios de trabajo flexibles para freelancers desde cualquier lugar con la app de WorkStation." />
+<meta property="og:image" content="URL_DE_LA_IMAGEN_APP" />
+<meta property="og:url" content="https://www.workstation.com/app" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+```
+
+#### 3.1.2.4. Searching Systems
+
+El Searching System de WorkStation está diseñado para ayudar a los usuarios a encontrar fácilmente la información que necesitan dentro de la aplicación, evitando la sensación de desorientación ante el volumen de datos. Para ello, se implementan las siguientes herramientas:
+
+#### **Barra de Búsqueda Inteligente**
+
+WorkStation contará con una barra de búsqueda global ubicada en la parte superior de la interfaz.
+
+- Los **freelancers** podrán buscar espacios de trabajo por ubicación, precio, servicios, valoraciones y disponibilidad.
+- Los **propietarios** podrán buscar estadísticas de ocupación, reservas y mensajes de clientes.
+- Se implementará un sistema de **filtros avanzados** para refinar la búsqueda según necesidades específicas.
+
+#### **Categorización de Contenido**
+
+Para facilitar la exploración de información relevante, el contenido de WorkStation estará organizado en categorías predefinidas, permitiendo a los usuarios navegar sin necesidad de realizar búsquedas manuales.
+
+- **Freelancers:** Categorías como “Coworking”, “Oficinas privadas”, “Salas de reuniones”, “Espacios creativos”.
+- **Propietarios:** Categorías como “Mis Espacios”, “Reservas Pendientes”, “Historial de Transacciones”.
+
+Además, se utilizará un sistema de etiquetas para agrupar espacios con características similares.
+
+## **Búsqueda con Filtros Avanzados**
+
+Los filtros permiten una búsqueda más precisa y personalizada dentro de la plataforma.
+
+- **Ubicación:** Posibilidad de buscar por ciudades, distritos o cercanía.
+- **Precio:** Rango ajustable de costos de alquiler.
+- **Tipo de espacio:** Desde oficinas privadas hasta coworkings abiertos.
+- **Servicios adicionales:** Wi-Fi, cafetería, salas de reuniones, estacionamiento.
+- **Valoraciones:** Espacios con mejores reseñas de otros freelancers.
+
+Este sistema permitirá mostrar opciones relevantes sin que el usuario tenga que buscar activamente.
+
+#### 3.1.2.5. Navigation Systems
+
+Organizamos las secciones, permitiendo a los usuarios desplazarse sin dificultad entre distintas funcionalidades. La navegación está basada en una barra de menú principal, accesos rápidos y una estructura jerárquica clara que guía al usuario en su recorrido.
+
+#### **Landing Page Navigation**
+
+La Landing Page de WorkStation se estructura con un diseño claro y accesible, facilitando la exploración para nuevos usuarios.
+
+##### **Elementos de Navegación en la Landing Page**
+
+- **Menú principal fijo** en la parte superior con accesos rápidos a secciones clave.
+- **Botones de acción (CTA - Call to Action)** estratégicamente ubicados para dirigir a los usuarios hacia la Web Application.
+- **Enlaces internos** dentro del contenido para conectar secciones relacionadas.
+- **Scroll guiado** con transiciones suaves para facilitar la lectura y exploración.
+
+##### **Flujo de Navegación en la Landing Page**
+
+1. **Usuarios nuevos** llegan a la Landing Page y exploran la información sobre la plataforma.
+2. **Botones CTA** permiten redirigirlos a la sección correspondiente:
+   - _Rent With Us:_ Para freelancers que buscan espacios.
+   - _Host With Us:_ Para propietarios que desean publicar locales.
+3. **Sección de Reviews** con experiencias de usuarios ayuda a generar confianza.
+4. **Contact Us** ofrece canales de asistencia directa.
+5. **Registro/Iniciar Sesión** para acceder a la aplicación.
+
+#### **Mobile Application Navigation**
+
+La navegación dentro de la aplicación móvil está diseñada para ser intuitiva, rápida y accesible en todo momento, optimizando la experiencia tanto para freelancers como para propietarios.
+
+##### **Elementos de Navegación en la Aplicación Móvil**
+
+- **Barra de navegación inferior** que muestra iconos claros para las secciones principales (Home, Explorar, Reservas/Mis espacios, Mensajes, Perfil).
+- **Menú lateral (hamburguesa)** para acceder a funciones adicionales y configuraciones.
+- **Botones rápidos y filtros dinámicos** en las pantallas de búsqueda para facilitar la exploración de espacios.
+- **Indicadores visuales y notificaciones** para alertar sobre novedades, mensajes o estados de reserva.
+- **Acceso rápido al soporte** desde cualquier pantalla mediante un ícono o botón flotante.
+
+##### **Flujo de Navegación en la Aplicación Móvil**
+
+1. Al abrir la app, el usuario accede a la pantalla **Home**, donde se muestran los chats recientes y reservas por venir.
+2. Desde la barra inferior, puede navegar a **Explorar Espacios** para buscar con filtros personalizados.
+3. En **Mis Reservas** o **Mis Espacios** (según el rol) puede administrar sus alquileres activos o anuncios.
+4. El apartado **Mensajes** facilita la comunicación directa entre freelancers y propietarios.
+5. En **Perfil** el usuario ajusta sus datos personales, pagos y preferencias.
+6. En todo momento, el usuario puede acceder a **Ayuda y Soporte** para resolver dudas rápidamente.
+
+Este sistema de navegación estructurado garantiza que los usuarios de WorkStation se muevan con facilidad y eficiencia, encontrando lo que necesitan en el menor tiempo posible.
 
 ### 3.1.3. Landing Page UI Design
 
-#### 3.1.3.1. Landing Page Wireframe  
-#### 3.1.3.2. Landing Page Mock-up  
+#### 3.1.3.1. Landing Page Wireframe
+
+**Landing Page Home**
+
+![Navigation and Hero Section](/assets/chapter-III/Landing-Wireframe-Intro.png)
+
+**Rent with us**
+
+![Rent with us](/assets/chapter-III/Landing-Wireframe-Rent.png)
+
+**Host with us**
+
+![Host with us](/assets/chapter-III/Landing-Wireframe-Host.png)
+
+**Reviews**
+
+![Reviews](/assets/chapter-III/Landing-Wireframe-Reviews.png)
+
+**Contact**
+
+![Contact](/assets/chapter-III/Landing-Wireframe-Contact.png)
+
+### **Mobile Web Browser**
+
+**Landing Page Home**
+
+![Navigation and Hero Section](/assets/chapter-III/Landing-Mobile-Wireframe-Intro.png)
+
+**Rent with us**
+
+![Rent with us](/assets/chapter-III/Landing-Mobile-Wireframe-Rent.png)
+
+**Host with us**
+
+![Host with us](/assets/chapter-III/Landing-Mobile-Wireframe-Host.png)
+
+**Reviews**
+
+![Reviews](/assets/chapter-III/Landing-Mobile-Wireframe-Reviews.png)
+
+**Contact**
+
+![Contact](/assets/chapter-III/Landing-Mobile-Wireframe-Contact.png)
+
+#### 3.1.3.2. Landing Page Mock-up
+
+### **Desktop Web Browser**
+
+**Landing Page Home**
+
+![Navigation and Hero section](/assets/chapter-III/Landing-Intro.png)
+
+**Rent with us**
+
+![Rent with us](/assets/chapter-III/Landing-Rent.png)
+
+**Host with us**
+
+![Host with us](/assets/chapter-III/Landing-Host.png)
+
+**Reviews**
+
+![Reviews](/assets/chapter-III/Landing-Reviews.png)
+
+**Contact**
+
+![Contact](/assets/chapter-III/Landing-Contact.png)
+
+### **Mobile Web Browser**
+
+**Landing Page Home**
+
+![Navigation and Hero section](/assets/chapter-III/Landing-Mobile-Intro.png)
+
+**Rent with us**
+
+![Rent with us](/assets/chapter-III/Landing-Mobile-Rent.png)
+
+**Host with us**
+
+![Host with us](/assets/chapter-III/Landing-Mobile-Host.png)
+
+**Reviews**
+
+![Reviews](/assets/chapter-III/Landing-Mobile-Reviews.png)
+
+**Contact**
+
+![Contact](/assets/chapter-III/Landing-Mobile-Contact.png)
 
 ### 3.1.4. Mobile Applications UX/UI Design
 
-#### 3.1.4.1. Mobile Applications Wireframes  
-#### 3.1.4.2. Mobile Applications Wireflow Diagrams  
-#### 3.1.4.3. Mobile Applications Mock-ups  
-#### 3.1.4.4. Mobile Applications User Flow Diagrams  
-#### 3.1.4.5. Mobile Applications Prototyping  
- 
+#### 3.1.4.1. Mobile Applications Wireframes
+
+![Wireframe1](/assets/chapter-III/Wireframe1.png)
+
+![Wireframe2](/assets/chapter-III/Wireframe2.png)
+
+![Wireframe3](/assets/chapter-III/Wireframe3.png)
+
+![Wireframe4](/assets/chapter-III/Wireframe4.png)
+
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams
+
+![Wireflow](/assets/chapter-III/wireflow.png)
+
+#### 3.1.4.3. Mobile Applications Mock-ups
+
+![mockino](/assets/chapter-III/mockup.png)
+
+![mockup1](/assets/chapter-III/Mockup1.png)
+
+![mockup2](/assets/chapter-III/Mockup2.png)
+
+![mockup3](/assets/chapter-III/Mockup3.png)
+
+![mockup4](/assets/chapter-III/Mockup4.png)
+
+#### 3.1.4.4. Mobile Applications User Flow Diagrams
+
+![userflow](/assets/chapter-III/userflow.png)
+
+#### 3.1.4.5. Mobile Applications Prototyping
+
+![prototyping1](/assets/chapter-III/prototiping1.png)
+
+![prototyping2](/assets/chapter-III/prototiping2.png)
+
+# Capítulo IV: Product Implementation & Validation
+
+## 4. Product Implementation & Validation
+
+Aqui se explicara las desiciones tecnicas que se tuvo para el desarrollo del reporte y el primer sprint para nuestra solucion, la Landing Page, la API Rest, su respectivo despliegue y el avance la solucion Android.
+
+### 4.1. Software Configuration Management
+
+Herramientas utilizadas
+
+- Figma: Plataforma de diseño colaborativo utilizada para crear interfaces de usuario (UI) y prototipos interactivos. Para el desarrollo de la aplicacion web se utilizo para hacer el Mock-up, wireframes y el modelo final.
+- UXPressia: Herramienta para crear mapas de experiencia del usuario, como user personas, customer journey maps y impact maps.
+- Visual Studio code: Editor de código fuente ligero y extensible, ideal para programar en múltiples lenguajes. Se utilizo para modificar el README.md.
+- Git: Sistema de control de versiones que permite gestionar y registrar cambios en el código fuente de un proyecto.
+- Github: Plataforma basada en Git para alojar repositorios de código y colaborar con otros desarrolladores. Se utilizo para agilizar nuestros avances en el README.md y para tener todo mas organizado.
+- Visual Paradigm Online: Herramienta en línea para modelado visual de software, como diagramas UML, BPMN, etc. Se utilizo para hacer los diagramas de contexto, contenedores y componentes.
+- MySQL Workbench: Sistema de gestión de bases de datos relacional, utilizado para almacenar, consultar y administrar datos. Se utilizo para la creacion de la base de datos y su diagrama.
+- StarUML: Software para modelado UML que facilita la creación de diagramas de clases, casos de uso, secuencia, entre otros. Se utilizo para realizar el modelo del diagrama de clases.
+- WhatsApp: Aplicación de mensajería instantánea, útil para la comunicación rápida en equipos de trabajo.
+- Markdown: Lenguaje de marcado ligero usado para dar formato a texto plano, comúnmente en documentación técnica y README de repositorios. Fue el lenguaje en el que se realizo el documento.
+- Structurz: Lenguaje y aplicacion para la creacion de diagramas DDD para tener una buena estructura del proyecto y saber por que camino estamos yendo
+- Android Studio: IDE que ayudo a programar la solucion hecha en Kotlin y facilito el camino para el desarrollo optimo de la aplicacion.
+
+#### 4.1.1. Software Development Environment Configuration
+
+Para la gestion de codigo, se realizaron los avances en una plataforma que sea posible de rastrear y facil de manejar como lo seria GitHub. Asimismo, se uso Git para tener facilidad editar nuestros documentos. A continuacion los repositorios utilizados para este sprint:
+
+- Organizacion: [https://github.com/1ACC0238-Grupo-4](https://github.com/1ACC0238-Grupo-4)
+- Reporte: [https://github.com/1ACC0238-Grupo-4/Report.git](https://github.com/1ACC0238-Grupo-4/Report.git)
+- Landing page: [https://github.com/1ACC0238-Grupo-4/Landing-page.git](https://github.com/1ACC0238-Grupo-4/Landing-page.git)
+- Backend: [https://github.com/1ACC0238-Grupo-4/Backend.git](https://github.com/1ACC0238-Grupo-4/Backend.git)
+- Frontend App Movil:[https://github.com/1ACC0238-Grupo-4/Frontend-kotlin](https://github.com/1ACC0238-Grupo-4/Frontend-kotlin)
+
+**Gitflow**
+Gitflow es una estrategia de ramificación (branching) en Git que define un separa el flujo de trabajo para una mejor organizacion, esto para que los trabajos colaborativos se puedan desarrollar de la mejor manera. Separa las diferentes fases del desarrollo (nuevas funcionalidades, pruebas, correcciones) en distintas branches. Las branches permiten trabajar en paralelo en diferentes aspectos del proyecto sin afectar el código principal. En Gitflow, cada tipo de rama tiene una función específica.
+
+| Rama           | Función                                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| master         | Contiene el código en producción. Cada versión estable y lista para liberar se guarda aquí.                         |
+| develop        | Rama principal de desarrollo. Aquí se integran nuevas funcionalidades antes de liberar.                             |
+| feature/{user} | Se usa para desarrollar nuevas funcionalidades. Se crea a partir de develop y al terminar se fusiona de nuevo allí. |
+
+Conventional commits
+
+Los commits convencionales son una forma de realizar mensajes en formato estandarizado en trabajo colaborativos como GitHub .Facilita la lectura del historial y la generación automática de versiones (releases). Para este projecto, se realizaron multiples commits siguiendo los tipos a continuacion para que el historial sea el mas adecuado acerca de nuestros avances durante las primeras 4 semanas.
+
+| Tipo     | Descripción                                                                | Ejemplo                                             |
+| -------- | -------------------------------------------------------------------------- | --------------------------------------------------- |
+| feat     | Añade una nueva funcionalidad al sistema.                                  | feat(auth): añadir login con Google                 |
+| fix      | Corrige un error.                                                          | fix(api): corregir error al obtener usuarios        |
+| docs     | Cambios en la documentación (README, comentarios, etc.).                   | docs(readme): actualizar sección de instalación     |
+| style    | Cambios que no afectan la lógica del código (espacios, formato, comas).    | style(ui): reordenar imports y quitar espacios      |
+| refactor | Cambios en el código que no corrigen bugs ni agregan funciones.            | refactor(utils): simplificar función de validación  |
+| test     | Añade o modifica pruebas.                                                  | test(routes): agregar pruebas para rutas protegidas |
+| chore    | Tareas del mantenimiento del proyecto (build, dependencias, configs, etc.) | chore: actualizar dependencias con npm              |
+
+#### 4.1.2. Source Code Management
+
+El kebab-case es un estilo de escritura donde las palabras se separan con guiones (-) y todas las letras están en minúsculas. Este estilo se usa comúnmente en nombres de archivos, rutas web y clases CSS. Se decidio por el uso en este proyecto debido a la legibilidad y facilidad para entender, favorece la consistencia en proyectos colaborativos y es una convencion muy popular.
+
+`Nombre normal: UserProfileComponent 
+En kebab-case: user-profile-component`
+
+Se usa de la siguiente manera
+
+| Uso común                                                 | Ejemplo                   |
+| --------------------------------------------------------- | ------------------------- |
+| Nombres de archivos                                       | login-page.component.html |
+| Clases CSS                                                | .nav-bar, .error-message  |
+| URLs                                                      | /user-profile/settings    |
+| Nombres de componentes (en frameworks como Vue o Angular) | `<user-profile-card>`     |
+
+#### HMTL, CSS y JS
+
+Para el uso de los siguientes lenguajes primarios para desarrollar nuestra solucion, se utilizaron las siguientes uenas practicas
+
+##### HTML
+
+Uso de etiquetas semánticas (`<header>, <section>, <article>, <footer>`, etc.), todos los atributos en minúscula, nombres de clase en kebab-case e indentación consistente (2 o 4 espacios, sin tabs). A continuacon un ejemplo
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mi página</title>
+  </head>
+  <body>
+    <header class="main-header">
+      <h1>Bienvenido</h1>
+    </header>
+    <section class="user-profile">
+      <p>Hola, usuario</p>
+    </section>
+  </body>
+</html>
+```
+
+##### CSS
+
+El uso de kebab-case para clases, uso de selectores específicos pero no demasiados largos, uso de variables CSS con el siguiente termino (--main-color). A continuacion un ejemplo
+
+```css
+:root {
+  --primary-color: #3498db;
+}
+
+.main-header {
+  background-color: var(--primary-color);
+  padding: 1rem;
+  text-align: center;
+}
+
+.user-profile {
+  margin: 2rem 0;
+  font-size: 1.2rem;
+}
+```
+
+##### JS
+
+Uso de camelCase para variables y funciones, asimismo el uso PascalCase para clases y componentes y constantes en UPPER_SNAKE_CASE. Las variables siempre deben ser declaradas con let o const, evitando el var. Por ultimo usar las funciones flecha cuando sea posible. A continuacion un ejemplo:
+
+```js
+const API_URL = "https://api.example.com/users";
+
+function fetchUserData(userId) {
+  return fetch(`${API_URL}/${userId}`)
+    .then((response) => response.json())
+    .then((data) => {
+      console.log("Datos del usuario:", data);
+    })
+    .catch((error) => console.error("Error:", error));
+}
+```
+
+##### Kotlin
+
+Se uso el camelCase para variables y funciones, PascalCase para clases y CONSTANT_CAS para variables constantes. Asimismo se prefirio el uso de `val`, una variable inmutable en vez de `var`.
+
+```kotlin
+const val API_URL = "https://api.example.com/users"
+
+fun fetchUserData(userId: Int) {
+    val endpoint = "$API_URL/$userId"
+
+    println("Obteniendo datos del usuario desde: $endpoint")
+
+    // Simulación de una llamada a API
+    val userData = mapOf("id" to userId, "name" to "Carlos", "email" to "carlos@example.com")
+
+    println("Datos del usuario: $userData")
+}
+
+```
+
+##### C#
+
+En en el Backend se utilizo el PascalCase para clases, emtodos y propiedades, CamelCase para variables y paramatros, por ultimo UPPER_SNAKE_CASE para variables constantes.
+
+```csharp
+const string API_URL = "https://api.example.com/users";
+
+public class UserService
+{
+    public async Task FetchUserDataAsync(int userId)
+    {
+        var endpoint = $"{API_URL}/{userId}";
+        Console.WriteLine($"Obteniendo datos del usuario desde: {endpoint}");
+
+        using var httpClient = new HttpClient();
+        var response = await httpClient.GetAsync(endpoint);
+
+        if (response.IsSuccessStatusCode)
+        {
+            var data = await response.Content.ReadAsStringAsync();
+            Console.WriteLine($"Datos del usuario: {data}");
+        }
+        else
+        {
+            Console.WriteLine($"Error al obtener datos: {response.StatusCode}");
+        }
+    }
+}
+
+```
+
+#### 4.1.3. Source Code Style Guide & Conventions
+
+#### 4.1.4. Software Deployment Configuration
+
+En este punto se describen los pasos para hacer el despliegue de la Landing Page utilizando GitHub Pages utilizando el repositorio anteriormente mencionado.
+
+Primero en la seccion de configuraciones del repositorio, se abre la seccion de Pages.
+![deployment1](/assets/chapter-IV/deployment1.png)
+
+Se selecciona la main branch donde se encuentra la ultima actualizacion del codigo en HTML, CSS y JS. Por ultimo se guardan las configuraciones
+![deployment2](/assets/chapter-IV/deployment2.png)
+Luego de unos segundos la aplicacion se ha desplegado, siendo el simbolo de confirmacion el check al lado del nombre del repositorio
+![deployment3](/assets/chapter-IV/deployment3.png)
+A continuacion, un vistazo de la landing page:
+![deployment4](/assets/chapter-IV/deployment4.png)
+
+URL: [https://1acc0238-grupo-4.github.io/Landing-page/](https://1acc0238-grupo-4.github.io/Landing-page/)
+
+Luego de esto se hizo el despliegue del API Rest en Azure. Se creo un Web App basado en Linux y con soporte para .NET 9, que es el Framework utilizado para la creacion de este Backend.
+
+![deployment5](/assets/chapter-IV/deployment5.png)
+
+![deployment6](/assets/chapter-IV/deployment6.png)
+
+![deployment7](/assets/chapter-IV/deployment7.png)
+
+URL del swagger: [https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.azurewebsites.net/swagger/index.html](https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.azurewebsites.net/swagger/index.html)
+
+### 4.2. Landing Page & Mobile Application Implementation
+
+#### 4.2.1. Sprint 1
+
+##### 4.2.1.1. Sprint Planning 1
+
+##### 4.2.1.2. Sprint Backlog 1
+
+##### 4.2.1.3. Development Evidence for Sprint Review
+
+##### 4.2.1.4. Testing Suite Evidence for Sprint Review
+
+##### 4.2.1.5. Execution Evidence for Sprint Review
+
+##### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+##### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+##### 4.2.1.8. Team Collaboration Insights during Sprint
+
+### 4.3. Validation Interviews
+
+#### 4.3.1. Diseño de Entrevistas
+
+#### 4.3.2. Registro de Entrevistas
+
+#### 4.3.3. Evaluaciones según heurísticas
+
+# Conclusiones
+
+## Conclusiones y recomendaciones.
+
+# Video App Validation
+
+## Video About the product
+
+## Video About the team
