@@ -1738,6 +1738,7 @@ Desarrollo de la sección de previsualización de nuestro producto:
 Desarrollo de una sección de contacto y el footer:
 ![landing-footer](assets/chapter-IV/landing-footer.png)
 
+Video de muestra: [Landing-Page-video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b529_upc_edu_pe/EZ9VvHcLppdIv4zd3OpTo18BQT89MsCJiv6zjIg5noLRTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=gdK2N4)
 
 **Mobile Application**
 
@@ -1756,6 +1757,7 @@ Desarrollo de vista de detalles de una oficina y su edición:
 Desarrollo de la vista para agregar una nueva oficina:
 ![app-add-office](assets/chapter-IV/mobile-newoffice.png)
 
+Video de muestra: [Mobile-App-Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b529_upc_edu_pe/EaDr3KvY18JGhNaZraT1VAEBenFnH36x35CVcypELxkE-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9AN84D)
 
 ##### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
