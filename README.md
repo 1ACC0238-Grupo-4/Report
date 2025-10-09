@@ -1719,9 +1719,48 @@ URL del swagger: [https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.az
 
 ##### 4.2.1.1. Sprint Planning 1
 
+El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
+
+
+| Sprint #                           | Sprint 1                                                                                                                                                                                                                                                                            |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-09-02                                                                                                                                                                                                                                                                          |
+| Time                               | 1:00 PM                                                                                                                                                                                                                                                                             |
+| Location                           | Virtual - Meet                                                                                                                                                                                                                                                                      |
+| Prepared By                        | Adriana Diestra                                                                                                                                                                                                                                                                   |
+| Attendees (to planning meeting)    | Rodrigo Liberato, Omar Berrocal, Moises Espinoza, Adriana Diestra                                                                                                                                                                                      |
+| Sprint n - 1 Review Summary        | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                          |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                          |
+| Sprint 1 Goal                      | Implementar la landing page de ClearCost, brindando una primera experiencia visual y funcional del producto. Este objetivo busca validar la propuesta de valor a través del diseño, estructura y navegabilidad. El éxito se medirá con el despliegue operativo de la página y la recepción de feedback inicial. |
+| Sprint 1 Velocity                  | Nuestro equipo puede aceptar hasta 17 Story Points.                                                                                                                                                                                                                                 |
+| Sum of Story Points                | La suma de Story Points atendidos es de 15.                                                                                                                                                                                                                                         |
+
+
 ##### 4.2.1.2. Sprint Backlog 1
 
+Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
+
+
+| **Sprint #**   | Sprint 1                                |                    |                                                                       |                                                                           |                      |                  |            |
+| -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
+| **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| US-31          | Conocer los servicios                   | T01                | Crear una página para que se puedan conocer los servicios.            | Permitir a los usuarios explorar los servicios que ofrece el proyecto.    | 1                    | Rodrigo Liberato | Done       |
+| US-32          | Revisar Reseñas sobre la aplicación     | T02                | Crear una sección para poder conocer la misión y visión del proyecto. | Proporcionar una visión clara de los objetivos y valores fundamentales.   | 1.5                  | Rodrigo Liberato  | Done       |
+| US-33          | Cambiar Lenguaje entre Español e Inglés | T03                | Crear una sección para ver las preguntas frecuentes                   | Simplificar las consultas de los usuarios mediante preguntas frecuentes.  | 2                    | Rodrigo Liberato | Done       |
+| US-34          | Navegación por el landing page          | T04                | Crear una sección para ver los equipos profesionales de los asilos    | Destacar la experiencia y especialización del equipo profesional.         | 1                    | Rodrigo Liberato  | Done       |
+| US-35          | Ver información del startup             | T05                | Crear un formulario para solicitar más información del proyecto.      | Facilitar la comunicación directa entre los usuarios y el proyecto.       | 1.5                  | Rodrigo Liberato | Done       |
+| US-36          | Conocer los servicios                   | T06                | Crear una sección para mostrar testimonios y casos exitosos.          | Presentar historias inspiradoras para ganar confianza en el proyecto.     | 2                    | Rodrigo Liberato  | Done       |
+| US-37          | Contactar al equipo de soporte          | T07                | Crear una opción para descargar un folleto con información relevante. | Ofrecer a los usuarios información detallada del proyecto en formato PDF. | 1                    | Rodrigo Liberato | Done       |
+
+
 ##### 4.2.1.3. Development Evidence for Sprint Review
+
+
+En este punto evidenciaremos el desarrollo y el apoyo por parte de los participantes del equipo en el desarrollo del frontend estático de la Landing Page de nuestro proyecto.
+
+![Development-evidence](Imagenes/SprintReview.png)
+
 
 ##### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
