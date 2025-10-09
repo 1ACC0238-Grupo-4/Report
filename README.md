@@ -1759,7 +1759,52 @@ Desarrollo de la vista para agregar una nueva oficina:
 
 ##### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
+En este sprint se logró documentar con Open API el API Rest desarrollado en C# con .NET 9. A continuación se muestra evidencia de la documentación generada automáticamente con Swagger.
+
+**Office**
+
+Se muestra la documentación de los endpoints relacionados con la gestión de oficinas.
+![swagger-office](assets/chapter-IV/Endpoints-office.png)
+
+**User**
+
+Se muestra la documentación de los endpoints relacionados con la gestión de usuarios.
+![swagger-user](assets/chapter-IV/Endpoints-user.png)
+
+**Rating**
+
+Se muestra la documentación de los endpoints relacionados con la gestión de valoraciones.
+![swagger-rating](assets/chapter-IV/Endpoints-ratings.png)
+
+Por ultimo la documentación de los Schemas en swagger, donde podemos ver que tipo de datos se envían y reciben en cada comando.
+![swagger-schemas](assets/chapter-IV/Schemas-sprint1.png)
+
+![swagger-schemas-type](assets/chapter-IV/Schemas-sprint1-type-data.png)
+
+
 ##### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+**Landing Page**
+El landing page se desplegó usando el servicio de GitHub Pages, que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. A continuación volverán a mostrar los pasos realizados para el despliegue:
+
+Primero en la seccion de configuraciones del repositorio, se abre la seccion de Pages.
+![deployment1](/assets/chapter-IV/deployment1.png)
+
+Se selecciona la main branch donde se encuentra la ultima actualizacion del codigo en HTML, CSS y JS. Por ultimo se guardan las configuraciones
+![deployment2](/assets/chapter-IV/deployment2.png)
+Luego de unos segundos la aplicacion se ha desplegado, siendo el simbolo de confirmacion el check al lado del nombre del repositorio
+![deployment3](/assets/chapter-IV/deployment3.png)
+A continuacion, un vistazo de la landing page:
+![deployment4](/assets/chapter-IV/deployment4.png)
+
+**Backend**
+Como se mostró anteriormente se hizo el despliegue del API Rest en Azure. Se creo un Web App basado en Linux y con soporte para .NET 9, que es el Framework utilizado para la creacion de este Backend.
+
+![deployment5](/assets/chapter-IV/deployment5.png)
+
+![deployment6](/assets/chapter-IV/deployment6.png)
+
+![deployment7](/assets/chapter-IV/deployment7.png)
 
 ##### 4.2.1.8. Team Collaboration Insights during Sprint
 
