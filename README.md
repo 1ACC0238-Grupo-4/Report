@@ -1759,7 +1759,7 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 
 En este punto evidenciaremos el desarrollo y el apoyo por parte de los participantes del equipo en el desarrollo del frontend estático de la Landing Page de nuestro proyecto.
 
-![Development-evidence](Imagenes/SprintReview.png)
+![Development-evidence](assets/chapter-IV/SprintReview.png)
 
 
 ##### 4.2.1.4. Testing Suite Evidence for Sprint Review
