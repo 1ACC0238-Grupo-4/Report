@@ -57,11 +57,21 @@ En esta primera entrega se redactó el informe del proyecto hasta el punto 2.6.3
 
 Para evidenciar nuestros avances y la colaboración en el proyecto, se utilizó GitHub como plataforma principal de gestión de versiones y control de cambios. A continuación, se presentan algunos insights relevantes sobre la colaboración en el desarrollo del informe:
 
-#### Contributors
+**Contributors**
 
 En este insight se puede evidenciar las contribuciones de cada miembro del equipo en el repositorio del informe durante la primera entrega. Se puede ver la cantidad de commits, líneas añadidas y eliminadas por cada integrante.
 
 ![Contributors](assets/chapter-I/Contributor-tb1.jpg)
+
+### Reporte de Colaboración para la entrega del TP
+En esta segunda entrega se redactó el informe del proyecto hasta el punto 4.3.3. (Evaluaciones según heurísticas).
+Las actividades más relevantes realizadas durante esta fase fueron: el diseño de los wireframes y mockups de la aplicación movil y landing page, la configuración inicial para el inicio del desarrollo de los productos de software, la implementación del sprint 1 (planificación, backlog, desarrollo, pruebas, despliegue), y la realización de entrevistas de validación con usuarios.
+
+**Contribuitors**
+
+En este insight se puede evidenciar las contribuciones de cada miembro del equipo en el repositorio del informe durante la segunda entrega. Se puede ver la cantidad de commits, líneas añadidas y eliminadas por cada integrante.
+
+![Contributors](assets/chapter-I/Contributor-tp.jpg)
 
 ## Contenido
 
@@ -1715,6 +1725,7 @@ URL del swagger: [https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.az
 
 ##### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
+No se realizaron pruebas unitarias en este sprint, ya que el enfoque principal fue el desarrollo de la landing page, el backend y la primera versión de la aplicación móvil.
 
 ##### 4.2.1.5. Execution Evidence for Sprint Review
 
