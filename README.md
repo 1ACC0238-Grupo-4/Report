@@ -683,8 +683,6 @@ Enlace del video de la entrevista: [link](https://youtu.be/F3gz5at9sc4)
 
 ![Img propietario3](/assets/chapter-II/Entrevista-Miguel.png)
 
-![Img propietario2](https://github.com/1ACC0238-Grupo-4/Report/blob/develop/assets/chapter-I/Entrevista-Miguel.png)
-
 **Entrevistado:** Miguel Quijada  
 **Edad:** 43 años  
 **Ocupación:** Ingeniero de Software  
@@ -1717,6 +1715,47 @@ URL del swagger: [https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.az
 ##### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
 ##### 4.2.1.5. Execution Evidence for Sprint Review
+
+**Landing Page**
+
+A continuación se muestra evidencia del desarrollo de la landing page.
+
+Desarrollo del menú de navegación y sección principal (hero section):
+![landing-header](assets/chapter-IV/landing-header.png)
+
+Desarrollo de la sección de razones por la cual elegir WorkStation:
+![landing-why](assets/chapter-IV/landing-choose.png)
+
+Desarrollo de la sección "Rent with us":
+![landing-rent](assets/chapter-IV/landing-rentwithus.png)
+
+Desarrollo de la sección de beneficios clave:
+![landing-benefits](assets/chapter-IV/landing-benefits.png)
+
+Desarrollo de la sección de previsualización de nuestro producto:
+![landing-product](assets/chapter-IV/landing-our-product.png)
+
+Desarrollo de una sección de contacto y el footer:
+![landing-footer](assets/chapter-IV/landing-footer.png)
+
+
+**Mobile Application**
+
+A continuación se muestra evidencia del desarrollo de la aplicación móvil.
+
+Desarrollo de prototipo de la pantalla de home:
+
+![app-home](assets/chapter-IV/mobile-home.png)
+
+Desarrollo de vista de oficinas disponibles:
+![app-offices](assets/chapter-IV/mobile-offices.png)
+
+Desarrollo de vista de detalles de una oficina y su edición:
+![app-office-details](assets/chapter-IV/mobile-editoffice.png)
+
+Desarrollo de la vista para agregar una nueva oficina:
+![app-add-office](assets/chapter-IV/mobile-newoffice.png)
+
 
 ##### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
