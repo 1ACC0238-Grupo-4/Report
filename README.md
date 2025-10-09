@@ -1714,6 +1714,7 @@ URL del swagger: [https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.az
 
 ##### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
+
 ##### 4.2.1.5. Execution Evidence for Sprint Review
 
 **Landing Page**
@@ -1809,6 +1810,13 @@ Como se mostró anteriormente se hizo el despliegue del API Rest en Azure. Se cr
 ![deployment7](/assets/chapter-IV/deployment7.png)
 
 ##### 4.2.1.8. Team Collaboration Insights during Sprint
+
+Durante este sprint, el equipo desarrolló la landing page, el backend y comenzó con el desarrollo de la aplicación mobile.
+Por ello a continuación se muestran los gráficos de colaboración obtenidas de repositorio de desarrollo en github.
+Estas muestras se tomaron antes de la culminación del plazo establecido para el sprint, por lo que no reflejan la totalidad del trabajo realizado.
+
+Commits
+![commits](assets/chapter-IV/commits-mobile-sprint1.png)
 
 ### 4.3. Validation Interviews
 
