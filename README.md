@@ -33,18 +33,18 @@ Aplicaciones para dispositivos moviles <br>
 
 # Registro de Versiones del Informe
 
+| Versión | Fecha      | Autor                    | Descripción de modificación                                             |
+| ------- | ---------- | ------------------------ | ----------------------------------------------------------------------- |
+| 0.1     | 13/09/2025 | Rodrigo Liberato Saldana | Se presentó la estructura del informe                                   |
+| 0.2     | 18/09/2025 | Moises Espinoza Chavez   | Se agregaron los bounded context                                        |
+| 0.3     | 19/09/2025 | Omar Berrocal Ramirez    | Se añadió la sección de Lean UX                                         |
+| 0.4     | 19/09/2025 | Adriana Diestra Zambrano | Se añadió la sección de Needfinding                                     |
+| 0.5     | 19/09/2025 | Moises Espinoza Chavez   | Se añadió la sección de Arquitectura                                    |
+| 1.0     | 19/09/2025 | Omar Berrocal            | Se realizó los insights y el outcome                                    |
+| 1.1     | 05/10/2025 | Omar Berrocal            | Se corrigieron errores de formato, outcome del curso                    |
+| 1.2     | 07/10/2025 | Rodrigo Liberato         | Se corrigieron errores de muestras de diagramas y avance del capítulo 4 |
+| 1.3     | 09/10/2025 | Omar Berrocal            | Avance del sprint 1                                                     |
 
-| Versión | Fecha       | Autor                    | Descripción de modificación                                             |
-|---------|-------------|--------------------------|-------------------------------------------------------------------------|
-| 0.1     | 13/09/2025  | Rodrigo Liberato Saldana | Se presentó la estructura del informe                                   |
-| 0.2     | 18/09/2025  | Moises Espinoza Chavez   | Se agregaron los bounded context                                        |
-| 0.3     | 19/09/2025  | Omar Berrocal Ramirez    | Se añadió la sección de Lean UX                                         |
-| 0.4     | 19/09/2025  | Adriana Diestra Zambrano | Se añadió la sección de Needfinding                                     |
-| 0.5     | 19/09/2025  | Moises Espinoza Chavez   | Se añadió la sección de Arquitectura                                    |
-| 1.0     | 19/09/2025  | Omar Berrocal            | Se realizó los insights y el outcome                                    |
-| 1.1     | 05/10/2025  | Omar Berrocal            | Se corrigieron errores de formato, outcome del curso                    | 
-| 1.2     | 07/10/2025  | Rodrigo Liberato         | Se corrigieron errores de muestras de diagramas y avance del capítulo 4 |
-| 1.3     | 09/10/2025  | Omar Berrocal            | Avance del sprint 1                                                     |
 # Project Report Collaboration Insights
 
 Link de la organización: https://github.com/1ACC0238-Grupo-4
@@ -53,7 +53,7 @@ Link del repositorio del informe: https://github.com/1ACC0238-Grupo-4/Report
 
 ### Reporte de Colaboración para la entrega del TB1
 
-En esta primera entrega se redactó el informe del proyecto hasta el punto 2.6.3.6.2 (Bounded Context Domain Layer Class Diagrams).  Durante este proceso se realizaron diversas actividades, siendo las más relevantes: la definición de los antecedentes y problematicas identificados, la implementación del Lean UX Canvas, analisis de competidores, creación de artefactos (User Personas, Task Matrix, etc), redacción de User Stories, Event Storming, diseño de los diagramas C4 Model (Contexto y Contenedores) y diagramas de los Bounded Context.
+En esta primera entrega se redactó el informe del proyecto hasta el punto 2.6.3.6.2 (Bounded Context Domain Layer Class Diagrams). Durante este proceso se realizaron diversas actividades, siendo las más relevantes: la definición de los antecedentes y problematicas identificados, la implementación del Lean UX Canvas, analisis de competidores, creación de artefactos (User Personas, Task Matrix, etc), redacción de User Stories, Event Storming, diseño de los diagramas C4 Model (Contexto y Contenedores) y diagramas de los Bounded Context.
 
 Para evidenciar nuestros avances y la colaboración en el proyecto, se utilizó GitHub como plataforma principal de gestión de versiones y control de cambios. A continuación, se presentan algunos insights relevantes sobre la colaboración en el desarrollo del informe:
 
@@ -64,6 +64,7 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
 ![Contributors](assets/chapter-I/Contributor-tb1.jpg)
 
 ### Reporte de Colaboración para la entrega del TP
+
 En esta segunda entrega se redactó el informe del proyecto hasta el punto 4.3.3. (Evaluaciones según heurísticas).
 Las actividades más relevantes realizadas durante esta fase fueron: el diseño de los wireframes y mockups de la aplicación movil y landing page, la configuración inicial para el inicio del desarrollo de los productos de software, la implementación del sprint 1 (planificación, backlog, desarrollo, pruebas, despliegue), y la realización de entrevistas de validación con usuarios.
 
@@ -177,7 +178,7 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
 
 ## Student Outcome (ver anexo A)
 
-El curso contribuye al cumplimiento del Student Outcome ABET: 
+El curso contribuye al cumplimiento del Student Outcome ABET:
 
 **ABET - EAC - Student Outcome 7**
 
@@ -186,7 +187,7 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
 
 | Criterio específico                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------- |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Omar Berrocal**<br/>**TB1**<br/>Durante esta entrega volví a revisar conceptos generales y técnicos de métodos y desarrollos agiles, para poder planificar y realizar el proyecto acorde a los estándares y aplicando buenas prácticas de desarrollo. De igual manera para absolver las dudas de mis compañeros sobre como vamos a trabajar y que modelo usaremos, como es el gitflow, conventional commits, entre otros.<br>**TP**<br>Durante esta entrega busqué la manera de implementar mejores prácticas en el manejo del proyecto y no repetir los errores de la primera entrega. Además apoyé con el desarrollo de vistas de la aplicación mobile para lo que repasar como funcionaba el backend y el negocio. <br> <br>**Rodrigo Liberato**<br/>**TB1**<br/>Durante esta entrega me comprometi a entender mejor el estado de los contexto embedidos ysu proceso para llegar al estado final de desarrollo. <br/>**TP**<br/>Durante esta entrega parcial me dedique a ayudar con el desarrollo del aplicativo movil y a hacer el deploy y brindar mejoras en el backend de la aplicacion. <br>**Adriana Diestra** <br/>**TB1**<br/>Durante esta entrega apliqué conceptos de metodologías ágiles y buenas prácticas como Gitflow y conventional commits, además de técnicas de especificación de requisitos (user stories, impact mapping y backlog) para planificar el proyecto de manera ordenada y conforme a estándares.                                                                                                                                                                                                                           | Como equipo repasamos conceptos vistos anteriormente, como Event Storming de Scrum, patrones de diseño de software, Domain Driven Design, diagramas y métodos ágiles, demostrando así la necesidad de poner en práctica constantemente lo aprendido para su uso en proyectos de software.                                                                                                                                                                                                                                         |
 | Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Omar Berrocal**<br/>**TB1**<br/>Para esta entrega al realizar el proceso Lean UX me ayudó a identificar las tendencias de los segmentos objetivos y las necesidades que representan opotunidades para nuestro proyecto en el mercado. Hacer una investigación me hizo aprender como es que se perciben los problemas desde diferentes perspectivas. <br>**TP**<br>Para el desarrollo de la aplicación mobile y lograr los estilos planteados en nuestro diseño tuve que consultar diferentes temas. <br><br>**Rodrigo Liberato**<br/>**TB1**<br/>El aprendizaje durante esta etapa del proyecto me ayudo a entender el valor del proceso de desarrollo de una aplicacion movil y la complejidad detras de esta. <br/>**TP**<br/> Durante esta entrega se puso en practica lo aprendido de la anterior iteracion y se hicieron las mejoras respectivas para entender el proceso de desarrollo de una aplicacion movil y su conexion con servicios externos <br> **Adriana Diestra**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. <br> **Moises Espinoza**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. | Como equipo reconocemos que el aprendizaje permanente es fundamental para estar siempre a la vanguardia y mantener la calidad de nuestro producto. Identificar las nuevas tendencias de tecnologías y metodologías nos ayudará a elegir las mejores alternativas de desarrollo a lo largo del proyecto. La implementación de Domain Driven Design y diseño de arquitectura en dominios, uso de control de versiones, metodologías ágiles, nos permitieron alcanzar competencias técnicas que nos hacen crecer como profesionales. |
 
@@ -203,6 +204,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 - **Objetivo 2:** Crear un perfil profesional en LinkedIn, para conseguir un puesto como desarrollador junior en una empresa de software en un plazo de 6 meses tras la graduación.
 
 **Adriana Diestra Zambrano:**
+
 - **Objetivo 1:** Desarrollar y publicar al menos dos proyectos de software en plataformas abiertas durante mis vacaciones de verano 2026, aplicando metodologías ágiles y buenas prácticas de control de versiones (Gitflow y conventional commits), con el fin de fortalecer mi portafolio profesional y demostrar experiencia práctica en el desarrollo colaborativo.
 - **Objetivo 2:** Mejorar mis competencias técnicas en desarrollo de software aprendiendo un nuevo framework o lenguaje de programación antes de junio de 2026, dedicando al menos 5 horas semanales a cursos y prácticas, con el fin de ampliar mis oportunidades laborales y mantenerme actualizado en tendencias tecnológicas.
 
@@ -232,12 +234,12 @@ Ser una startup referente en el desarrollo de soluciones digitales para espacios
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                         | Alumno                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| -------------------------------------------- | ------------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Foto                                           | Alumno                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Omar](assets/chapter-I/Intergrante-Omar.jpg) | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
-| ![a](assets/chapter-I/Adriana.png) | Diestra Zambrano Adriana Maria  | Soy estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                         |
-|![Moises](assets/chapter-I/Moises-foto.jpg)| Espinoza Chávez Moises | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                      |
-| ![Rodrigo](/assets/chapter-I/rodrigo.jpg) | **Rodrigo Liberato Saldaña** | Soy estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                                                                                                           |
+| ![a](assets/chapter-I/Adriana.png)             | Diestra Zambrano Adriana Maria  | Soy estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                         |
+| ![Moises](assets/chapter-I/Moises-foto.jpg)    | Espinoza Chávez Moises          | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                      |
+| ![Rodrigo](/assets/chapter-I/rodrigo.jpg)      | **Rodrigo Liberato Saldaña**    | Soy estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                                                                                                           |
 
 ## 1.2. Solution Profile
 
@@ -638,7 +640,6 @@ Oficinas YA! es una plataforma líder en América Latina especializada en la�
 🎬 **Inicio del video:** 0:04  
 ⏱️ **Duración:** 3 minutos y 42 segundos
 
-
 <br></br>
 **Entervista 2: Arlene Gutarra**
 
@@ -676,7 +677,6 @@ Enlace del video de la entrevista: [link](https://youtu.be/F3gz5at9sc4)
 
 **Entrevistada:** Carlos Alfredo Juarez Adanaque  
 **Edad:** 33 años
-
 
 **Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EdU9VOslalpKiKT-t0m66gMBmi1Xhl03H6JkroZCMl3Img?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JREsKE)
 <br></br>
@@ -1796,7 +1796,6 @@ Por ultimo la documentación de los Schemas en swagger, donde podemos ver que ti
 
 ![swagger-schemas-type](assets/chapter-IV/Schemas-sprint1-type-data.png)
 
-
 ##### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
 **Landing Page**
@@ -1834,13 +1833,109 @@ Commits
 
 #### 4.3.1. Diseño de Entrevistas
 
+##### Freelancer
+
+- Que aspectos de mejora puedes encontrar en la aplicacion?
+- ¿La información mostrada sobre cada oficina (capacidad, servicios, costo) fue suficiente para tomar una decisión?
+- ¿Hubo algún paso en la navegación que te resultó confuso o poco intuitivo?
+- Que otra funcionalidad o algo visible deberiamos agregar?
+
+##### Propietarios de Oficinas
+
+- ¿Que aspectos de mejora puedes encontrar en la aplicacion?
+- ¿La información mostrada sobre cada perfil fue suficiente para tomar una decisión?
+- ¿Hubo algún paso en la navegación que te resultó confuso o poco intuitivo?
+- ¿Que otra funcionalidad o algo visible deberiamos agregar?
+
 #### 4.3.2. Registro de Entrevistas
 
+Entrevista numero 1: Arturo Salinas
+
+URL: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Ea0X1x8G5LVDk5lJbnkuELQBxqBnMRC8m-LE9-zoBNeUtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=u5hOS0)
+
+Para esta entrevista, se eligio a un propietario de oficina, se mostro las funcionalidades y las deficiencias de la aplicacion para que asi se puedan realizar las preguntas. Gracias a esta entrevista se logro hallar valiosa informacion que utilizaremos para mejorar nuestro producto para que llege a ser funcional en un entorno real.
+
+Entrevista Numero 2: Marjorie Victoria
+
+URL[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Eb77g7qhxdxFiFY6AOufgmUBm0v-5Lr3aBsRV43ROD6VVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=erwOnD)
+
+Para esta entrevista, se eligio a una persona que busca y compara precios de oficinas, se mostro las funcionalidades y las deficiencias de la aplicacion para que asi se puedan realizar las preguntas. Se nos pidio optimizar la aplicacion para futuras iteraciones que la aplicacion recibira. Con esto tendremos en cuenta mejores oportunidades de mejora para la siguiente version.
+
+Entrevista Numero 3: Javier Arevalo
+
+URL: [Link](https://youtu.be/D3GxAFLeHeE)
+Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó su experiencia sobre el uso de nuestra plataforma. Se nos pidió mejor las interfaces y agrandar los textos. Esta retroalimentación sirve para optimizar la aplicación en futuras iteraciones, priorizando una experiencia más completa y eficaz para los propietarios en la siguiente versión.
+
 #### 4.3.3. Evaluaciones según heurísticas
+
+#### Escala de Severidad
+
+| Nivel | Descripción                                                                                                                                                                         |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: Es poco común o fácil de sortear por el usuario. No requiere atención inmediata, salvo que haya tiempo disponible.                                            |
+| 2     | Problema menor: Puede presentarse con mayor frecuencia o resultar algo más complicado para el usuario. Es recomendable resolverlo, aunque con baja prioridad, en futuras versiones. |
+| 3     | Problema mayor: Sucede con regularidad o el usuario no puede resolverlo por sí mismo. Debe ser atendido con prioridad alta..                                                        |
+| 4     | Problema muy grave: errores que impiden que el usuario continúe utilizando la herramienta. Debe repararse antes del lanzamiento..                                                   |
+
+#### Tabla Resumen
+
+| #   | Problema                                                                                                                        | Escala de severidad | Heurística/Principio violado          | Tarea evaluada                     |
+| --- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------- | ---------------------------------- |
+| 1   | Diseño inconsistente entre lo estético y minimalista                                                                            | 1                   | Diseño estético y minimalista         | Navegación entre login y dashboard |
+| 2   | Espacio vacío excesivo en la vista de perfil                                                                                    | 1                   | Diseño estético y minimalista         | Visualizar perfil                  |
+| 3   | El diseño y los elementos visuales no son del todo consistentes: el login tiene una estética moderna, pero las demás vistas no. | 2                   | Flexibilidad y eficiencia del usuario | Visualizar página                  |
+
+#### Recomendaciones
+
+- **Problema 1: Diseño inconsistente entre lo estético y minimalista**
+
+  - **Tarea Evaluada:** Navegación entre login y dashboard
+  - **Recomendación:** Unificar la línea gráfica entre pantallas. El diseño del login es moderno y atractivo, pero contrasta fuertemente con el resto de vistas.
+
+- **Problema 2: Espacio vacío excesivo en la vista de perfil**
+
+  - **Tarea Evaluada:** Visualizar perfil
+  - **Recomendación:** Optimizar el espacio con una mejor distribución de la información. Se pueden agrupar los datos del usuario en tarjetas, añadir un avatar más visible, y mostrar botones de acción adicionales
+
+- **Problema 3: El diseño y los elementos visuales no son del todo consistentes**
+  - **Tarea Evaluada:** Visualizar página
+  - **Recomendación:** Además de unificar el estilo visual, incorporar componentes reutilizables lo que permite la curva de aprendizaje al reconocer patrones visuales comunes.
 
 # Conclusiones
 
 ## Conclusiones y recomendaciones.
+
+1. **Integración efectiva entre backend y frontend**  
+   Se logró una conexión estable entre ambas capas del sistema, permitiendo la comunicación fluida a través de API REST. Esto facilitó operaciones fundamentales como el registro de usuarios, búsquedas filtradas de oficinas, reservas y gestión de propiedades.
+
+2. **Evolución y robustez del backend**  
+   A través de la implementación de contextos como Office, User y Rating, y la incorporación de validaciones complejas, se fortaleció la lógica del servidor. Esto asegura una base sólida para futuras escalas funcionales y técnicas.
+
+3. **Despliegue completo y funcional**  
+   La aplicación fue desplegada exitosamente en la nube, lo que permite su disponibilidad pública y uso desde múltiples dispositivos. El proceso incluyó la automatización del flujo de integración y despliegue continuo.
+
+4. **Colaboración y liderazgo bien distribuidos**  
+   La asignación clara de líderes y colaboradores por cada aspecto del proyecto permitió una mayor eficiencia en el trabajo en equipo. Esto redujo los tiempos de resolución de tareas y mejoró la coordinación general.
+
+5. **Implementación de funcionalidades clave**  
+   Se implementaron satisfactoriamente características esenciales como autenticación de usuarios, filtros de búsqueda, sistema de publicaciones, valoraciones, sistema de reservas y visualización de oficinas. Esto representa un avance tangible hacia el producto final.
+
+## Recomendaciones
+
+1. **Realizar pruebas de usabilidad con usuarios finales**  
+   Se recomienda validar el comportamiento de la aplicación desde la perspectiva de los usuarios reales, a fin de identificar mejoras en usabilidad, tiempos de respuesta y flujos de navegación.
+
+2. **Documentar la API y estructura del sistema**  
+   Es indispensable contar con documentación técnica clara, incluyendo la definición de endpoints, estructuras de datos, modelos, casos de uso y configuraciones de despliegue.
+
+3. **Optimizar el rendimiento y reforzar la seguridad**  
+   Se sugiere aplicar técnicas de compresión de datos, gestión adecuada de errores, validación de entradas, cifrado de credenciales y uso de encabezados seguros para reforzar la seguridad del sistema.
+
+4. **Implementar herramientas de monitoreo y métricas**  
+   La integración de soluciones de monitoreo permitirá observar el estado del sistema en tiempo real, detectar errores y evaluar el uso del sistema por parte de los usuarios.
+
+5. **Planificar nuevos sprints enfocados en crecimiento funcional**  
+   A partir del feedback obtenido, se recomienda definir próximos sprints orientados a funcionalidades adicionales como notificaciones, gestión avanzada de pagos, alertas de disponibilidad, y mejoras en la experiencia de usuario.
 
 # Video App Validation
 
