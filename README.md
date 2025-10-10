@@ -63,6 +63,8 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
 
 ![Contributors](assets/chapter-I/Contributor-tb1.jpg)
 
+![contributorstp](/assets/chapter-I//Contributor-tp.png)
+
 ### Reporte de Colaboración para la entrega del TP
 
 En esta segunda entrega se redactó el informe del proyecto hasta el punto 4.3.3. (Evaluaciones según heurísticas).
