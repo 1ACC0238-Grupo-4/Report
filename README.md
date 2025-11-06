@@ -63,7 +63,7 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
 
 ![Contributors](assets/chapter-I/Contributor-tb1.jpg)
 
-![contributorstp](/assets/chapter-I//Contributor-tp.png)
+![contributorstp](assets/chapter-I//Contributor-tp.png)
 
 ### Reporte de Colaboración para la entrega del TP
 
@@ -243,7 +243,7 @@ Ser una startup referente en el desarrollo de soluciones digitales para espacios
 | ![Omar](assets/chapter-I/Intergrante-Omar.jpg) | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
 | <img src="assets/chapter-I/Adriana.png" width="280"/>  | Diestra Zambrano Adriana Maria  | Soy estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                         |
 | ![Moises](assets/chapter-I/Moises-foto.jpg)    | Espinoza Chávez Moises          | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                      |
-| ![Rodrigo](/assets/chapter-I/rodrigo.jpg)      | **Rodrigo Liberato Saldaña**    | Soy estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                                                                                                           |
+| ![Rodrigo](assets/chapter-I/rodrigo.jpg)      | **Rodrigo Liberato Saldaña**    | Soy estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                                                                                                           |
 
 ## 1.2. Solution Profile
 
@@ -698,7 +698,7 @@ Enlace del video de la entrevista: [link](https://youtu.be/F3gz5at9sc4)
 **Link de la entrevista:** [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/EZQz2DANI71MkOrpc1fJq3EBIRLd8PZ4sQAEEFybRm3YOg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=t6qB71)
 <br></br>
 
-![Img propietario3](/assets/chapter-II/Entrevista-Miguel.png)
+![Img propietario3](assets/chapter-II/Entrevista-Miguel.png)
 
 **Entrevistado:** Miguel Quijada  
 **Edad:** 43 años  
@@ -736,8 +736,8 @@ En las entrevistas de este segmento objetivo, recalcan que la aplicacion seria d
 
 En esta sección hemos considerado dos perfiles de usuario que representan a los segmentos objetivo mencionados previamente: los propietarios de inmuebles y los trabajadores independientes.
 
-![Seg1](/assets/chapter-II/User-Persona-Propietario.png)
-![Seg2](/assets/chapter-II/User-Persona-Freelancer.png)
+![Seg1](assets/chapter-II/User-Persona-Propietario.png)
+![Seg2](assets/chapter-II/User-Persona-Freelancer.png)
 
 ### 2.3.2. User Task Matrix
 
@@ -758,11 +758,11 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ### 2.3.3. User Journey Mapping
 
-![JM](/assets/chapter-II/Customer-Journey-Map-Brainstorm.png)
+![JM](assets/chapter-II/Customer-Journey-Map-Brainstorm.png)
 
 ### 2.3.4. Empathy Mapping
 
-![EM](/assets/chapter-II/Empathy-Map-Brainstorm.png)
+![EM](assets/chapter-II/Empathy-Map-Brainstorm.png)
 
 ### 2.3.5. Ubiquitous Language
 
@@ -868,7 +868,7 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ### 2.4.2. Impact Mapping
 
-![ImpactMap](/assets/chapter-II/ImpactMapping.jpg)
+![ImpactMap](assets/chapter-II/ImpactMapping.jpg)
 
 ### 2.4.3. Product Backlog
 
@@ -885,57 +885,57 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 Para el event Storming se siguieron los pasos establecidos para llegar a entender el proceso de concluir los Bounded context para la solucion.
 
-![event1](/assets/chapter-II/eventstorming1.jpg)
+![event1](assets/chapter-II/eventstorming1.jpg)
 
-![event2](/assets/chapter-II/eventstorming2.jpg)
+![event2](assets/chapter-II/eventstorming2.jpg)
 
-![event3](/assets/chapter-II/eventstorming3.jpg)
+![event3](assets/chapter-II/eventstorming3.jpg)
 
-![event4](/assets/chapter-II/eventstorming4.jpg)
+![event4](assets/chapter-II/eventstorming4.jpg)
 
-![event5](/assets/chapter-II/eventstorming5.jpg)
+![event5](assets/chapter-II/eventstorming5.jpg)
 
-![event6](/assets/chapter-II/eventstorming6.jpg)
+![event6](assets/chapter-II/eventstorming6.jpg)
 
-![event7](/assets/chapter-II/eventstorming7.jpg)
+![event7](assets/chapter-II/eventstorming7.jpg)
 
-![event8](/assets/chapter-II/eventstorming8.jpg)
+![event8](assets/chapter-II/eventstorming8.jpg)
 
 #### 2.5.1.1. Candidate Context Discovery
 
-![candidateContext](/assets/chapter-II/candidateDiagrama.jpg)
+![candidateContext](assets/chapter-II/candidateDiagrama.jpg)
 
 #### 2.5.1.2. Domain Message Flows Modeling
 
 En este primer modelo se puede ver que se inicia desde el usuario, donde se crea una cuenta en la aplicacion como un propietario de oficina, este crea una oficina y llega a crear la conexion entre los contextos de Owner y Office. Todo esto almacenandose en la API Rest.
 
-![messageflow](/assets/chapter-II/messageFlow1.jpg)
+![messageflow](assets/chapter-II/messageFlow1.jpg)
 
 En este segundo escenario, el usuario se crea una cuenta comun y busca por medio del contexto de busqueda. Asi encontrando una oficina que rentar, pero antes, chatea con el propietario.
 
-![messageflow2](/assets/chapter-II/messageFlow2.jpg)
+![messageflow2](assets/chapter-II/messageFlow2.jpg)
 
 El usuario se crea una cuenta comun, busca la oficina a la cual quiere dejar una opinion, la encuentra y por medio del Rating Context, realiza una opinion a la oficina que busco con anterioridad.
 
-![messageflow3](/assets/chapter-II/messageFlow3.jpg)
+![messageflow3](assets/chapter-II/messageFlow3.jpg)
 
 #### 2.5.1.3. Bounded Context Canvases
 
-![ContextCanvases1](/assets/chapter-II/Canvases1.jpg)
+![ContextCanvases1](assets/chapter-II/Canvases1.jpg)
 
-![ContextCanvases2](/assets/chapter-II/Canvases2.jpg)
+![ContextCanvases2](assets/chapter-II/Canvases2.jpg)
 
-![ContextCanvases3](/assets/chapter-II/Canvases3.jpg)
+![ContextCanvases3](assets/chapter-II/Canvases3.jpg)
 
-![ContextCanvases4](/assets/chapter-II/Canvases4.jpg)
+![ContextCanvases4](assets/chapter-II/Canvases4.jpg)
 
-![ContextCanvases5](/assets/chapter-II/Canvases5.jpg)
+![ContextCanvases5](assets/chapter-II/Canvases5.jpg)
 
-![ContextCanvases6](/assets/chapter-II/Canvases6.jpg)
+![ContextCanvases6](assets/chapter-II/Canvases6.jpg)
 
 ### 2.5.2. Context Mapping
 
-![ContextMapping](/assets/chapter-II/Contextmapping.jpg)
+![ContextMapping](assets/chapter-II/contextmapping_v2.png)
 
 Aqui se presentan los contextos identificados anteriormente, User, Property Owner, Offices, Searching, Rating y Messaging. Ademas de poder ver las relaciones que posee, Las oficinas tienen una relacion con los usuarios comunes y con el rating indicando que los usuarios pueden interactuar con las oficinas, Searching depende de las oficinas para obtener los datos de busqueda y por ultimo, Rating depende de Offices para ofreces la experiencia de dejar una opinon.
 
@@ -945,11 +945,15 @@ Asimismo tiene otras relaciones, como la de User y Property Owner, debido a que 
 
 #### 2.5.3.1. Software Architecture Context Level Diagrams
 
-![DDDContext](/assets/chapter-II/DDDContext.png)
+![DDDContext](assets/chapter-II/DDDContext.png)
 
 #### 2.5.3.2. Software Architecture Container Level Diagrams
 
-![DDDContainer](/assets/chapter-II/DDD-Container-001.png)
+![DDDContainer](assets/chapter-II/ContainerDiagram_v2.png)
+
+Diagrama de componentes:
+
+![componentes](assets/chapter-II/Screenshot%202025-11-06%20133231.png)
 
 #### 2.5.3.3. Software Architecture Deployment Diagrams
 
@@ -1046,11 +1050,11 @@ Para los servicios externos solo se creo un Repositorio:
 
 ##### 2.6.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](/assets/chapter-II/UserClassDiagram.png)
+![ClassDiagram](assets/chapter-II/UserClassDiagram.png)
 
 ##### 2.6.1.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](/assets/chapter-II/UserDatabaseDiagram.png)
+![DatabaseDiagram](assets/chapter-II/UserDatabaseDiagram.png)
 
 ---
 
@@ -1100,11 +1104,11 @@ Para los servicios externos solo se creo un Repositorio:
 
 ##### 2.6.2.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](/assets/chapter-II/OfficeClassDiagram.png)
+![ClassDiagram](assets/chapter-II/OfficeClassDiagram.png)
 
 ##### 2.6.2.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](/assets/chapter-II/OfficeDatabaseDiagram.png)
+![DatabaseDiagram](assets/chapter-II/OfficeDatabaseDiagram.png)
 
 ---
 
@@ -1145,17 +1149,17 @@ Para los servicios externos solo se creo un Repositorio:
 
 #### 2.6.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-![ComponentDiagram3](/assets/chapter-II/DDD_rating.png)
+![ComponentDiagram3](assets/chapter-II/DDD_rating.png)
 
 #### 2.6.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 2.6.3.6.1. Bounded Context Domain Layer Class Diagrams
 
-![ClassDiagram](/assets/chapter-II/ratingClass.png)
+![ClassDiagram](assets/chapter-II/ratingClass.png)
 
 ##### 2.6.3.6.2. Bounded Context Database Design Diagram
 
-![DatabaseDiagram](/assets/chapter-II/ratingDatabase.png)
+![DatabaseDiagram](assets/chapter-II/ratingDatabase.png)
 
 ---
 
@@ -1181,21 +1185,21 @@ Brindar a freelancers y emprendedores espacios flexibles de trabajo a través de
 
 #### Logo:
 
-![Img Logo](/assets/chapter-III/logo-workstation.jpg)
+![Img Logo](assets/chapter-III/logo-workstation.jpg)
 
-![Img Logo2](/assets/chapter-III/logo-workstation-movil.png)
+![Img Logo2](assets/chapter-III/logo-workstation-movil.png)
 
 #### Colors:
 
 Para los colores de la aplicacion buscamos identidad visual refleja estabilidad, claridad y creatividad, creando un ambiente digital acogedor y eficiente. Un diseño limpio y moderno que genera comodidas y profesionalismo.
 
-![Img Colors](/assets/chapter-III/Colors-workStation.png)
+![Img Colors](assets/chapter-III/Colors-workStation.png)
 
 #### Tipografia:
 
 La tipografía debe transmitir claridad, calidez y profesionalismo. Por esa razón decidimos usar **Roboto Flex**, ya que tiene un diseño limpio y sencillo, lo que facilita la lectura en pantallas.
 
-![tipografia](/assets/chapter-III/tipografia.png)
+![tipografia](assets/chapter-III/tipografia.png)
 
 #### Spacing:
 
@@ -1247,7 +1251,7 @@ Se implementarán animaciones sutiles para mostrar imágenes y textos informativ
 
 El sistema de organización de la aplicación WorkStation, diseñada para conectar freelancers con espacios de trabajo, se estructura de manera clara y eficiente para optimizar la experiencia tanto de los usuarios(freelancers) como de los propietarios que ofrecen sus locales en alquiler. A continuación, se detalla cómo se organiza la plataforma en términos de navegación, funcionalidades y flujos de usuario.
 
-![Diagrama](/assets/chapter-III//Diagrama-WorkStation.png)
+![Diagrama](assets/chapter-III//Diagrama-WorkStation.png)
 
 El recorrido comienza en la Landing Page, donde los usuarios pueden explorar información general sobre la aplicación. Desde ahí, pueden acceder a la opción de Inicio, que los lleva a la pantalla principal.
 
@@ -1459,45 +1463,45 @@ Este sistema de navegación estructurado garantiza que los usuarios de WorkStati
 
 **Landing Page Home**
 
-![Navigation and Hero Section](/assets/chapter-III/Landing-Wireframe-Intro.png)
+![Navigation and Hero Section](assets/chapter-III/Landing-Wireframe-Intro.png)
 
 **Rent with us**
 
-![Rent with us](/assets/chapter-III/Landing-Wireframe-Rent.png)
+![Rent with us](assets/chapter-III/Landing-Wireframe-Rent.png)
 
 **Host with us**
 
-![Host with us](/assets/chapter-III/Landing-Wireframe-Host.png)
+![Host with us](assets/chapter-III/Landing-Wireframe-Host.png)
 
 **Reviews**
 
-![Reviews](/assets/chapter-III/Landing-Wireframe-Reviews.png)
+![Reviews](assets/chapter-III/Landing-Wireframe-Reviews.png)
 
 **Contact**
 
-![Contact](/assets/chapter-III/Landing-Wireframe-Contact.png)
+![Contact](assets/chapter-III/Landing-Wireframe-Contact.png)
 
 ### **Mobile Web Browser**
 
 **Landing Page Home**
 
-![Navigation and Hero Section](/assets/chapter-III/Landing-Mobile-Wireframe-Intro.png)
+![Navigation and Hero Section](assets/chapter-III/Landing-Mobile-Wireframe-Intro.png)
 
 **Rent with us**
 
-![Rent with us](/assets/chapter-III/Landing-Mobile-Wireframe-Rent.png)
+![Rent with us](assets/chapter-III/Landing-Mobile-Wireframe-Rent.png)
 
 **Host with us**
 
-![Host with us](/assets/chapter-III/Landing-Mobile-Wireframe-Host.png)
+![Host with us](assets/chapter-III/Landing-Mobile-Wireframe-Host.png)
 
 **Reviews**
 
-![Reviews](/assets/chapter-III/Landing-Mobile-Wireframe-Reviews.png)
+![Reviews](assets/chapter-III/Landing-Mobile-Wireframe-Reviews.png)
 
 **Contact**
 
-![Contact](/assets/chapter-III/Landing-Mobile-Wireframe-Contact.png)
+![Contact](assets/chapter-III/Landing-Mobile-Wireframe-Contact.png)
 
 #### 3.1.3.2. Landing Page Mock-up
 
@@ -1505,83 +1509,83 @@ Este sistema de navegación estructurado garantiza que los usuarios de WorkStati
 
 **Landing Page Home**
 
-![Navigation and Hero section](/assets/chapter-III/Landing-Intro.png)
+![Navigation and Hero section](assets/chapter-III/Landing-Intro.png)
 
 **Rent with us**
 
-![Rent with us](/assets/chapter-III/Landing-Rent.png)
+![Rent with us](assets/chapter-III/Landing-Rent.png)
 
 **Host with us**
 
-![Host with us](/assets/chapter-III/Landing-Host.png)
+![Host with us](assets/chapter-III/Landing-Host.png)
 
 **Reviews**
 
-![Reviews](/assets/chapter-III/Landing-Reviews.png)
+![Reviews](assets/chapter-III/Landing-Reviews.png)
 
 **Contact**
 
-![Contact](/assets/chapter-III/Landing-Contact.png)
+![Contact](assets/chapter-III/Landing-Contact.png)
 
 ### **Mobile Web Browser**
 
 **Landing Page Home**
 
-![Navigation and Hero section](/assets/chapter-III/Landing-Mobile-Intro.png)
+![Navigation and Hero section](assets/chapter-III/Landing-Mobile-Intro.png)
 
 **Rent with us**
 
-![Rent with us](/assets/chapter-III/Landing-Mobile-Rent.png)
+![Rent with us](assets/chapter-III/Landing-Mobile-Rent.png)
 
 **Host with us**
 
-![Host with us](/assets/chapter-III/Landing-Mobile-Host.png)
+![Host with us](assets/chapter-III/Landing-Mobile-Host.png)
 
 **Reviews**
 
-![Reviews](/assets/chapter-III/Landing-Mobile-Reviews.png)
+![Reviews](assets/chapter-III/Landing-Mobile-Reviews.png)
 
 **Contact**
 
-![Contact](/assets/chapter-III/Landing-Mobile-Contact.png)
+![Contact](assets/chapter-III/Landing-Mobile-Contact.png)
 
 ### 3.1.4. Mobile Applications UX/UI Design
 
 #### 3.1.4.1. Mobile Applications Wireframes
 
-![Wireframe1](/assets/chapter-III/Wireframe1.png)
+![Wireframe1](assets/chapter-III/Wireframe1.png)
 
-![Wireframe2](/assets/chapter-III/Wireframe2.png)
+![Wireframe2](assets/chapter-III/Wireframe2.png)
 
-![Wireframe3](/assets/chapter-III/Wireframe3.png)
+![Wireframe3](assets/chapter-III/Wireframe3.png)
 
-![Wireframe4](/assets/chapter-III/Wireframe4.png)
+![Wireframe4](assets/chapter-III/Wireframe4.png)
 
 #### 3.1.4.2. Mobile Applications Wireflow Diagrams
 
-![Wireflow](/assets/chapter-III/wireflow.png)
+![Wireflow](assets/chapter-III/wireflow.png)
 
 #### 3.1.4.3. Mobile Applications Mock-ups
 
-![mockino](/assets/chapter-III/mockup.png)
+![mockino](assets/chapter-III/mockup.png)
 
-![mockup1](/assets/chapter-III/Mockup1.png)
+![mockup1](assets/chapter-III/Mockup1.png)
 
-![mockup2](/assets/chapter-III/Mockup2.png)
+![mockup2](assets/chapter-III/Mockup2.png)
 
-![mockup3](/assets/chapter-III/Mockup3.png)
+![mockup3](assets/chapter-III/Mockup3.png)
 
-![mockup4](/assets/chapter-III/Mockup4.png)
+![mockup4](assets/chapter-III/Mockup4.png)
 
 #### 3.1.4.4. Mobile Applications User Flow Diagrams
 
-![userflow](/assets/chapter-III/userflow.png)
+![userflow](assets/chapter-III/userflow.png)
 
 #### 3.1.4.5. Mobile Applications Prototyping
 
-![prototyping1](/assets/chapter-III/prototiping1.png)
+![prototyping1](assets/chapter-III/prototiping1.png)
 
-![prototyping2](/assets/chapter-III/prototiping2.png)
+![prototyping2](assets/chapter-III/prototiping2.png)
 
 ---
 
@@ -1779,24 +1783,24 @@ public class UserService
 En este punto se describen los pasos para hacer el despliegue de la Landing Page utilizando GitHub Pages utilizando el repositorio anteriormente mencionado.
 
 Primero en la seccion de configuraciones del repositorio, se abre la seccion de Pages.
-![deployment1](/assets/chapter-IV/deployment1.png)
+![deployment1](assets/chapter-IV/deployment1.png)
 
 Se selecciona la main branch donde se encuentra la ultima actualizacion del codigo en HTML, CSS y JS. Por ultimo se guardan las configuraciones
-![deployment2](/assets/chapter-IV/deployment2.png)
+![deployment2](assets/chapter-IV/deployment2.png)
 Luego de unos segundos la aplicacion se ha desplegado, siendo el simbolo de confirmacion el check al lado del nombre del repositorio
-![deployment3](/assets/chapter-IV/deployment3.png)
+![deployment3](assets/chapter-IV/deployment3.png)
 A continuacion, un vistazo de la landing page:
-![deployment4](/assets/chapter-IV/deployment4.png)
+![deployment4](assets/chapter-IV/deployment4.png)
 
 URL: [https://1acc0238-grupo-4.github.io/Landing-page/](https://1acc0238-grupo-4.github.io/Landing-page/)
 
 Luego de esto se hizo el despliegue del API Rest en Azure. Se creo un Web App basado en Linux y con soporte para .NET 9, que es el Framework utilizado para la creacion de este Backend.
 
-![deployment5](/assets/chapter-IV/deployment5.png)
+![deployment5](assets/chapter-IV/deployment5.png)
 
-![deployment6](/assets/chapter-IV/deployment6.png)
+![deployment6](assets/chapter-IV/deployment6.png)
 
-![deployment7](/assets/chapter-IV/deployment7.png)
+![deployment7](assets/chapter-IV/deployment7.png)
 
 URL del swagger: [https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.azurewebsites.net/swagger/index.html](https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.azurewebsites.net/swagger/index.html)
 
@@ -1928,23 +1932,23 @@ Por ultimo la documentación de los Schemas en swagger, donde podemos ver que ti
 El landing page se desplegó usando el servicio de GitHub Pages, que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. A continuación volverán a mostrar los pasos realizados para el despliegue:
 
 Primero en la seccion de configuraciones del repositorio, se abre la seccion de Pages.
-![deployment1](/assets/chapter-IV/deployment1.png)
+![deployment1](assets/chapter-IV/deployment1.png)
 
 Se selecciona la main branch donde se encuentra la ultima actualizacion del codigo en HTML, CSS y JS. Por ultimo se guardan las configuraciones
-![deployment2](/assets/chapter-IV/deployment2.png)
+![deployment2](assets/chapter-IV/deployment2.png)
 Luego de unos segundos la aplicacion se ha desplegado, siendo el simbolo de confirmacion el check al lado del nombre del repositorio
-![deployment3](/assets/chapter-IV/deployment3.png)
+![deployment3](assets/chapter-IV/deployment3.png)
 A continuacion, un vistazo de la landing page:
-![deployment4](/assets/chapter-IV/deployment4.png)
+![deployment4](assets/chapter-IV/deployment4.png)
 
 **Backend**
 Como se mostró anteriormente se hizo el despliegue del API Rest en Azure. Se creo un Web App basado en Linux y con soporte para .NET 9, que es el Framework utilizado para la creacion de este Backend.
 
-![deployment5](/assets/chapter-IV/deployment5.png)
+![deployment5](assets/chapter-IV/deployment5.png)
 
-![deployment6](/assets/chapter-IV/deployment6.png)
+![deployment6](assets/chapter-IV/deployment6.png)
 
-![deployment7](/assets/chapter-IV/deployment7.png)
+![deployment7](assets/chapter-IV/deployment7.png)
 
 ##### 4.2.1.8. Team Collaboration Insights during Sprint
 
