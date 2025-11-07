@@ -937,9 +937,13 @@ El usuario se crea una cuenta comun, busca la oficina a la cual quiere dejar una
 
 ![ContextMapping](assets/chapter-II/contextmapping_v2.png)
 
-Aqui se presentan los contextos identificados anteriormente, User, Property Owner, Offices, Searching, Rating y Messaging. Ademas de poder ver las relaciones que posee, Las oficinas tienen una relacion con los usuarios comunes y con el rating indicando que los usuarios pueden interactuar con las oficinas, Searching depende de las oficinas para obtener los datos de busqueda y por ultimo, Rating depende de Offices para ofreces la experiencia de dejar una opinon.
+El sistema posee todos los siguientes Contextos: User, Property Owner, Offices, Searching, Rating y Messaging.  Cada uno llega a poseer una parte del dominio y se comunican a traves de las relaciones mostradas en el cuadro.
 
-Asimismo tiene otras relaciones, como la de User y Property Owner, debido a que ambas se heredan de la misma clase BaseUser, por otro lado las dos se encuentran conectadas con messaging debido a que es el contexto por el cual las dos se comunican.
+**User Context y Property Owner:** Gestiona las identidades, autenticación y perfil de usuarios comunes, como personas que buscan los lugares para rentar. Este contexto posee relaciones con Property Owner debido a que ambos comparten una base común, la cual seria `BaseUser`. Esto evita que haya duplicación. En cuanto a las oficinas y messaging, estos otros dos contextos dependen de User para que la aplicación funcione correctamente y el usuario pueda manejarlas.
+**Offices Context:** El rol que tiene este contexto, es el cual maneja la información acerca de las oficinas y el manejo de la información dentro de estas. Las relaciones que tiene son los Usuarios, debido a que estos son los que consultan y los que proveen datos dentro de este contexto. Además que el Contexto de Searching depende de las Oficinas para que se puedan mostrar los datos correctos. Por ultimo, Rating maneja las calificaciones de las oficinas.
+**Searching Context:** Permite la búsqueda inteligente de las oficinas gracias a filtrado o criterios específicos que el usuario busque en una oficina. Tiene un Supplier con Offices, debido a que es el contexto de donde consume la información.
+**Rating Context:** Es el contexto que permite manejar las calificaciones a las oficinas. La conexión con Office es debido a que necesita asociar una validación a una oficina especifica.
+**Messaging Context:** Este contexto facilita la comunicación entre los propietarios y usuarios comunes para hacer los negocios dentro de la app de una forma segura. La conexión que tiene con usuarios y property owner es debido a que maneja la información para la comunicación de ambos contextos. 
 
 ### 2.5.3. Software Architecture
 
