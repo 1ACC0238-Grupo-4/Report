@@ -360,49 +360,7 @@ La mayoría depende de canales informales como redes sociales o WhatsApp, lo que
 
 #### 1.2.2.4. Lean UX Canvas
 
-<table>
-    <tbody>
-        <tr>
-            <td align="left"> <b>1. Business Problems</b>
-            <p>La conexion entre las demandas crecientes de espacios trabajos flexibles y la oferta de coworkings está dividida. La mayoría de usuarios no cuentan con plataformas confiables así como los propietarios carecen de herramientas de gestión.</p></td>
-            <td rowspan=2 align="center"><b>5. solution</b>
-            <p>Motor de búsqueda y filtrado de coworkings por ciudad, precio, servicios.</p>
-            <p>Sistema de reservas con calendario en tiempo real.</p>
-            <p>Panel para propietarios con gestión de disponibilidad, estadísticas, reseñas.</p>
-            <p>Sistema de notificaciones (email, push) para recordatorios y confirmaciones.</p></td>
-            <td align="left"><b>2. Bussiness Outcome</b>
-            <p>La plataforma aumentará la visibilidad y ocupación de los espacios coworking aliados.</p>
-            <p>Se reducirá la dependencia de canales informales como redes sociales y WhatsApp.</p>
-            <p>Se generará un flujo constante de ingresos por comisiones de reserva.</p>
-            <p>Se obtendrán datos útiles para mejorar la oferta y escalar el negocio.</p></td>
-        </tr>
-        <tr>
-            <td align="left"><b>3. User</b>
-            <p>Nustros clientes serán Freelancers y trabajadores remotos de entre 22 a 40 años que buscan habitaciones disponibles y acogedoras y con servicios como Wi-Fi, salas de reuniones.</p>
-            <p>Startups y equipos pequeños que buscan espacio temporal para trabajos de colaboración o reuniones.</p>
-            <p>Propietarios de coworking que desean captar más usuarios y administrar las reservas de manera efectiva.</p>
-            </td>
-            <td align="left"><b>4. User Outcome & Benefit</b>
-            <p>Tendrán acceso a filtros útiles para tomar decisiones informadas.</p>
-            <p>Los propietarios podrán gestionar disponibilidad en tiempo real y mejorar la experiencia del cliente.</p>
-            <p>Los usuarios podrán encontrar y reservar espacios de coworking de forma más rápida, transparente y confiable.</p>
-            </td>
-        </tr>
-        <tr>
-            <td align="left"><b>6. Hypothesis</b>
-            <p> Creemos que si desarrollamos una plataforma digital para coworkings, entonces los propietarios podrán aumentar la visibilidad de sus espacios y mejorar la eficiencia operativa.</p>
-            <p> Creemos que si implementamos un modelo de monetización por comisión por reserva, entonces generaremos ingresos sostenibles a medida que crece la apliación.</p>
-            <p> Creemos que si ofrecemos una plataforma centralizada con filtros por ubicación, precio y servicios, entonces los freelancers y startups encontrarán espacios de coworking más fácilmente.</p></td>
-            <td align="center"><b>7. What is the most important thing we need to learn first?</b>
-            <p>Primero necesitamos entender si los usuarios finales desean una plataforma de reserva centralizada, sus preferencias y necesidades para implementarlo y mejorar la experiencia.</p>
-            <p>Necesitamos saber si les cómodo de usar ante otros métodos tradicionals.</p>
-            </td>
-            <td align="center"><b>8. What is the least amount of work we need to do to learn the next most important thing?</b>
-            <p>Realizar entrevistas, feedback además de pruebas de usabilidad para explorar la relevancia de las reservas de espacios de trabajo tanto para trabajadores como los propietarios.</p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+![LEANUXCANVA](assets/chapter-II/LEANUXCANVA.png)
 
 ## 1.3. Segmentos objetivo
 
