@@ -172,9 +172,20 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
         - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
         - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
         - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
-    - [4.3. Validation Interviews](#43-validation-interviews)
+      - [4.3. Validation Interviews](#43-validation-interviews)
       - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
       - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
+        
+      - [5.2.2. Sprint 2](#421-sprint-2)
+        - [5.2.2.1. Sprint Planning 2](#4211-sprint-planning-2)
+        - [5.2.2.2. Sprint Backlog 2](#4212-sprint-backlog-2)
+        - [5.2.2.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+    
 
 ---
 
@@ -1840,13 +1851,7 @@ Para el primer sprint, desarrollamos la estructura y las funcionalidades básica
 | -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
 | **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
 | **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
-| US-31          | Conocer los servicios                   | T01                | Crear una página para que se puedan conocer los servicios.            | Permitir a los usuarios explorar los servicios que ofrece el proyecto.    | 1                    | Rodrigo Liberato | Done       |
-| US-32          | Revisar Reseñas sobre la aplicación     | T02                | Crear una sección para poder conocer la misión y visión del proyecto. | Proporcionar una visión clara de los objetivos y valores fundamentales.   | 1.5                  | Rodrigo Liberato  | Done       |
-| US-33          | Cambiar Lenguaje entre Español e Inglés | T03                | Crear una sección para ver las preguntas frecuentes                   | Simplificar las consultas de los usuarios mediante preguntas frecuentes.  | 2                    | Rodrigo Liberato | Done       |
-| US-34          | Navegación por el landing page          | T04                | Crear una sección para ver los equipos profesionales de los asilos    | Destacar la experiencia y especialización del equipo profesional.         | 1                    | Rodrigo Liberato  | Done       |
-| US-35          | Ver información del startup             | T05                | Crear un formulario para solicitar más información del proyecto.      | Facilitar la comunicación directa entre los usuarios y el proyecto.       | 1.5                  | Rodrigo Liberato | Done       |
-| US-36          | Conocer los servicios                   | T06                | Crear una sección para mostrar testimonios y casos exitosos.          | Presentar historias inspiradoras para ganar confianza en el proyecto.     | 2                    | Rodrigo Liberato  | Done       |
-| US-37          | Contactar al equipo de soporte          | T07                | Crear una opción para descargar un folleto con información relevante. | Ofrecer a los usuarios información detallada del proyecto en formato PDF. | 1                    | Rodrigo Liberato | Done       |
+| US-31          | Desarrollo del landing page                 | T01                | Crear la estructura y secciones principales del landing page.          | Explorar fácilmente el landing page para acceder a la información clave.    | 1                    | Rodrigo Liberato | Done       |
 
 
 ##### 4.2.1.3. Development Evidence for Sprint Review
@@ -2034,6 +2039,39 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
 - **Problema 3: El diseño y los elementos visuales no son del todo consistentes**
   - **Tarea Evaluada:** Visualizar página
   - **Recomendación:** Además de unificar el estilo visual, incorporar componentes reutilizables lo que permite la curva de aprendizaje al reconocer patrones visuales comunes.
+ 
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+El Sprint Planning 2 tuvo como objetivo asegurar la continuidad del trabajo en este entregable. Durante este sprint se lograron los objetivos planteados. Estas tareas permitieron consolidar el progreso del proyecto y fortalecer su presentación visual y funcional.
+
+| Sprint #                           | Sprint 2                                                                                                                                                                                                                        |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-10-23                                                                                                                                                                                                                      |
+| Time                               | 7:00 PM                                                                                                                                                                                                                         |
+| Location                           | Virtual - Meet                                                                                                                                                                                                                  |
+| Prepared By                        | Adriana Diestra                                                                                                                                                                                                                |
+| Attendees (to planning meeting)    | Rodrigo Liberato, Omar Berrocal, Moises Espinoza, Adriana Diestra                                                                                                                                   |
+| Sprint n - 2 Review Summary        | Durante este sprint se logró finalizar la aplicación Android, mejorar la landing page y avanzar en el desarrollo de la aplicación en Flutter. Estas tareas permitieron consolidar el progreso general del proyecto y fortalecer tanto su parte visual como funcional. |
+| Sprint n - 2 Retrospective Summary | La ejecución del sprint fue satisfactoria, cumpliendo los objetivos planteados dentro del tiempo establecido. El equipo mantuvo una buena coordinación y logró avanzar significativamente en el desarrollo multiplataforma del proyecto.                                                                                                            |
+| Sprint 2 Goal                      | La prioridad en este sprint fue culminar la aplicación Android, optimizar la landing page y continuar con el desarrollo de la aplicación en Flutter, con el propósito de mejorar la experiencia del usuario y mostrar un producto más completo y funcional.         |
+| Sprint 2 Velocity                  | Nuestro equipo puede aceptar hasta 10 Story Points.                                                                                                                                                                             |
+| Sum of Story Points                | La suma de Story Points atendidos es de 10.                                                                                                                                                                                     |
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+| **Sprint #**   | Sprint 2                                          |        |                                              |                                                                                                                                                                                                |                      |                              |            |
+| -------------- | ------------------------------------------------- | ------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------- | ---------- |
+| **User Story** |                                                   |        |                                              |                                                                                                                                                                                                |                      |                              |            |
+| **ID**         | **Título**                                        | **ID** | **Título**                                   | **Descripción**                                                                                                                                                                                | **Estimación (hrs)** | **Assigned to**              | **Status** |
+| US-31         | Navegación por el landing page                     | T20    | Implementar navegación en el landing page          | Como usuario quiero explorar fácilmente el landing page para acceder a la información clave.                      | 3                    | Rodrigo Liberato             | PDone   |
+| US-38          | Registro de Propietarios                              | T21    | Implementar registro de propietarios        | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios.          | 1                    | Adriana Diestra             | Done       |
+| US-39          | Publicación de Oficinas                            | T22    | Implementar publicación de oficinas      | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas.        | 2                    | Omar Berrocal           | Done       |
+
+
+
 
 # Conclusiones
 
