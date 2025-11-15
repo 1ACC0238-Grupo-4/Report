@@ -2173,9 +2173,31 @@ enlance al video: https://www.youtube.com/watch?v=0pF87XxPrjI
 
 ##### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
+Para el despligue de la aplicacion en Android, se utilizó Firebase, por lo que se siguieron todos estos pasos.
+
+![pd1](assets/chapter-IV/procedure_deployment.png)
+
+
+![pd2](assets/chapter-IV/procedure_deployment2.png)
+
+
+![pd0](assets/chapter-IV/procedure_deployment0.png)
+
+
+![pd3](assets/chapter-IV/procedure_deployment3.png)
+
+
+![pd4](assets/chapter-IV/procedure_deployment4.png)
+
+
+![pd5](assets/chapter-IV/procedure_deployment5.png)
+
+
+
+
 ##### 4.2.1.8. Team Collaboration Insights during Sprint
 
-Durante el desarrollo del sprint, el equipo culminó con la elaboración de la plataforma en Android, y se desarrolló la aplicacion en Flutter. Por ello a continuación se muestran los gráficos de colaboración obtenidas de repositorio de desarrollo en github. 
+Durante el desarrollo del sprint, el equipo culminó con la elaboración de la plataforma en Android, y se desarrolló la aplicacion en Flutter. Por ello a continuación se muestran los gráficos de colaboración obtenidas del repositorio de desarrollo en github. 
 
 ![col](assets/chapter-IV/colaboracion.png)
 
