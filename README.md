@@ -731,7 +731,16 @@ Entre las tareas encontradas, la que ambos User Persona coinciden en que es impo
 
 ### 2.3.4. Empathy Mapping
 
+Segmento 1 - Freelancers:
+
 ![EM](assets/chapter-II/Empathy-Map-Brainstorm.png)
+
+
+
+Segmento 2 - Propietario de inmuebles:
+
+![EMP](assets/chapter-II/empathy-mapping.png)
+
 
 ### 2.3.5. Ubiquitous Language
 
