@@ -2171,6 +2171,29 @@ enlance al video: https://www.youtube.com/watch?v=0pF87XxPrjI
 
 ##### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
+En este sprint se logró documentar con Open API el API Rest desarrollado en C# con .NET 9. A continuación se muestra evidencia de la documentación generada automáticamente con Swagger.
+
+**Office**
+
+Se muestra la documentación de los endpoints relacionados con la gestión de oficinas.
+![swagger-office](assets/chapter-IV/Endpoints-office.png)
+
+**User**
+
+Se muestra la documentación de los endpoints relacionados con la gestión de usuarios.
+![swagger-user](assets/chapter-IV/Endpoints-user.png)
+
+**Rating**
+
+Se muestra la documentación de los endpoints relacionados con la gestión de valoraciones.
+![swagger-rating](assets/chapter-IV/Endpoints-ratings.png)
+
+Por ultimo la documentación de los Schemas en swagger, donde podemos ver que tipo de datos se envían y reciben en cada comando.
+![swagger-schemas](assets/chapter-IV/Schemas-sprint1.png)
+
+![swagger-schemas-type](assets/chapter-IV/Schemas-sprint1-type-data.png)
+
+
 ##### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el despligue de la aplicacion en Android, se utilizó Firebase, por lo que se siguieron todos estos pasos.
