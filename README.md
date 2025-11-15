@@ -1926,6 +1926,246 @@ Estas muestras se tomaron antes de la culminación del plazo establecido para el
 Commits
 ![commits](assets/chapter-IV/commits-mobile-sprint1.png)
 
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2.
+
+El Sprint Planning 2 tuvo como objetivo asegurar la continuidad del trabajo en este entregable. Durante este sprint se lograron los objetivos planteados. Estas tareas permitieron consolidar el progreso del proyecto y fortalecer su presentación visual y funcional.
+
+| Sprint #                           | Sprint 2                                                                                                                                                                                                                        |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-10-23                                                                                                                                                                                                                      |
+| Time                               | 7:00 PM                                                                                                                                                                                                                         |
+| Location                           | Virtual - Meet                                                                                                                                                                                                                  |
+| Prepared By                        | Adriana Diestra                                                                                                                                                                                                                |
+| Attendees (to planning meeting)    | Rodrigo Liberato, Omar Berrocal, Moises Espinoza, Adriana Diestra                                                                                                                                   |
+| Sprint n - 2 Review Summary        | Durante este sprint se logró finalizar la aplicación Android, mejorar la landing page y avanzar en el desarrollo de la aplicación en Flutter. Estas tareas permitieron consolidar el progreso general del proyecto y fortalecer tanto su parte visual como funcional. |
+| Sprint n - 2 Retrospective Summary | La ejecución del sprint fue satisfactoria, cumpliendo los objetivos planteados dentro del tiempo establecido. El equipo mantuvo una buena coordinación y logró avanzar significativamente en el desarrollo multiplataforma del proyecto.                                                                                                            |
+| Sprint 2 Goal                      | La prioridad en este sprint fue culminar la aplicación Android, optimizar la landing page y continuar con el desarrollo de la aplicación en Flutter, con el propósito de mejorar la experiencia del usuario y mostrar un producto más completo y funcional.         |
+| Sprint 2 Velocity                  | Nuestro equipo puede aceptar hasta 10 Story Points.                                                                                                                                                                             |
+| Sum of Story Points                | La suma de Story Points atendidos es de 10.                                                                                                                                                                                     |
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+| **Sprint #**   | Sprint 2                                          |        |                                              |                                                                                                                                                                                                |                      |                              |            |
+| -------------- | ------------------------------------------------- | ------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------- | ---------- |
+| **User Story** |                                                   |        |                                              |                                                                                                                                                                                                |                      |                              |            |
+| **ID**         | **Título**                                        | **ID** | **Título**                                   | **Descripción**                                                                                                                                                                                | **Estimación (hrs)** | **Assigned to**              | **Status** |
+| US-31         | Navegación por el landing page                     | T20    | Implementar navegación en el landing page          | Como usuario quiero explorar fácilmente el landing page para acceder a la información clave.                      | 3                    | Rodrigo Liberato             | PDone   |
+| US-38          | Registro de Propietarios                              | T21    | Implementar registro de propietarios        | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios.          | 1                    | Adriana Diestra             | Done       |
+| US-39          | Publicación de Oficinas                            | T22    | Implementar publicación de oficinas      | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas.        | 2                    | Omar Berrocal           | Done       |
+
+##### 4.2.2.3. Development Evidence for Sprint Review
+
+**Lading Page Version 2**
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+<td rowspan="10"><a href="https://github.com/1ACC0238-Grupo-4/Landing-page.git" target="_blank" rel="noopener noreferrer">https://github.com/1ACC0238-Grupo-4/Landing-page.git</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>657650cccc96c3304a3fd259ee26e5cb5a9cf53d</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feat: added new references to mobile app</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>28/10/2025</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4fe9a80f503f34b3b324dc459e5fd15df6c47212</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>fix: changed about the product URL</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>13/11/2025</td>
+  </tr>
+
+</tbody></table>
+
+
+**Flutter Application**
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+<td rowspan="10"><a href="https://github.com/1ACC0238-Grupo-4/Frontend-Flutter.git" target="_blank" rel="noopener noreferrer">https://github.com/1ACC0238-Grupo-4/Frontend-Flutter.git</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8f94fb82f22cc3f08ad26540b0fa1bfe24737f39</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feat: added new pages (home, offices, search, chats and profile)</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>27/10/2025</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>caaea9583fd9532d87130c36d221748d191f36bd</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>fix: navigation</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>28/10/2025</td>
+  </tr>
+
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>046429bf4e8e4b7342846238d291914e4fd9b3b6</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feat: added bloc and auth login</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>04/11/2025</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>12c9d8bed8bee47fe4b63c93b04f426493c91c21</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feat: added register</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/11/2025</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>7904f4d496c0acd73446c3a20c5b862565084d74</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>fix button</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>05/11/2025</td>
+  </tr>
+
+</tbody></table>
+
+**Android Application**
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+<td rowspan="10"><a href="https://github.com/1ACC0238-Grupo-4/Frontend-kotlin.git" target="_blank" rel="noopener noreferrer">https://github.com/1ACC0238-Grupo-4/Frontend-kotlin.git</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-login</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>9072ef7ba7b2b29736cf53190423e86ce78f4663</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feat: add full implementation of authentication flow (login, registration, and password recovery)</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>12/11/2025</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-login</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3e5e932097e778b9293824696fe719ec9c814391</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>refactor: reorganize authentication-related packages and files.</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>14/11/2025</td>
+  </tr>
+
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>develop</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>e777be6708d1a19799a729481a5a6a96cb2d6ca3</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feat: add profile screen and update navigation.</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>14/11/2025</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>1c7629ebccdee531420d4a5020ddc987e369140c</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feat: add Chats route and integrate ChatsPage into navigation.</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>14/11/2025</td>
+  </tr>
+
+</tbody></table>
+
+##### 4.2.2.4. Testing Suite Evidence for Sprint Review
+
+En este segundo Sprint, veremos los archivos .feature relacionados a los user stories que hemos desarrollado, subidos en el repositorio.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+<td rowspan="10"><a href="https://github.com/1ACC0238-Grupo-4/Report/tree/main/Features" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesMoviles/Documentation/tree/main/Features</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>docs: add feature for sprint 2</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>add feature for sprint 2</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>14/11/2025</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>docs: add feature for sprint 2</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>add feature for sprint 2</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>14/11/2025</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>docs: add feature for sprint 2</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>add feature for sprint 2</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>14/11/2025</td>
+  </tr>
+
+
+</tbody></table>
+
+
+##### 4.2.2.5. Execution Evidence for Sprint Review
+
+**Landing Page**
+
+Para esta entrega se hizo una nueva versión de la landing page con elementos referentes a la aplicación mobile.
+
+![landing-evidence](assets/chapter-IV/landingPagev2.png)
+
+**Flutter Application**
+
+![flutter-evidence](assets/chapter-IV/FlutterEvidence.png)
+![flutter-evidence-2](assets/chapter-IV/FlutterEvidence2.png)
+![flutter-evidence-3](assets/chapter-IV/FlutterEvidence3.png)
+![flutter-evidence-4](assets/chapter-IV/FlutterEvidence4.png)
+![flutter-evidence-5](assets/chapter-IV/FlutterEvidence5.png)
+
+enlance al video: https://www.youtube.com/watch?v=0pF87XxPrjI
+
+**Android Application**
+
+![kotlin-evidence](assets/chapter-IV/KotlinEvidence1.png)
+![kotlin-evidence-2](assets/chapter-IV/KotlinEvidence2.png)
+![kotlin-evidence-3](assets/chapter-IV/KotlinEvidence3.png)
+![kotlin-evidence-4](assets/chapter-IV/KotlinEvidence4.png)
+![kotlin-evidence-5](assets/chapter-IV/KotlinEvidence5.png)
+
+
+
+##### 4.2.1.6. Services Documentation Evidence for Sprint Review
+
+##### 4.2.1.7. Software Deployment Evidence for Sprint Review
+
+##### 4.2.1.8. Team Collaboration Insights during Sprint
+
 ### 4.3. Validation Interviews
 
 #### 4.3.1. Diseño de Entrevistas
@@ -1998,36 +2238,6 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
   - **Tarea Evaluada:** Visualizar página
   - **Recomendación:** Además de unificar el estilo visual, incorporar componentes reutilizables lo que permite la curva de aprendizaje al reconocer patrones visuales comunes.
  
-
-### 5.2.2. Sprint 2
-
-#### 5.2.2.1. Sprint Planning 2.
-
-El Sprint Planning 2 tuvo como objetivo asegurar la continuidad del trabajo en este entregable. Durante este sprint se lograron los objetivos planteados. Estas tareas permitieron consolidar el progreso del proyecto y fortalecer su presentación visual y funcional.
-
-| Sprint #                           | Sprint 2                                                                                                                                                                                                                        |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Date**                           | 2025-10-23                                                                                                                                                                                                                      |
-| Time                               | 7:00 PM                                                                                                                                                                                                                         |
-| Location                           | Virtual - Meet                                                                                                                                                                                                                  |
-| Prepared By                        | Adriana Diestra                                                                                                                                                                                                                |
-| Attendees (to planning meeting)    | Rodrigo Liberato, Omar Berrocal, Moises Espinoza, Adriana Diestra                                                                                                                                   |
-| Sprint n - 2 Review Summary        | Durante este sprint se logró finalizar la aplicación Android, mejorar la landing page y avanzar en el desarrollo de la aplicación en Flutter. Estas tareas permitieron consolidar el progreso general del proyecto y fortalecer tanto su parte visual como funcional. |
-| Sprint n - 2 Retrospective Summary | La ejecución del sprint fue satisfactoria, cumpliendo los objetivos planteados dentro del tiempo establecido. El equipo mantuvo una buena coordinación y logró avanzar significativamente en el desarrollo multiplataforma del proyecto.                                                                                                            |
-| Sprint 2 Goal                      | La prioridad en este sprint fue culminar la aplicación Android, optimizar la landing page y continuar con el desarrollo de la aplicación en Flutter, con el propósito de mejorar la experiencia del usuario y mostrar un producto más completo y funcional.         |
-| Sprint 2 Velocity                  | Nuestro equipo puede aceptar hasta 10 Story Points.                                                                                                                                                                             |
-| Sum of Story Points                | La suma de Story Points atendidos es de 10.                                                                                                                                                                                     |
-
-#### 5.2.2.2. Sprint Backlog 2.
-
-| **Sprint #**   | Sprint 2                                          |        |                                              |                                                                                                                                                                                                |                      |                              |            |
-| -------------- | ------------------------------------------------- | ------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------- | ---------- |
-| **User Story** |                                                   |        |                                              |                                                                                                                                                                                                |                      |                              |            |
-| **ID**         | **Título**                                        | **ID** | **Título**                                   | **Descripción**                                                                                                                                                                                | **Estimación (hrs)** | **Assigned to**              | **Status** |
-| US-31         | Navegación por el landing page                     | T20    | Implementar navegación en el landing page          | Como usuario quiero explorar fácilmente el landing page para acceder a la información clave.                      | 3                    | Rodrigo Liberato             | PDone   |
-| US-38          | Registro de Propietarios                              | T21    | Implementar registro de propietarios        | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios.          | 1                    | Adriana Diestra             | Done       |
-| US-39          | Publicación de Oficinas                            | T22    | Implementar publicación de oficinas      | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas.        | 2                    | Omar Berrocal           | Done       |
-
 
 
 
