@@ -2175,6 +2175,11 @@ enlance al video: https://www.youtube.com/watch?v=0pF87XxPrjI
 
 ##### 4.2.1.8. Team Collaboration Insights during Sprint
 
+Durante el desarrollo del sprint, el equipo culminó con la elaboración de la plataforma en Android, y se desarrolló la aplicacion en Flutter. Por ello a continuación se muestran los gráficos de colaboración obtenidas de repositorio de desarrollo en github. 
+
+![col](assets/chapter-IV/colaboracion.png)
+
+
 ### 4.3. Validation Interviews
 
 #### 4.3.1. Diseño de Entrevistas
