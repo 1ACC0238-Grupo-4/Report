@@ -1026,7 +1026,7 @@ Para los servicios externos solo se creo un Repositorio:
 
 #### 2.6.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-![ComponentDiagram1](https://github.com/WorkStation-MarronCoders/Report/raw/main/Imagenes/DDD4_UserAP.png)
+![ComponentDiagram1](assets/chapter-II/DDD4_UserAP.png)
 
 #### 2.6.1.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1080,7 +1080,7 @@ Para los servicios externos solo se creo un Repositorio:
 
 #### 2.6.2.5. Bounded Context Software Architecture Component Level Diagrams
 
-![ComponentDiagram2](https://github.com/WorkStation-MarronCoders/Report/raw/main/Imagenes/DDD5_officeAP.png)
+![ComponentDiagram2](assets/chapter-II/DDD5_officeAP.png)
 
 #### 2.6.2.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1598,11 +1598,11 @@ Herramientas utilizadas
 
 Para la gestion de codigo, se realizaron los avances en una plataforma que sea posible de rastrear y facil de manejar como lo seria GitHub. Asimismo, se uso Git para tener facilidad editar nuestros documentos. A continuacion los repositorios utilizados para este sprint:
 
-- Organizacion: [https://github.com/1ACC0238-Grupo-4](https://github.com/1ACC0238-Grupo-4)
-- Reporte: [https://github.com/1ACC0238-Grupo-4/Report.git](https://github.com/1ACC0238-Grupo-4/Report.git)
-- Landing page: [https://github.com/1ACC0238-Grupo-4/Landing-page.git](https://github.com/1ACC0238-Grupo-4/Landing-page.git)
-- Backend: [https://github.com/1ACC0238-Grupo-4/Backend.git](https://github.com/1ACC0238-Grupo-4/Backend.git)
-- Frontend App Movil:[https://github.com/1ACC0238-Grupo-4/Frontend-kotlin](https://github.com/1ACC0238-Grupo-4/Frontend-kotlin)
+- Organizacion: [Repositorio de Organizacion](https://github.com/1ACC0238-Grupo-4)
+- Reporte: [Repositorio de Report](https://github.com/1ACC0238-Grupo-4/Report.git)
+- Landing page: [Repositorio de LandingPage](https://github.com/1ACC0238-Grupo-4/Landing-page.git)
+- Backend: [Repositorio de Backend](https://github.com/1ACC0238-Grupo-4/Backend.git)
+- Frontend App Movil:[Repositorio de Kotlin](https://github.com/1ACC0238-Grupo-4/Frontend-kotlin)
 
 **Gitflow**
 Gitflow es una estrategia de ramificación (branching) en Git que define un separa el flujo de trabajo para una mejor organizacion, esto para que los trabajos colaborativos se puedan desarrollar de la mejor manera. Separa las diferentes fases del desarrollo (nuevas funcionalidades, pruebas, correcciones) en distintas branches. Las branches permiten trabajar en paralelo en diferentes aspectos del proyecto sin afectar el código principal. En Gitflow, cada tipo de rama tiene una función específica.
@@ -2065,7 +2065,7 @@ El Sprint Planning 2 tuvo como objetivo asegurar la continuidad del trabajo en e
   </tr></thead>
 <tbody>
   <tr>
-<td rowspan="10"><a href="https://github.com/1ACC0238-Grupo-4/Frontend-kotlin.git" target="_blank" rel="noopener noreferrer">https://github.com/1ACC0238-Grupo-4/Frontend-kotlin.git</a></td>
+<td rowspan="10"><a href="" target="_blank" rel="noopener noreferrer">https://github.com/1ACC0238-Grupo-4/Frontend-kotlin.git</a></td>
     <td>&nbsp;&nbsp;&nbsp;<br>feature-login</td>
     <td>&nbsp;&nbsp;&nbsp;<br>9072ef7ba7b2b29736cf53190423e86ce78f4663</td>
     <td>&nbsp;&nbsp;&nbsp;<br>feat: add full implementation of authentication flow (login, registration, and password recovery)</td>
@@ -2247,19 +2247,19 @@ Durante el desarrollo del sprint, el equipo culminó con la elaboración de la p
 
 Entrevista numero 1: Arturo Salinas
 
-URL: [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Ea0X1x8G5LVDk5lJbnkuELQBxqBnMRC8m-LE9-zoBNeUtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=u5hOS0)
+URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Ea0X1x8G5LVDk5lJbnkuELQBxqBnMRC8m-LE9-zoBNeUtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=u5hOS0](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Ea0X1x8G5LVDk5lJbnkuELQBxqBnMRC8m-LE9-zoBNeUtA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=u5hOS0)
 
 Para esta entrevista, se eligio a un propietario de oficina, se mostro las funcionalidades y las deficiencias de la aplicacion para que asi se puedan realizar las preguntas. Gracias a esta entrevista se logro hallar valiosa informacion que utilizaremos para mejorar nuestro producto para que llege a ser funcional en un entorno real.
 
 Entrevista Numero 2: Marjorie Victoria
 
-URL[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Eb77g7qhxdxFiFY6AOufgmUBm0v-5Lr3aBsRV43ROD6VVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=erwOnD)
+URL: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Eb77g7qhxdxFiFY6AOufgmUBm0v-5Lr3aBsRV43ROD6VVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=erwOnD](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215623_upc_edu_pe/Eb77g7qhxdxFiFY6AOufgmUBm0v-5Lr3aBsRV43ROD6VVw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=erwOnD)
 
 Para esta entrevista, se eligio a una persona que busca y compara precios de oficinas, se mostro las funcionalidades y las deficiencias de la aplicacion para que asi se puedan realizar las preguntas. Se nos pidio optimizar la aplicacion para futuras iteraciones que la aplicacion recibira. Con esto tendremos en cuenta mejores oportunidades de mejora para la siguiente version.
 
 Entrevista Numero 3: Javier Arevalo
 
-URL: [Link](https://youtu.be/D3GxAFLeHeE)
+URL: [https://youtu.be/D3GxAFLeHeE](https://youtu.be/D3GxAFLeHeE)
 Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó su experiencia sobre el uso de nuestra plataforma. Se nos pidió mejor las interfaces y agrandar los textos. Esta retroalimentación sirve para optimizar la aplicación en futuras iteraciones, priorizando una experiencia más completa y eficaz para los propietarios en la siguiente versión.
 
 #### 4.3.3. Evaluaciones según heurísticas
