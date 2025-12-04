@@ -2204,9 +2204,45 @@ Durante el desarrollo del sprint, el equipo culminó con la elaboración de la p
 
 ##### 4.2.3.3. Development Evidence for Sprint Review
 
+Dentro del desarrollo de flutter, uno de los grandes añadidos a la aplicacion fue la opcion de reservas gracias a servicio de Contratos. Se creo las pages `contract_page` y `contract_details_page` todo esto llamando de un endpoint de nuestro backend para la creacion del contrato y la reserva.
+
+![Sprint3_development1](assets/chapter-IV/Sprint3_development1.png)
+
+![Sprint3_development2](assets/chapter-IV/Sprint3_development2.png)
+
+Asimismo se utilizo Bloc para el manejo de eventos y estados dentro de estas vistas.
+
+![Sprint3_development3](assets/chapter-IV/Sprint3_development3.png)
+
+![Sprint3_development4](assets/chapter-IV/Sprint3_development4.png)
+
+Por ultimo, para poder reservar, se incluyo ahora si el endpoint de las oficinas dentro de nuestra aplicacion, donde las vistas de Search solo presentaran las oficinas que estan activas, mientras en el contexto de Offices se veran las oficinas ya reservadas junto con los detalles de los contratos.
+
+![Sprint3_development5](assets/chapter-IV/Sprint3_development5.png)
+
+![Sprint3_development6](assets/chapter-IV/Sprint3_development6.png)
+
+![Sprint3_development7](assets/chapter-IV/Sprint3_development7.png)
+
 ##### 4.2.3.4. Testing Suite Evidence for Sprint Review
 
 ##### 4.2.3.5. Execution Evidence for Sprint Review
+
+En las siguientes imagenes se podra ver la evidencia de la ejecuccion de la aplicacion, primero se ve la vista de reservas con las oficinas que tienen la variable Available en falso, por ende, se encuentran reservadas
+
+![Sprint3_execution](assets/chapter-IV/Sprint3ExecutionEvidence1.png)
+
+Esto se puede confirmar ya que luego de ver sus detalles es posible de verificar el contrato y sus detalles
+
+![Sprint3_execution3](assets/chapter-IV/Sprint3ExecutionEvidence3.png)
+
+![Sprint3_execution4](assets/chapter-IV/Sprint3ExecutionEvidence4.png)
+
+Asimismo, la vista de la creacion de contratos se encuentran en la siguiente imagen, donde se puede ver los campos a completar para poder generar el contrato exitosamente para luego firmarlo.
+
+![Sprint3_execution5](assets/chapter-IV/Sprint3ExecutionEvidence5.png)
+
+![Sprint3_execution6](assets/chapter-IV/Sprint3ExecutionEvidence6.png)
 
 ##### 4.2.3.6. Services Documentation Evidence for Sprint Review
 
