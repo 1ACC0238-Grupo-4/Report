@@ -7,7 +7,9 @@
 <p align="center"><strong>Universidad Peruana de Ciencias Aplicadas</strong></p>
 
 <p align="center"><strong>Ingeniería de Software</strong><br>
-Aplicaciones para dispositivos moviles <br>
+1ACC0238 - Aplicaciones para dispositivos moviles <br>
+Seccion: 12617
+<br>
 <strong>Profesor: Jorge Luis Mayta Guillermo</strong> </p>
 
 <h2 align="center">INFORME</h2>
@@ -32,19 +34,20 @@ Aplicaciones para dispositivos moviles <br>
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha       | Autor                           | Descripción de modificación                                             |
-|---------|-------------|---------------------------------|-------------------------------------------------------------------------|
-| 0.1     | 13/09/2025  | Rodrigo Liberato Saldana        | Se presentó la estructura del informe                                   |
-| 0.2     | 18/09/2025  | Moises Espinoza Chavez          | Se agregaron los bounded context                                        |
-| 0.3     | 19/09/2025  | Omar Berrocal Ramirez           | Se añadió la sección de Lean UX                                         |
-| 0.4     | 19/09/2025  | Adriana Diestra Zambrano        | Se añadió la sección de Needfinding                                     |
-| 0.5     | 19/09/2025  | Moises Espinoza Chavez          | Se añadió la sección de Arquitectura                                    |
-| 1.0     | 19/09/2025  | Omar Berrocal                   | Se realizó los insights y el outcome                                    |
-| 1.1     | 05/10/2025  | Omar Berrocal                   | Se corrigieron errores de formato, outcome del curso                    |
-| 1.2     | 07/10/2025  | Rodrigo Liberato                | Se corrigieron errores de muestras de diagramas y avance del capítulo 4 |
-| 1.3     | 09/10/2025  | Omar Berrocal                   | Avance del sprint 1                                                     |
-| 2.0     | 06/11/2025  | Rodrigo liberato                | Correcciones de muestra de imagenes y descripciones                     |
-| 2.1     | 10/11/2025  | Adriana Diestra y Omar Berrocal | Avance del sprint 2                                                     |
+| Versión | Fecha      | Autor                           | Descripción de modificación                                             |
+| ------- | ---------- | ------------------------------- | ----------------------------------------------------------------------- |
+| 0.1     | 13/09/2025 | Rodrigo Liberato Saldana        | Se presentó la estructura del informe                                   |
+| 0.2     | 18/09/2025 | Moises Espinoza Chavez          | Se agregaron los bounded context                                        |
+| 0.3     | 19/09/2025 | Omar Berrocal Ramirez           | Se añadió la sección de Lean UX                                         |
+| 0.4     | 19/09/2025 | Adriana Diestra Zambrano        | Se añadió la sección de Needfinding                                     |
+| 0.5     | 19/09/2025 | Moises Espinoza Chavez          | Se añadió la sección de Arquitectura                                    |
+| 1.0     | 19/09/2025 | Omar Berrocal                   | Se realizó los insights y el outcome                                    |
+| 1.1     | 05/10/2025 | Omar Berrocal                   | Se corrigieron errores de formato, outcome del curso                    |
+| 1.2     | 07/10/2025 | Rodrigo Liberato                | Se corrigieron errores de muestras de diagramas y avance del capítulo 4 |
+| 1.3     | 09/10/2025 | Omar Berrocal                   | Avance del sprint 1                                                     |
+| 2.0     | 06/11/2025 | Rodrigo liberato                | Correcciones de muestra de imagenes y descripciones                     |
+| 2.1     | 10/11/2025 | Adriana Diestra y Omar Berrocal | Avance del sprint 2                                                     |
+
 # Project Report Collaboration Insights
 
 Link de la organización: https://github.com/1ACC0238-Grupo-4
@@ -175,7 +178,6 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
       - [4.3. Validation Interviews](#43-validation-interviews)
       - [4.3.1. Diseño de Entrevistas](#431-diseño-de-entrevistas)
       - [4.3.2. Registro de Entrevistas](#432-registro-de-entrevistas)
-        
       - [5.2.2. Sprint 2](#421-sprint-2)
         - [5.2.2.1. Sprint Planning 2](#4211-sprint-planning-2)
         - [5.2.2.2. Sprint Backlog 2](#4212-sprint-backlog-2)
@@ -185,7 +187,6 @@ En este insight se puede evidenciar las contribuciones de cada miembro del equip
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
-    
 
 ---
 
@@ -199,10 +200,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET:
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 7.
 
-| Criterio específico                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------------- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Omar Berrocal**<br/>**TB1**<br/>Durante esta entrega volví a revisar conceptos generales y técnicos de métodos y desarrollos agiles, para poder planificar y realizar el proyecto acorde a los estándares y aplicando buenas prácticas de desarrollo. De igual manera para absolver las dudas de mis compañeros sobre como vamos a trabajar y que modelo usaremos, como es el gitflow, conventional commits, entre otros.<br>**TP**<br>Durante esta entrega busqué la manera de implementar mejores prácticas en el manejo del proyecto y no repetir los errores de la primera entrega. Además apoyé con el desarrollo de vistas de la aplicación mobile para lo que repasar como funcionaba el backend y el negocio. <br>**TB2**<br> En esta entrega tuve que aplicar prácticas de refactorización de codigo y orden de carpetas para una mejor organización. Tambien tuve que cumplir un objetivo en un tiempo fijado por el equipo. <br> <br>**Rodrigo Liberato**<br/>**TB1**<br/>Durante esta entrega me comprometi a entender mejor el estado de los contexto embedidos ysu proceso para llegar al estado final de desarrollo. <br/>**TP**<br/>Durante esta entrega parcial me dedique a ayudar con el desarrollo del aplicativo movil y a hacer el deploy y brindar mejoras en el backend de la aplicacion. <br>**Adriana Diestra** <br/>**TB1**<br/>Durante esta entrega apliqué conceptos de metodologías ágiles y buenas prácticas como Gitflow y conventional commits, además de técnicas de especificación de requisitos (user stories, impact mapping y backlog) para planificar el proyecto de manera ordenada y conforme a estándares.     <br/>**TP**<br>Durante esta entrega parcial participé activamente en el desarrollo del Sprint, enfocándome en la implementación del login del frontend. Este avance permitió fortalecer la funcionalidad base del aplicativo y asegurar una mejor experiencia de acceso para los usuarios.  <br/>**TB2**<br>Durante esta entrega participé activamente en el desarrollo del Sprint 2, enfocándome en la implementación del módulo de login para la aplicación. Este avance permitió consolidar la funcionalidad base del sistema, garantizando un acceso seguro y fluido para los usuarios. Además, sentó las bases para las siguientes funcionalidades que se incorporarán en los próximos sprints.                                                                                | Como equipo repasamos conceptos vistos anteriormente, como Event Storming de Scrum, patrones de diseño de software, Domain Driven Design, diagramas y métodos ágiles, demostrando así la necesidad de poner en práctica constantemente lo aprendido para su uso en proyectos de software.                                                                                                                                                                                                                                         |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Omar Berrocal**<br/>**TB1**<br/>Para esta entrega al realizar el proceso Lean UX me ayudó a identificar las tendencias de los segmentos objetivos y las necesidades que representan opotunidades para nuestro proyecto en el mercado. Hacer una investigación me hizo aprender como es que se perciben los problemas desde diferentes perspectivas. <br>**TP**<br>Para el desarrollo de la aplicación mobile y lograr los estilos planteados en nuestro diseño tuve que consultar diferentes temas. <br>**TB2**<br> Para esta tuve que poner enfasis en el kotlin, porque fue un punto que flaqueó la entrega anterior.<br><br>**Rodrigo Liberato**<br/>**TB1**<br/>El aprendizaje durante esta etapa del proyecto me ayudo a entender el valor del proceso de desarrollo de una aplicacion movil y la complejidad detras de esta. <br/>**TP**<br/> Durante esta entrega se puso en practica lo aprendido de la anterior iteracion y se hicieron las mejoras respectivas para entender el proceso de desarrollo de una aplicacion movil y su conexion con servicios externos <br> **Adriana Diestra**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. <br/>**TP**<br/>  Durante esta entrega se puso en práctica lo aprendido en la iteración anterior, aplicando mejoras que permitieron comprender de manera más profunda el proceso de desarrollo de una aplicación móvil y su integración.  <br/>**TB2**<br>Durante esta entrega se aplicaron todos los conocimientos adquiridos en las iteraciones anteriores, logrando culminar el desarrollo de la aplicación en Kotlin. Gracias a las mejoras e integraciones realizadas, se consolidó una versión completa y funcional del sistema, que refleja el dominio de las herramientas y prácticas trabajadas a lo largo del proyecto.           <br> **Moises Espinoza**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. | Como equipo reconocemos que el aprendizaje permanente es fundamental para estar siempre a la vanguardia y mantener la calidad de nuestro producto. Identificar las nuevas tendencias de tecnologías y metodologías nos ayudará a elegir las mejores alternativas de desarrollo a lo largo del proyecto. La implementación de Domain Driven Design y diseño de arquitectura en dominios, uso de control de versiones, metodologías ágiles, nos permitieron alcanzar competencias técnicas que nos hacen crecer como profesionales. |
+| Criterio específico                                                                                                                     | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Omar Berrocal**<br/>**TB1**<br/>Durante esta entrega volví a revisar conceptos generales y técnicos de métodos y desarrollos agiles, para poder planificar y realizar el proyecto acorde a los estándares y aplicando buenas prácticas de desarrollo. De igual manera para absolver las dudas de mis compañeros sobre como vamos a trabajar y que modelo usaremos, como es el gitflow, conventional commits, entre otros.<br>**TP**<br>Durante esta entrega busqué la manera de implementar mejores prácticas en el manejo del proyecto y no repetir los errores de la primera entrega. Además apoyé con el desarrollo de vistas de la aplicación mobile para lo que repasar como funcionaba el backend y el negocio. <br>**TB2**<br> En esta entrega tuve que aplicar prácticas de refactorización de codigo y orden de carpetas para una mejor organización. Tambien tuve que cumplir un objetivo en un tiempo fijado por el equipo. <br> <br>**Rodrigo Liberato**<br/>**TB1**<br/>Durante esta entrega me comprometi a entender mejor el estado de los contexto embedidos ysu proceso para llegar al estado final de desarrollo. <br/>**TP**<br/>Durante esta entrega parcial me dedique a ayudar con el desarrollo del aplicativo movil y a hacer el deploy y brindar mejoras en el backend de la aplicacion. <br>**Adriana Diestra** <br/>**TB1**<br/>Durante esta entrega apliqué conceptos de metodologías ágiles y buenas prácticas como Gitflow y conventional commits, además de técnicas de especificación de requisitos (user stories, impact mapping y backlog) para planificar el proyecto de manera ordenada y conforme a estándares. <br/>**TP**<br>Durante esta entrega parcial participé activamente en el desarrollo del Sprint, enfocándome en la implementación del login del frontend. Este avance permitió fortalecer la funcionalidad base del aplicativo y asegurar una mejor experiencia de acceso para los usuarios. <br/>**TB2**<br>Durante esta entrega participé activamente en el desarrollo del Sprint 2, enfocándome en la implementación del módulo de login para la aplicación. Este avance permitió consolidar la funcionalidad base del sistema, garantizando un acceso seguro y fluido para los usuarios. Además, sentó las bases para las siguientes funcionalidades que se incorporarán en los próximos sprints.                                                         | Como equipo repasamos conceptos vistos anteriormente, como Event Storming de Scrum, patrones de diseño de software, Domain Driven Design, diagramas y métodos ágiles, demostrando así la necesidad de poner en práctica constantemente lo aprendido para su uso en proyectos de software.                                                                                                                                                                                                                                         |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.  | **Omar Berrocal**<br/>**TB1**<br/>Para esta entrega al realizar el proceso Lean UX me ayudó a identificar las tendencias de los segmentos objetivos y las necesidades que representan opotunidades para nuestro proyecto en el mercado. Hacer una investigación me hizo aprender como es que se perciben los problemas desde diferentes perspectivas. <br>**TP**<br>Para el desarrollo de la aplicación mobile y lograr los estilos planteados en nuestro diseño tuve que consultar diferentes temas. <br>**TB2**<br> Para esta tuve que poner enfasis en el kotlin, porque fue un punto que flaqueó la entrega anterior.<br><br>**Rodrigo Liberato**<br/>**TB1**<br/>El aprendizaje durante esta etapa del proyecto me ayudo a entender el valor del proceso de desarrollo de una aplicacion movil y la complejidad detras de esta. <br/>**TP**<br/> Durante esta entrega se puso en practica lo aprendido de la anterior iteracion y se hicieron las mejoras respectivas para entender el proceso de desarrollo de una aplicacion movil y su conexion con servicios externos <br> **Adriana Diestra**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. <br/>**TP**<br/> Durante esta entrega se puso en práctica lo aprendido en la iteración anterior, aplicando mejoras que permitieron comprender de manera más profunda el proceso de desarrollo de una aplicación móvil y su integración. <br/>**TB2**<br>Durante esta entrega se aplicaron todos los conocimientos adquiridos en las iteraciones anteriores, logrando culminar el desarrollo de la aplicación en Kotlin. Gracias a las mejoras e integraciones realizadas, se consolidó una versión completa y funcional del sistema, que refleja el dominio de las herramientas y prácticas trabajadas a lo largo del proyecto. <br> **Moises Espinoza**<br/>**TB1**<br/>En esta fase utilicé entrevistas y herramientas de needfinding (user personas, task matrix, journey mapping y empathy mapping) que me permitieron comprender mejor a los usuarios, detectar oportunidades y afianzar la importancia de seguir aprendiendo y adaptándome para el desarrollo del proyecto. | Como equipo reconocemos que el aprendizaje permanente es fundamental para estar siempre a la vanguardia y mantener la calidad de nuestro producto. Identificar las nuevas tendencias de tecnologías y metodologías nos ayudará a elegir las mejores alternativas de desarrollo a lo largo del proyecto. La implementación de Domain Driven Design y diseño de arquitectura en dominios, uso de control de versiones, metodologías ágiles, nos permitieron alcanzar competencias técnicas que nos hacen crecer como profesionales. |
 
 ## Objetivos SMART
 
@@ -249,12 +250,12 @@ Ser una startup referente en el desarrollo de soluciones digitales para espacios
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto                                           | Alumno                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ---------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Omar](assets/chapter-I/Intergrante-Omar.jpg) | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
-| <img src="assets/chapter-I/Adriana.png" width="280"/>  | Diestra Zambrano Adriana Maria  | Soy estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                         |
-| ![Moises](assets/chapter-I/Moises-foto.jpg)    | Espinoza Chávez Moises          | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                      |
-| ![Rodrigo](assets/chapter-I/rodrigo.jpg)      | **Rodrigo Liberato Saldaña**    | Soy estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                                                                                                           |
+| Foto                                                  | Alumno                          | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Omar](assets/chapter-I/Intergrante-Omar.jpg)        | Berrocal Ramirez Omar Christian | Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona que le gusta asumir nuevos retos y muy capaz. Además considero importante la cualidad de saber escuchar y respetar la opinión de los demás, así se aprende algo nuevo siempre. Mis hoobies son el baile y los videojuegos, siendo este último que me hizo optar por una carrera relacionada a la tecnología y mis gustos. |
+| <img src="assets/chapter-I/Adriana.png" width="280"/> | Diestra Zambrano Adriana Maria  | Soy estudiante de Ingeniería de Software con interés en el desarrollo web, especialmente en el área de frontend. Me apasiona crear interfaces ordenadas, intuitivas y visualmente atractivas. Soy una persona proactiva, con gran disposición para aprender nuevas tecnologías y una actitud positiva que favorece el trabajo en equipo.                                                                                                                         |
+| ![Moises](assets/chapter-I/Moises-foto.jpg)           | Espinoza Chávez Moises          | Estudio la carrera de Ingeniería de Software y actualmente me encuentro cursando el sexto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje, tengo conocimientos en C#, C++, HTML, que me ayudarán en el desarrollo eficaz de este proyecto.                                                                                                                                                                                                      |
+| ![Rodrigo](assets/chapter-I/rodrigo.jpg)              | **Rodrigo Liberato Saldaña**    | Soy estudiante de Ingeniería de Software con interés en Ciencia de Datos, Ciberseguridad y desarrollo web en .NET, Spring Boot, etc. Me comprometo a apoyar activamente al grupo y asumir el rol de líder para encaminar al equipo hacia el cumplimiento de sus metas.                                                                                                                                                                                           |
 
 ## 1.2. Solution Profile
 
@@ -735,12 +736,9 @@ Segmento 1 - Freelancers:
 
 ![EM](assets/chapter-II/Empathy-Map-Brainstorm.png)
 
-
-
 Segmento 2 - Propietario de inmuebles:
 
 ![EMP](assets/chapter-II/empathy-mapping.png)
-
 
 ### 2.3.5. Ubiquitous Language
 
@@ -819,7 +817,6 @@ Segmento 2 - Propietario de inmuebles:
 | EP-04   | Experiencia del desarrollo  | Esta enfocada en establecer las metas y la metodología de desarrollo, incluyendo las herramientas y procesos utilizados para asegurar la calidad y eficiencia del proyecto. |
 | EP-05   | Seguridad de la aplicacion  | Esta enfocado en ofrecer un entorno seguro y confiable para los usuarios, garantizando la protección de datos y la privacidad en todas las transacciones.                   |
 
-
 ### Technical Stories
 
 | Story ID  | Título                                  | Descripción                                                                                                                                              | Criterios de Aceptación (Formato Gherkin)                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Epic ID |
@@ -830,9 +827,6 @@ Segmento 2 - Propietario de inmuebles:
 | **TS-04** | Configuración del CI/CD                 | **Como Developer**, quiero automatizar el proceso de integración y despliegue continuo para asegurar versiones estables en cada release.                 | **Escenario 1: Pipeline exitoso en push a main**<br>**Dado que** el Developer hace push a la rama principal,<br>**Cuando** el pipeline se ejecuta en el servidor de CI/CD,<br>**Entonces** debe compilar el proyecto, ejecutar las pruebas y desplegar automáticamente la versión actualizada si todas las validaciones son exitosas.                                                                                                                                                         | EP-04   |
 | **TS-05** | Pruebas unitarias e integradas          | **Como Developer**, quiero crear y ejecutar pruebas automatizadas para validar la lógica del sistema antes de los despliegues.                           | **Escenario 1: Ejecución automática de pruebas**<br>**Dado que** hay modificaciones en el código fuente del repositorio,<br>**Cuando** el pipeline de integración se ejecuta,<br>**Entonces** todas las pruebas unitarias e integradas deben pasar exitosamente antes de permitir el merge o deploy.                                                                                                                                                                                          | EP-04   |
 
-
-
-
 ### Spike Stories
 
 | Story ID | Título                                          | Descripción                                                                                                                                             | Objetivo de investigación                                                         | Criterios de Aceptación                                                                     |
@@ -842,7 +836,6 @@ Segmento 2 - Propietario de inmuebles:
 | SP-03    | Investigación de métodos de pago seguros        | Evaluar APIs de pago como Stripe, PayPal y Culqi para asegurar una integración segura y sencilla.                                                       | Determinar la API más adecuada para la funcionalidad de pagos del sistema.        | Se desarrolla un prototipo sandbox funcional y se documentan conclusiones técnicas.         |
 | SP-04    | Optimización de rendimiento del frontend        | Analizar técnicas de lazy loading, cacheo y optimización de recursos para mejorar la velocidad de carga de la aplicación.                               | Reducir tiempos de carga y aumentar el puntaje de rendimiento.                    | Reporte Lighthouse con mejora ≥ 20 % respecto al baseline y recomendaciones implementadas.  |
 | SP-05    | Evaluación de autenticación multifactor (MFA)   | Investigar la viabilidad de integrar MFA mediante correo, app o SMS usando servicios como Firebase Auth o Auth0.                                        | Aumentar la seguridad de los usuarios mediante autenticación multifactor.         | Documento técnico con conclusiones y prototipo de prueba que valide la integración MFA.     |
-
 
 ### 2.4.2. Impact Mapping
 
@@ -915,13 +908,13 @@ El usuario se crea una cuenta comun, busca la oficina a la cual quiere dejar una
 
 ![ContextMapping](assets/chapter-II/contextmapping_v2.png)
 
-El sistema posee todos los siguientes Contextos: User, Property Owner, Offices, Searching, Rating y Messaging.  Cada uno llega a poseer una parte del dominio y se comunican a traves de las relaciones mostradas en el cuadro.
+El sistema posee todos los siguientes Contextos: User, Property Owner, Offices, Searching, Rating y Messaging. Cada uno llega a poseer una parte del dominio y se comunican a traves de las relaciones mostradas en el cuadro.
 
 **User Context y Property Owner:** Gestiona las identidades, autenticación y perfil de usuarios comunes, como personas que buscan los lugares para rentar. Este contexto posee relaciones con Property Owner debido a que ambos comparten una base común, la cual seria `BaseUser`. Esto evita que haya duplicación. En cuanto a las oficinas y messaging, estos otros dos contextos dependen de User para que la aplicación funcione correctamente y el usuario pueda manejarlas.
 **Offices Context:** El rol que tiene este contexto, es el cual maneja la información acerca de las oficinas y el manejo de la información dentro de estas. Las relaciones que tiene son los Usuarios, debido a que estos son los que consultan y los que proveen datos dentro de este contexto. Además que el Contexto de Searching depende de las Oficinas para que se puedan mostrar los datos correctos. Por ultimo, Rating maneja las calificaciones de las oficinas.
 **Searching Context:** Permite la búsqueda inteligente de las oficinas gracias a filtrado o criterios específicos que el usuario busque en una oficina. Tiene un Supplier con Offices, debido a que es el contexto de donde consume la información.
 **Rating Context:** Es el contexto que permite manejar las calificaciones a las oficinas. La conexión con Office es debido a que necesita asociar una validación a una oficina especifica.
-**Messaging Context:** Este contexto facilita la comunicación entre los propietarios y usuarios comunes para hacer los negocios dentro de la app de una forma segura. La conexión que tiene con usuarios y property owner es debido a que maneja la información para la comunicación de ambos contextos. 
+**Messaging Context:** Este contexto facilita la comunicación entre los propietarios y usuarios comunes para hacer los negocios dentro de la app de una forma segura. La conexión que tiene con usuarios y property owner es debido a que maneja la información para la comunicación de ambos contextos.
 
 ### 2.5.3. Software Architecture
 
@@ -1794,40 +1787,34 @@ URL del swagger: [https://workstation-arqui-fgbngphuh0g4a8at.canadacentral-01.az
 
 El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de un proyecto, donde el equipo define los objetivos y la estrategia para cumplirlos. En este caso, nuestro objetivo principal es implementar la landing page de la aplicación, asegurando una presentación efectiva del producto.
 
-
-| Sprint #                           | Sprint 1                                                                                                                                                                                                                                                                            |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Date**                           | 2025-09-02                                                                                                                                                                                                                                                                          |
-| Time                               | 1:00 PM                                                                                                                                                                                                                                                                             |
-| Location                           | Virtual - Meet                                                                                                                                                                                                                                                                      |
-| Prepared By                        | Adriana Diestra                                                                                                                                                                                                                                                                   |
-| Attendees (to planning meeting)    | Rodrigo Liberato, Omar Berrocal, Moises Espinoza, Adriana Diestra                                                                                                                                                                                      |
-| Sprint n - 1 Review Summary        | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                          |
-| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                          |
+| Sprint #                           | Sprint 1                                                                                                                                                                                                                                                                                                        |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-09-02                                                                                                                                                                                                                                                                                                      |
+| Time                               | 1:00 PM                                                                                                                                                                                                                                                                                                         |
+| Location                           | Virtual - Meet                                                                                                                                                                                                                                                                                                  |
+| Prepared By                        | Adriana Diestra                                                                                                                                                                                                                                                                                                 |
+| Attendees (to planning meeting)    | Rodrigo Liberato, Omar Berrocal, Moises Espinoza, Adriana Diestra                                                                                                                                                                                                                                               |
+| Sprint n - 1 Review Summary        | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                      |
+| Sprint n - 1 Retrospective Summary | Este es el primer Sprint, por lo que este campo no aplica.                                                                                                                                                                                                                                                      |
 | Sprint 1 Goal                      | Implementar la landing page de ClearCost, brindando una primera experiencia visual y funcional del producto. Este objetivo busca validar la propuesta de valor a través del diseño, estructura y navegabilidad. El éxito se medirá con el despliegue operativo de la página y la recepción de feedback inicial. |
-| Sprint 1 Velocity                  | Nuestro equipo puede aceptar hasta 17 Story Points.                                                                                                                                                                                                                                 |
-| Sum of Story Points                | La suma de Story Points atendidos es de 15.                                                                                                                                                                                                                                         |
-
+| Sprint 1 Velocity                  | Nuestro equipo puede aceptar hasta 17 Story Points.                                                                                                                                                                                                                                                             |
+| Sum of Story Points                | La suma de Story Points atendidos es de 15.                                                                                                                                                                                                                                                                     |
 
 ##### 4.2.1.2. Sprint Backlog 1
 
 Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
 
-
-| **Sprint #**   | Sprint 1                                |                    |                                                                       |                                                                           |                      |                  |            |
-| -------------- | --------------------------------------- | ------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
-| **User Story** |                                         | **Work-Item/task** |                                                                       |                                                                           |                      |                  |            |
-| **ID**         | **Título**                              | **ID**             | **Título**                                                            | **Descripción**                                                           | **Estimación (hrs)** | **Assigned to**  | **Status** |
-| US-31          | Desarrollo del landing page                 | T01                | Crear la estructura y secciones principales del landing page.          | Explorar fácilmente el landing page para acceder a la información clave.    | 1                    | Rodrigo Liberato | Done       |
-
+| **Sprint #**   | Sprint 1                    |                    |                                                               |                                                                          |                      |                  |            |
+| -------------- | --------------------------- | ------------------ | ------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------- | ---------------- | ---------- |
+| **User Story** |                             | **Work-Item/task** |                                                               |                                                                          |                      |                  |            |
+| **ID**         | **Título**                  | **ID**             | **Título**                                                    | **Descripción**                                                          | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| US-31          | Desarrollo del landing page | T01                | Crear la estructura y secciones principales del landing page. | Explorar fácilmente el landing page para acceder a la información clave. | 1                    | Rodrigo Liberato | Done       |
 
 ##### 4.2.1.3. Development Evidence for Sprint Review
-
 
 En este punto evidenciaremos el desarrollo y el apoyo por parte de los participantes del equipo en el desarrollo del frontend estático de la Landing Page de nuestro proyecto.
 
 ![Development-evidence](assets/chapter-IV/SprintReview.png)
-
 
 ##### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1935,35 +1922,34 @@ Estas muestras se tomaron antes de la culminación del plazo establecido para el
 Commits
 ![commits](assets/chapter-IV/commits-mobile-sprint1.png)
 
-
 ### 5.2.2. Sprint 2
 
 #### 5.2.2.1. Sprint Planning 2.
 
 El Sprint Planning 2 tuvo como objetivo asegurar la continuidad del trabajo en este entregable. Durante este sprint se lograron los objetivos planteados. Estas tareas permitieron consolidar el progreso del proyecto y fortalecer su presentación visual y funcional.
 
-| Sprint #                           | Sprint 2                                                                                                                                                                                                                        |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Date**                           | 2025-10-23                                                                                                                                                                                                                      |
-| Time                               | 7:00 PM                                                                                                                                                                                                                         |
-| Location                           | Virtual - Meet                                                                                                                                                                                                                  |
-| Prepared By                        | Adriana Diestra                                                                                                                                                                                                                |
-| Attendees (to planning meeting)    | Rodrigo Liberato, Omar Berrocal, Moises Espinoza, Adriana Diestra                                                                                                                                   |
+| Sprint #                           | Sprint 2                                                                                                                                                                                                                                                              |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Date**                           | 2025-10-23                                                                                                                                                                                                                                                            |
+| Time                               | 7:00 PM                                                                                                                                                                                                                                                               |
+| Location                           | Virtual - Meet                                                                                                                                                                                                                                                        |
+| Prepared By                        | Adriana Diestra                                                                                                                                                                                                                                                       |
+| Attendees (to planning meeting)    | Rodrigo Liberato, Omar Berrocal, Moises Espinoza, Adriana Diestra                                                                                                                                                                                                     |
 | Sprint n - 2 Review Summary        | Durante este sprint se logró finalizar la aplicación Android, mejorar la landing page y avanzar en el desarrollo de la aplicación en Flutter. Estas tareas permitieron consolidar el progreso general del proyecto y fortalecer tanto su parte visual como funcional. |
-| Sprint n - 2 Retrospective Summary | La ejecución del sprint fue satisfactoria, cumpliendo los objetivos planteados dentro del tiempo establecido. El equipo mantuvo una buena coordinación y logró avanzar significativamente en el desarrollo multiplataforma del proyecto.                                                                                                            |
-| Sprint 2 Goal                      | La prioridad en este sprint fue culminar la aplicación Android, optimizar la landing page y continuar con el desarrollo de la aplicación en Flutter, con el propósito de mejorar la experiencia del usuario y mostrar un producto más completo y funcional.         |
-| Sprint 2 Velocity                  | Nuestro equipo puede aceptar hasta 10 Story Points.                                                                                                                                                                             |
-| Sum of Story Points                | La suma de Story Points atendidos es de 10.                                                                                                                                                                                     |
+| Sprint n - 2 Retrospective Summary | La ejecución del sprint fue satisfactoria, cumpliendo los objetivos planteados dentro del tiempo establecido. El equipo mantuvo una buena coordinación y logró avanzar significativamente en el desarrollo multiplataforma del proyecto.                              |
+| Sprint 2 Goal                      | La prioridad en este sprint fue culminar la aplicación Android, optimizar la landing page y continuar con el desarrollo de la aplicación en Flutter, con el propósito de mejorar la experiencia del usuario y mostrar un producto más completo y funcional.           |
+| Sprint 2 Velocity                  | Nuestro equipo puede aceptar hasta 10 Story Points.                                                                                                                                                                                                                   |
+| Sum of Story Points                | La suma de Story Points atendidos es de 10.                                                                                                                                                                                                                           |
 
 #### 5.2.2.2. Sprint Backlog 2.
 
-| **Sprint #**   | Sprint 2                                          |        |                                              |                                                                                                                                                                                                |                      |                              |            |
-| -------------- | ------------------------------------------------- | ------ | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------- | ---------- |
-| **User Story** |                                                   |        |                                              |                                                                                                                                                                                                |                      |                              |            |
-| **ID**         | **Título**                                        | **ID** | **Título**                                   | **Descripción**                                                                                                                                                                                | **Estimación (hrs)** | **Assigned to**              | **Status** |
-| US-31         | Navegación por el landing page                     | T20    | Implementar navegación en el landing page          | Como usuario quiero explorar fácilmente el landing page para acceder a la información clave.                      | 3                    | Rodrigo Liberato             | PDone   |
-| US-38          | Registro de Propietarios                              | T21    | Implementar registro de propietarios        | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios.          | 1                    | Adriana Diestra             | Done       |
-| US-39          | Publicación de Oficinas                            | T22    | Implementar publicación de oficinas      | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas.        | 2                    | Omar Berrocal           | Done       |
+| **Sprint #**   | Sprint 2                       |        |                                           |                                                                                                                              |                      |                  |            |
+| -------------- | ------------------------------ | ------ | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
+| **User Story** |                                |        |                                           |                                                                                                                              |                      |                  |            |
+| **ID**         | **Título**                     | **ID** | **Título**                                | **Descripción**                                                                                                              | **Estimación (hrs)** | **Assigned to**  | **Status** |
+| US-31          | Navegación por el landing page | T20    | Implementar navegación en el landing page | Como usuario quiero explorar fácilmente el landing page para acceder a la información clave.                                 | 3                    | Rodrigo Liberato | PDone      |
+| US-38          | Registro de Propietarios       | T21    | Implementar registro de propietarios      | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios.                        | 1                    | Adriana Diestra  | Done       |
+| US-39          | Publicación de Oficinas        | T22    | Implementar publicación de oficinas       | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas. | 2                    | Omar Berrocal    | Done       |
 
 ##### 4.2.2.3. Development Evidence for Sprint Review
 
@@ -1997,7 +1983,6 @@ El Sprint Planning 2 tuvo como objetivo asegurar la continuidad del trabajo en e
   </tr>
 
 </tbody></table>
-
 
 **Flutter Application**
 
@@ -2137,9 +2122,7 @@ En este segundo Sprint, veremos los archivos .feature relacionados a los user st
     <td>&nbsp;&nbsp;&nbsp;<br>14/11/2025</td>
   </tr>
 
-
 </tbody></table>
-
 
 ##### 4.2.2.5. Execution Evidence for Sprint Review
 
@@ -2167,9 +2150,7 @@ enlance al video: https://www.youtube.com/watch?v=0pF87XxPrjI
 ![kotlin-evidence-4](assets/chapter-IV/KotlinEvidence4.png)
 ![kotlin-evidence-5](assets/chapter-IV/KotlinEvidence5.png)
 
-
-
-##### 4.2.1.6. Services Documentation Evidence for Sprint Review
+##### 4.2.2.6. Services Documentation Evidence for Sprint Review
 
 En este sprint se logró documentar con Open API el API Rest desarrollado en C# con .NET 9. A continuación se muestra evidencia de la documentación generada automáticamente con Swagger.
 
@@ -2193,37 +2174,92 @@ Por ultimo la documentación de los Schemas en swagger, donde podemos ver que ti
 
 ![swagger-schemas-type](assets/chapter-IV/Schemas-sprint1-type-data.png)
 
-
-##### 4.2.1.7. Software Deployment Evidence for Sprint Review
+##### 4.2.2.7. Software Deployment Evidence for Sprint Review
 
 Para el despligue de la aplicacion en Android, se utilizó Firebase, por lo que se siguieron todos estos pasos.
 
 ![pd1](assets/chapter-IV/procedure_deployment.png)
 
-
 ![pd2](assets/chapter-IV/procedure_deployment2.png)
-
 
 ![pd0](assets/chapter-IV/procedure_deployment0.png)
 
-
 ![pd3](assets/chapter-IV/procedure_deployment3.png)
-
 
 ![pd4](assets/chapter-IV/procedure_deployment4.png)
 
-
 ![pd5](assets/chapter-IV/procedure_deployment5.png)
 
+##### 4.2.2.8. Team Collaboration Insights during Sprint
 
-
-
-##### 4.2.1.8. Team Collaboration Insights during Sprint
-
-Durante el desarrollo del sprint, el equipo culminó con la elaboración de la plataforma en Android, y se desarrolló la aplicacion en Flutter. Por ello a continuación se muestran los gráficos de colaboración obtenidas del repositorio de desarrollo en github. 
+Durante el desarrollo del sprint, el equipo culminó con la elaboración de la plataforma en Android, y se desarrolló la aplicacion en Flutter. Por ello a continuación se muestran los gráficos de colaboración obtenidas del repositorio de desarrollo en github.
 
 ![col](assets/chapter-IV/colaboracion.png)
 
+#### Sprint 3
+
+##### 4.2.3.1. Sprint Planning 3
+
+##### 4.2.3.2. Sprint Backlog 3
+
+##### 4.2.3.3. Development Evidence for Sprint Review
+
+##### 4.2.3.4. Testing Suite Evidence for Sprint Review
+
+##### 4.2.3.5. Execution Evidence for Sprint Review
+
+##### 4.2.3.6. Services Documentation Evidence for Sprint Review
+
+###### Users
+
+| Método | Endpoint                        | Descripción                                  |
+| ------ | ------------------------------- | -------------------------------------------- |
+| GET    | `/api/workstation/User`         | Obtiene todos los usuarios del sistema.      |
+| GET    | `/api/workstation/User/{id}`    | Obtiene un usuario por su ID único.          |
+| PUT    | `/api/workstation/User/{id}`    | Actualiza los datos de un usuario existente. |
+| DELETE | `/api/workstation/User/{id}`    | Elimina un usuario del sistema.              |
+| POST   | `/api/workstation/User/sign-up` | Crea un nuevo usuario en el sistema.         |
+| POST   | `/api/workstation/User/login`   | Inicia sesión en el sistema.                 |
+
+###### Offices
+
+| Método | Endpoint                                         | Descripción                                           |
+| ------ | ------------------------------------------------ | ----------------------------------------------------- |
+| GET    | `/api/workstation/Office`                        | Obtiene todas las oficinas disponibles en el sistema. |
+| POST   | `/api/workstation/Office`                        | Crea una nueva oficina en el sistema.                 |
+| GET    | `/api/workstation/Office/{id}`                   | Obtiene una oficina específica por su ID único.       |
+| PUT    | `/api/workstation/Office/{id}`                   | Actualiza los datos de una oficina existente.         |
+| DELETE | `/api/workstation/Office/{id}`                   | Elimina una oficina del sistema.                      |
+| GET    | `/api/workstation/Office/by-location/{location}` | Busca oficinas por ubicación específica.              |
+
+###### Ratings
+
+| Método | Endpoint                                            | Descripción                                                     |
+| ------ | --------------------------------------------------- | --------------------------------------------------------------- |
+| POST   | `/api/workstation/Rating`                           | Crea una nueva calificación para una oficina.                   |
+| GET    | `/api/workstation/Rating/office/{officeId}`         | Obtiene todas las calificaciones de una oficina específica.     |
+| GET    | `/api/workstation/Rating/office/{officeId}/average` | Calcula y obtiene el promedio de calificaciones de una oficina. |
+
+###### Contracts
+
+| Método | Endpoint                                                | Descripción                                                       |
+| ------ | ------------------------------------------------------- | ----------------------------------------------------------------- |
+| POST   | `/api/workstation/Contracts`                            | Crea un nuevo contrato en el sistema.                             |
+| GET    | `/api/workstation/Contracts/{id}`                       | Obtiene un contrato por su identificador.                         |
+| GET    | `/api/workstation/Contracts/user/{userId}`              | Obtiene todos los contratos asociados a un usuario.               |
+| GET    | `/api/workstation/Contracts/active`                     | Obtiene todos los contratos actualmente activos.                  |
+| POST   | `/api/workstation/Contracts/{contractId}/clauses`       | Agrega una nueva cláusula a un contrato existente.                |
+| POST   | `/api/workstation/Contracts/{contractId}/signatures`    | Firma un contrato agregando la firma del usuario correspondiente. |
+| POST   | `/api/workstation/Contracts/{contractId}/activate`      | Activa un contrato en estado pendiente.                           |
+| POST   | `/api/workstation/Contracts/{contractId}/compensations` | Agrega una compensación al contrato.                              |
+| GET    | `/api/workstation/Contracts/{contractId}/compensations` | Obtiene todas las compensaciones registradas para un contrato.    |
+| GET    | `/api/workstation/Contracts/{contractId}/receipt`       | Obtiene el comprobante de pago asociado a un contrato.            |
+| PUT    | `/api/workstation/Contracts/{contractId}/receipt`       | Actualiza el comprobante de pago de un contrato.                  |
+| POST   | `/api/workstation/Contracts/{contractId}/finish`        | Finaliza un contrato registrando el motivo correspondiente.       |
+
+##### 4.2.3.7. Software Deployment Evidence for Sprint Review
+
+##### 4.2.3.8. Team Collaboration Insights during Sprint
 
 ### 4.3. Validation Interviews
 
@@ -2296,9 +2332,6 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
 - **Problema 3: El diseño y los elementos visuales no son del todo consistentes**
   - **Tarea Evaluada:** Visualizar página
   - **Recomendación:** Además de unificar el estilo visual, incorporar componentes reutilizables lo que permite la curva de aprendizaje al reconocer patrones visuales comunes.
- 
-
-
 
 # Conclusiones
 
@@ -2336,10 +2369,10 @@ Con respeto a esta entrevista, elegimos a un propietario de oficina, nos contó 
 5. **Planificar nuevos sprints enfocados en crecimiento funcional**  
    A partir del feedback obtenido, se recomienda definir próximos sprints orientados a funcionalidades adicionales como notificaciones, gestión avanzada de pagos, alertas de disponibilidad, y mejoras en la experiencia de usuario.
 
-# Video App Validation
+## Video App Validation
 
-## Video About the product
+### Video About the product
 
 URL: [About The Product](https://youtu.be/0pF87XxPrjI)
 
-## Video About the team
+### Video About the team
