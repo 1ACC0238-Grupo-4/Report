@@ -2204,6 +2204,10 @@ Durante el desarrollo del sprint, el equipo culminó con la elaboración de la p
 
 ##### 4.2.3.3. Development Evidence for Sprint Review
 
+Dentro del desarrollo de Android se realizo la conexion al backend para el inicio y registro de sesion.
+
+![Sprint3_developmentAndroid1](assets/chapter-IV/Sprint3developmentAndroid1.jpg)
+
 Dentro del desarrollo de flutter, uno de los grandes añadidos a la aplicacion fue la opcion de reservas gracias a servicio de Contratos. Se creo las pages `contract_page` y `contract_details_page` todo esto llamando de un endpoint de nuestro backend para la creacion del contrato y la reserva.
 
 ![Sprint3_development1](assets/chapter-IV/Sprint3_development1.png)
