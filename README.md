@@ -1804,11 +1804,11 @@ El Sprint Planning 1 es una reunión esencial para iniciar el primer sprint de u
 
 Para el primer sprint, desarrollamos la estructura y las funcionalidades básicas de la landing page, así como el diseño visual y la barra de navegación.
 
-| **Sprint #**   | Sprint 1                    |                    |                                                               |                                                                          |                      |                  |            |
-| -------------- | --------------------------- | ------------------ | ------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------- | ---------------- | ---------- |
-| **User Story** |                             | **Work-Item/task** |                                                               |                                                                          |                      |                  |            |
-| **ID**         | **Título**                  | **ID**             | **Título**                                                    | **Descripción**                                                          | **Estimación (hrs)** | **Assigned to**  | **Status** |
-| US-31          | Desarrollo del landing page | T01                | Crear la estructura y secciones principales del landing page. | Explorar fácilmente el landing page para acceder a la información clave. | 1                    | Rodrigo Liberato | Done       |
+
+| **User Story ID** | **User Story Título**           | **Task ID** | **Task Título**                                            | **Descripción**                                                          | **Estimación (hrs)** | **Assigned To**       | **Status** |
+|-------------------|---------------------------------|-------------|-------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------|------------------------|------------|
+| US-31             | Desarrollo del landing page      | T01         | Crear la estructura y secciones principales del landing page | Explorar fácilmente el landing page para acceder a la información clave. | 1                     | Rodrigo Liberato       | Done       |
+
 
 ##### 4.2.1.3. Development Evidence for Sprint Review
 
@@ -1943,13 +1943,13 @@ El Sprint Planning 2 tuvo como objetivo asegurar la continuidad del trabajo en e
 
 #### 5.2.2.2. Sprint Backlog 2.
 
-| **Sprint #**   | Sprint 2                       |        |                                           |                                                                                                                              |                      |                  |            |
-| -------------- | ------------------------------ | ------ | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------- | ---------- |
-| **User Story** |                                |        |                                           |                                                                                                                              |                      |                  |            |
-| **ID**         | **Título**                     | **ID** | **Título**                                | **Descripción**                                                                                                              | **Estimación (hrs)** | **Assigned to**  | **Status** |
-| US-31          | Navegación por el landing page | T20    | Implementar navegación en el landing page | Como usuario quiero explorar fácilmente el landing page para acceder a la información clave.                                 | 3                    | Rodrigo Liberato | PDone      |
-| US-38          | Registro de Propietarios       | T21    | Implementar registro de propietarios      | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios.                        | 1                    | Adriana Diestra  | Done       |
-| US-39          | Publicación de Oficinas        | T22    | Implementar publicación de oficinas       | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas. | 2                    | Omar Berrocal    | Done       |
+
+| **User Story ID** | **User Story Título**           | **Task ID** | **Task Título**                         | **Descripción**                                                                                                             | **Estimación (hrs)** | **Assigned To**       | **Status** |
+|-------------------|---------------------------------|-------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------------------|------------|
+| US-31             | Navegación por el landing page  | T20         | Implementar navegación en el landing page | Como usuario quiero explorar fácilmente el landing page para acceder a la información clave.                                  | 3                     | Rodrigo Liberato       | Done      |
+| US-38             | Registro de Propietarios        | T21         | Implementar registro de propietarios      | Como propietario, quiero registrar mis datos para poder publicar oficinas y administrar mis espacios.                         | 1                     | Adriana Diestra        | Done       |
+| US-39             | Publicación de Oficinas         | T22         | Implementar publicación de oficinas       | Como propietario, quiero publicar detalles de mis oficinas disponibles para que los freelancers puedan verlas y reservarlas. | 2                     | Omar Berrocal          | Done       |
+
 
 ##### 4.2.2.3. Development Evidence for Sprint Review
 
@@ -2217,6 +2217,14 @@ El Sprint Planning 3 tuvo como objetivo asegurar la continuidad del trabajo en e
 | **Sum of Story Points**            | La suma de Story Points atendidos es de 10.                                                                                                                                                                                                                                            |
 
 ##### 4.2.3.2. Sprint Backlog 3
+
+
+| ID    | Título                                   | ID   | Título de la Tarea                                   | Descripción                                                                                                                                                     | Estimación (hrs) | Assigned to        | Status |
+|-------|-------------------------------------------|------|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------|--------|
+| TS-03 | Integración de autenticación con backend  | T30  | Conexión del login y register al backend              | Como usuario, deseo iniciar sesión y registrarme mediante una autenticación real que se conecte al backend para garantizar seguridad y acceso adecuado.         | 4                | Adriana Diestra     | Done   |
+| US-39 | Implementación del sistema de reservas    | T31  | Creación de `contract_page`                           | Como usuario, quiero generar una reserva mediante la creación de un contrato consumiendo el endpoint del backend para confirmar mi alquiler de manera formal.   | 3                | Rodrigo Liberato       | Done   |
+| US-39 | Visualización del detalle de contratos    | T32  | Implementación de `contract_details_page`             | Como usuario, deseo visualizar los detalles completos de mi contrato de reserva llamando al servicio del backend para revisar información relevante.             | 3                | Rodrigo Liberato     | Done   |
+
 
 ##### 4.2.3.3. Development Evidence for Sprint Review
 
