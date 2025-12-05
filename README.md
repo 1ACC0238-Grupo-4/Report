@@ -2422,6 +2422,14 @@ Asimismo, la vista de la creacion de contratos se encuentran en la siguiente ima
 
 ##### 4.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para el deployment se utilizo Firebase App Distribution, para ello se genero el APK dentro de Android Studio y Visual Studio Code para flutter.
+
+Como ya teniamos una version del Sprint pasado de la version de Android, aqui se tiene la evidencia de su despliegue.
+
+![Sprint3AndroidDeployment](assets/chapter-IV/Sprint3_AndroidDeployment.png)
+
+
+
 ##### 4.2.3.8. Team Collaboration Insights during Sprint
 
 ### 4.3. Validation Interviews
