@@ -2418,6 +2418,14 @@ Como ya teniamos una version del Sprint pasado de la version de Android, aqui se
 
 ![Sprint3AndroidDeployment](assets/chapter-IV/Sprint3_AndroidDeployment.png)
 
+Para la aplicacion de flutter realizamos los mismos pasos, se genero el APK de la aplicacion y se subio a un proyecto hecho en Firebase.
+
+![Sprint3FlutterDeployment](assets/chapter-IV/Sprint3_deploymentFlutter1.png)
+
+![Sprint3FlutterDeployment2](assets/chapter-IV/Sprint3_deploymentFlutter2.png)
+
+![Sprint3FlutterDeployment3](assets/chapter-IV/Sprint3_deploymentFlutter3.png)
+
 ##### 4.2.3.8. Team Collaboration Insights during Sprint
 
 ![Sprint3Insights](assets/chapter-IV/Sprint3_insights.png)
